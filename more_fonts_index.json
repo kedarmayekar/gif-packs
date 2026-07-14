@@ -1,213 +1,266 @@
 [
   {
+    "id": "font_061",
     "name": "Alexbrush Regular Alexbrush Regular",
     "path": "fonts/1/alexbrush_regular.ttf"
   },
   {
+    "id": "font_062",
     "name": "Alumnisans Black Alumnisans Black",
     "path": "fonts/1/alumnisans_black.ttf"
   },
   {
+    "id": "font_063",
     "name": "Alumnisans Blackitalic Alumnisans Blackitalic",
     "path": "fonts/1/alumnisans_blackitalic.ttf"
   },
   {
+    "id": "font_064",
     "name": "Alumnisans Bold Alumnisans Bold",
     "path": "fonts/1/alumnisans_bold.ttf"
   },
   {
+    "id": "font_065",
     "name": "Alumnisans Bolditalic Alumnisans Bolditalic",
     "path": "fonts/1/alumnisans_bolditalic.ttf"
   },
   {
+    "id": "font_066",
     "name": "Alumnisans Extrabold Alumnisans Extrabold",
     "path": "fonts/1/alumnisans_extrabold.ttf"
   },
   {
+    "id": "font_067",
     "name": "Alumnisans Extrabolditalic Alumnisans Extrabolditalic",
     "path": "fonts/1/alumnisans_extrabolditalic.ttf"
   },
   {
+    "id": "font_068",
     "name": "Alumnisans Extralight Alumnisans Extralight",
     "path": "fonts/1/alumnisans_extralight.ttf"
   },
   {
+    "id": "font_069",
     "name": "Alumnisans Extralightitalic Alumnisans Extralightitalic",
     "path": "fonts/1/alumnisans_extralightitalic.ttf"
   },
   {
+    "id": "font_070",
     "name": "Alumnisans Italic Alumnisans Italic",
     "path": "fonts/1/alumnisans_italic.ttf"
   },
   {
+    "id": "font_071",
     "name": "Alumnisans Italic Variablefont Wght Alumnisans Italic Variablefont Wght",
     "path": "fonts/2/alumnisans_italic_variablefont_wght.ttf"
   },
   {
+    "id": "font_072",
     "name": "Alumnisans Light Alumnisans Light",
     "path": "fonts/2/alumnisans_light.ttf"
   },
   {
+    "id": "font_073",
     "name": "Alumnisans Lightitalic Alumnisans Lightitalic",
     "path": "fonts/2/alumnisans_lightitalic.ttf"
   },
   {
+    "id": "font_074",
     "name": "Alumnisans Medium Alumnisans Medium",
     "path": "fonts/2/alumnisans_medium.ttf"
   },
   {
+    "id": "font_075",
     "name": "Alumnisans Mediumitalic Alumnisans Mediumitalic",
     "path": "fonts/2/alumnisans_mediumitalic.ttf"
   },
   {
+    "id": "font_076",
     "name": "Alumnisans Regular Alumnisans Regular",
     "path": "fonts/2/alumnisans_regular.ttf"
   },
   {
+    "id": "font_077",
     "name": "Alumnisans Semibold Alumnisans Semibold",
     "path": "fonts/2/alumnisans_semibold.ttf"
   },
   {
+    "id": "font_078",
     "name": "Alumnisans Semibolditalic Alumnisans Semibolditalic",
     "path": "fonts/2/alumnisans_semibolditalic.ttf"
   },
   {
+    "id": "font_079",
     "name": "Alumnisans Thin Alumnisans Thin",
     "path": "fonts/2/alumnisans_thin.ttf"
   },
   {
+    "id": "font_080",
     "name": "Alumnisans Thinitalic Alumnisans Thinitalic",
     "path": "fonts/2/alumnisans_thinitalic.ttf"
   },
   {
+    "id": "font_081",
     "name": "Antonio Bold Antonio Bold",
     "path": "fonts/3/antonio_bold.ttf"
   },
   {
+    "id": "font_082",
     "name": "Antonio Extralight Antonio Extralight",
     "path": "fonts/3/antonio_extralight.ttf"
   },
   {
+    "id": "font_083",
     "name": "Antonio Light Antonio Light",
     "path": "fonts/3/antonio_light.ttf"
   },
   {
+    "id": "font_084",
     "name": "Antonio Medium Antonio Medium",
     "path": "fonts/3/antonio_medium.ttf"
   },
   {
+    "id": "font_085",
     "name": "Antonio Regular Antonio Regular",
     "path": "fonts/3/antonio_regular.ttf"
   },
   {
+    "id": "font_086",
     "name": "Antonio Semibold Antonio Semibold",
     "path": "fonts/3/antonio_semibold.ttf"
   },
   {
+    "id": "font_087",
     "name": "Antonio Thin Antonio Thin",
     "path": "fonts/3/antonio_thin.ttf"
   },
   {
+    "id": "font_088",
     "name": "Berkshireswash Regular Berkshireswash Regular",
     "path": "fonts/3/berkshireswash_regular.ttf"
   },
   {
+    "id": "font_089",
     "name": "Caveatbrush Regular Caveatbrush Regular",
     "path": "fonts/3/caveatbrush_regular.ttf"
   },
   {
+    "id": "font_090",
     "name": "Eduqldhand Bold Eduqldhand Bold",
     "path": "fonts/3/eduqldhand_bold.ttf"
   },
   {
+    "id": "font_091",
     "name": "Eduqldhand Medium Eduqldhand Medium",
     "path": "fonts/4/eduqldhand_medium.ttf"
   },
   {
+    "id": "font_092",
     "name": "Eduqldhand Regular Eduqldhand Regular",
     "path": "fonts/4/eduqldhand_regular.ttf"
   },
   {
+    "id": "font_093",
     "name": "Eduqldhand Semibold Eduqldhand Semibold",
     "path": "fonts/4/eduqldhand_semibold.ttf"
   },
   {
+    "id": "font_094",
     "name": "Eduqldhand Variablefont Wght Eduqldhand Variablefont Wght",
     "path": "fonts/4/eduqldhand_variablefont_wght.ttf"
   },
   {
+    "id": "font_095",
     "name": "Eduvicwanthandpre Bold Eduvicwanthandpre Bold",
     "path": "fonts/4/eduvicwanthandpre_bold.ttf"
   },
   {
+    "id": "font_096",
     "name": "Eduvicwanthandpre Medium Eduvicwanthandpre Medium",
     "path": "fonts/4/eduvicwanthandpre_medium.ttf"
   },
   {
+    "id": "font_097",
     "name": "Eduvicwanthandpre Regular Eduvicwanthandpre Regular",
     "path": "fonts/4/eduvicwanthandpre_regular.ttf"
   },
   {
+    "id": "font_098",
     "name": "Eduvicwanthandpre Semibold Eduvicwanthandpre Semibold",
     "path": "fonts/4/eduvicwanthandpre_semibold.ttf"
   },
   {
+    "id": "font_099",
     "name": "Eduvicwanthandpre Variablefont Wght Eduvicwanthandpre Variablefont Wght",
     "path": "fonts/4/eduvicwanthandpre_variablefont_wght.ttf"
   },
   {
+    "id": "font_100",
     "name": "Fugazone Regular Fugazone Regular",
     "path": "fonts/4/fugazone_regular.ttf"
   },
   {
+    "id": "font_101",
     "name": "Hennypenny Regular Hennypenny Regular",
     "path": "fonts/5/hennypenny_regular.ttf"
   },
   {
+    "id": "font_102",
     "name": "Homemadeapple Regular Homemadeapple Regular",
     "path": "fonts/5/homemadeapple_regular.ttf"
   },
   {
+    "id": "font_103",
     "name": "Jura Bold Jura Bold",
     "path": "fonts/5/jura_bold.ttf"
   },
   {
+    "id": "font_104",
     "name": "Jura Light Jura Light",
     "path": "fonts/5/jura_light.ttf"
   },
   {
+    "id": "font_105",
     "name": "Jura Medium Jura Medium",
     "path": "fonts/5/jura_medium.ttf"
   },
   {
+    "id": "font_106",
     "name": "Jura Regular Jura Regular",
     "path": "fonts/5/jura_regular.ttf"
   },
   {
+    "id": "font_107",
     "name": "Jura Semibold Jura Semibold",
     "path": "fonts/5/jura_semibold.ttf"
   },
   {
+    "id": "font_108",
     "name": "Marckscript Regular Marckscript Regular",
     "path": "fonts/5/marckscript_regular.ttf"
   },
   {
+    "id": "font_109",
     "name": "Mrdafoe Regular Mrdafoe Regular",
     "path": "fonts/5/mrdafoe_regular.ttf"
   },
   {
+    "id": "font_110",
     "name": "Mrssaintdelafield Regular Mrssaintdelafield Regular",
     "path": "fonts/5/mrssaintdelafield_regular.ttf"
   },
   {
+    "id": "font_111",
     "name": "Poiretone Regular Poiretone Regular",
     "path": "fonts/6/poiretone_regular.ttf"
   },
   {
+    "id": "font_112",
     "name": "Reeniebeanie Regular Reeniebeanie Regular",
     "path": "fonts/6/reeniebeanie_regular.ttf"
   },
   {
+    "id": "font_113",
     "name": "Tangerine Bold Tangerine Bold",
     "path": "fonts/6/tangerine_bold.ttf"
   }
