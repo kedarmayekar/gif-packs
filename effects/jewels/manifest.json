@@ -1,16 +1,72 @@
 {
   "id": "jewels",
   "category": "JewelsGems",
-  "version": 1,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/jewels-v1.zip",
-  "bytes": 164472,
-  "sha256": "293ca2726ad443e193421530400b2ee5e5ca5fbe4f4a73c51dfd0d3670b377a7",
+  "version": 2,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/jewels-v2.zip",
+  "bytes": 1113164,
+  "sha256": "94f8cd42cf791947e0703a10f305717849a53cc1e06d868428c764e0331b7f2f",
   "assets": [
     {
       "effectId": "Diamonds",
       "path": "images/Diamonds.webp",
       "bytes": 164334,
       "sha256": "ea8c1d37267e03e7c4425a627b7e0867c4d3ba9d69d2679eb28b8d0496c19204",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Ruby",
+      "path": "images/Ruby.webp",
+      "bytes": 127250,
+      "sha256": "06e969b3b859a9802ddebff010c3b9b6f95397d9c8caa8d54d0e821ff2c34654",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Pearl",
+      "path": "images/Pearl.webp",
+      "bytes": 82216,
+      "sha256": "ba46e5f59daa16db0aea94cafebbf10160e26ec7b7d3ba93c32fb0169a638248",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Emerald",
+      "path": "images/Emerald.webp",
+      "bytes": 214172,
+      "sha256": "369f89ac4485ccacd18c0ec3cb065ed8c7874e5eb6ad136c314d99d1d8c5cbf6",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Sapphire",
+      "path": "images/Sapphire.webp",
+      "bytes": 135082,
+      "sha256": "96e49b0df0c40243dbcdcd093327497e098862103907048250c5212b88ad895b",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Amethyst",
+      "path": "images/Amethyst.webp",
+      "bytes": 132364,
+      "sha256": "56b7804792e811198834704c1c5b6ae4d1502f3858648c38e89718bf67bd0076",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "GoldRing",
+      "path": "images/GoldRing.webp",
+      "bytes": 128354,
+      "sha256": "18a859a95df7622580d67f5cb2977089d15e4eff2c2be32fd5477dd5af9d843f",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "GoldNecklace",
+      "path": "images/GoldNecklace.webp",
+      "bytes": 128450,
+      "sha256": "b486c28d8ba1e9aeb47e415ead8fcc674fde0e8c43e7b8ff08b29c9c83b621be",
       "width": 1024,
       "height": 1024
     }

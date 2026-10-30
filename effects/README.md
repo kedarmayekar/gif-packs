@@ -1,20 +1,24 @@
-# Realistic effect asset packs — pilot v1
+# Realistic effect assets — collection v2
 
-Five transparent, photorealistic objects for the ImagePicker Galactic Store:
+Version 2 adds 21 realistic transparent effects and preserves the five original
+pilot assets, for 26 effects in total.
 
-| Category | Objects | Archive |
-| --- | --- | --- |
-| Vehicles & Transport | Bus | vehicles-v1.zip |
-| Sports & Games | F1 Car, Football, Bowling Ball | sports-v1.zip |
-| Jewels & Gems | Diamond | jewels-v1.zip |
+| Category | Effects |
+| --- | --- |
+| Vehicles & Transport | Bus, Train, Car, Metro, Aeroplane |
+| Sports & Games | F1 Car, Football, Bowling Ball, Cricket Bat, Tennis Ball, Bowling Pins, Hockey Stick & Puck, Basketball, Baseball, Badminton, Table Tennis, Chess, Dice |
+| Jewels & Gems | Diamond, Ruby, Pearl, Emerald, Sapphire, Amethyst, Gold Ring, Gold Necklace |
 
-Download the archives from the `effects-pilot-v1` GitHub Release. `catalog.json`
-contains version numbers, URLs, byte sizes, SHA-256 checksums and image metadata.
-Per-category manifests contain the same pack records. `previews/` holds smaller
-transparent WebP previews. ZIP files contain only declared `images/*.webp` files.
+Download `vehicles-v2.zip`, `sports-v2.zip`, and `jewels-v2.zip` from the
+`effects-v2` GitHub Release. `catalog.json` and the per-category manifests list
+versions, URLs, file sizes, SHA-256 checksums and image dimensions. `previews/`
+contains smaller transparent WebP previews. Archives contain only the declared
+`images/*.webp` files.
 
-Images were generated using the built-in image_gen tool, reviewed on light/dark
-backgrounds, and encoded as WebP with transparency preserved. They are static
-cutouts; movement and rotation are added by the app. This release does not contain
-multi-frame object animation. Asset versions are independent of store prices and
-ownership. Existing category owners do not need to repurchase the category.
+All objects were generated with the built-in image_gen tool and reviewed against
+light and dark backgrounds. The original five WebP assets are preserved exactly.
+The v1 release remains available. Category ownership and prices are unchanged;
+existing owners can update without repurchasing.
+
+These are static realistic cutouts. Movement, rotation and gem sparkle are added
+by the app; this release does not contain multi-frame object animation.

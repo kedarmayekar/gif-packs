@@ -4,10 +4,10 @@
     {
       "id": "vehicles",
       "category": "VehiclesTransport",
-      "version": 1,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/vehicles-v1.zip",
-      "bytes": 148744,
-      "sha256": "5ffeb6a365c277bbfed84b86c6f77bc3eae01c21edacad65814dd2f6ae806222",
+      "version": 2,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/vehicles-v2.zip",
+      "bytes": 612668,
+      "sha256": "a860e991f8b97ba037d731fae19f104d3fdaad4dd0ac426e07adcabf02231513",
       "assets": [
         {
           "effectId": "Bus",
@@ -16,16 +16,48 @@
           "sha256": "ae59e4848af590ab78f571bc6dc2af1ab4dc8662046dc010dca64ac6ea633b1b",
           "width": 1024,
           "height": 1024
+        },
+        {
+          "effectId": "Train",
+          "path": "images/Train.webp",
+          "bytes": 147564,
+          "sha256": "a861e2f91b3f0ece1ae7b3abfd6fc6610faf26afff8ba45bad0c42c7964f82d7",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Car",
+          "path": "images/Car.webp",
+          "bytes": 106938,
+          "sha256": "541d74cb0d766a7ff5acfce733aff722d09a11e4e689593e5a900e1239d7aba4",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Metro",
+          "path": "images/Metro.webp",
+          "bytes": 127960,
+          "sha256": "5a4cb5b23dc9fbfe89f01df0c56009754cd8ef0738bb32156e9414b56a2ddec8",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Aeroplane",
+          "path": "images/Aeroplane.webp",
+          "bytes": 81018,
+          "sha256": "43e1204561f4db840d19cddb1db3cd2fe9c91f9c0c1bcf88387dc4fea29003dd",
+          "width": 1024,
+          "height": 1024
         }
       ]
     },
     {
       "id": "sports",
       "category": "SportsGames",
-      "version": 1,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/sports-v1.zip",
-      "bytes": 520728,
-      "sha256": "03ba71bff95099faecfba53a4178bdd6266cddafc35152a614cc87ffe2531139",
+      "version": 2,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/sports-v2.zip",
+      "bytes": 2207468,
+      "sha256": "788930f32746f5272c10e5238abf0ef286fa328faca80c2de46aef57e17a847b",
       "assets": [
         {
           "effectId": "F1Car",
@@ -50,22 +82,158 @@
           "sha256": "5aff1b6f104501657223a7425b84ae2de0342fce08017c2c91b4c38e573901bb",
           "width": 1024,
           "height": 1024
+        },
+        {
+          "effectId": "CricketBat",
+          "path": "images/CricketBat.webp",
+          "bytes": 52412,
+          "sha256": "059747ab28f9e5f57206d368a1e1e16d6d69ec54e4d28dad02bf08cdf69b88bd",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "TennisBall",
+          "path": "images/TennisBall.webp",
+          "bytes": 340662,
+          "sha256": "608fd21d58dab514eef08f0dd8a9c817f2b6e8e80902292efa39d1e44daab0a3",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "BowlingPins",
+          "path": "images/BowlingPins.webp",
+          "bytes": 115900,
+          "sha256": "a701c6d0fc3fbfc1ced776aa31d7f97410254744903f639f5f7d3828856c033e",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Hockey",
+          "path": "images/Hockey.webp",
+          "bytes": 81426,
+          "sha256": "ef5ebf319ff7e888fa93029797a36f3ccb17fe64d90a76cf1d30530ab5eebb0c",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Basketball",
+          "path": "images/Basketball.webp",
+          "bytes": 344856,
+          "sha256": "3759dd4b6454433a820ba8c275dc3bc16ed0b581447a230b17e80f5e7a70b3ec",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Baseball",
+          "path": "images/Baseball.webp",
+          "bytes": 209974,
+          "sha256": "4fea2f3918302ecda9f4eff7c8b4eb85929ae5ab0739624b48309e17b32210c6",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Badminton",
+          "path": "images/Badminton.webp",
+          "bytes": 169010,
+          "sha256": "3cffb45a1bce1b4edc8d09ab970de00ef96e9bb8703400b50178c8b83b73fc48",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "TableTennis",
+          "path": "images/TableTennis.webp",
+          "bytes": 164788,
+          "sha256": "f56a71de057a5c339c2353f50e90b34e5ab2b587154c04af7f938b51d728fbd3",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Chess",
+          "path": "images/Chess.webp",
+          "bytes": 109386,
+          "sha256": "51441249a08aea48774dbc85b673acb560ec109811b5d5c5881fd5a8be737def",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Dice",
+          "path": "images/Dice.webp",
+          "bytes": 97158,
+          "sha256": "35b209cf430acef6204e23beaec3172a5d707f60ba96cbf7feb4270a6ac562b5",
+          "width": 1024,
+          "height": 1024
         }
       ]
     },
     {
       "id": "jewels",
       "category": "JewelsGems",
-      "version": 1,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/jewels-v1.zip",
-      "bytes": 164472,
-      "sha256": "293ca2726ad443e193421530400b2ee5e5ca5fbe4f4a73c51dfd0d3670b377a7",
+      "version": 2,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/jewels-v2.zip",
+      "bytes": 1113164,
+      "sha256": "94f8cd42cf791947e0703a10f305717849a53cc1e06d868428c764e0331b7f2f",
       "assets": [
         {
           "effectId": "Diamonds",
           "path": "images/Diamonds.webp",
           "bytes": 164334,
           "sha256": "ea8c1d37267e03e7c4425a627b7e0867c4d3ba9d69d2679eb28b8d0496c19204",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Ruby",
+          "path": "images/Ruby.webp",
+          "bytes": 127250,
+          "sha256": "06e969b3b859a9802ddebff010c3b9b6f95397d9c8caa8d54d0e821ff2c34654",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Pearl",
+          "path": "images/Pearl.webp",
+          "bytes": 82216,
+          "sha256": "ba46e5f59daa16db0aea94cafebbf10160e26ec7b7d3ba93c32fb0169a638248",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Emerald",
+          "path": "images/Emerald.webp",
+          "bytes": 214172,
+          "sha256": "369f89ac4485ccacd18c0ec3cb065ed8c7874e5eb6ad136c314d99d1d8c5cbf6",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Sapphire",
+          "path": "images/Sapphire.webp",
+          "bytes": 135082,
+          "sha256": "96e49b0df0c40243dbcdcd093327497e098862103907048250c5212b88ad895b",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Amethyst",
+          "path": "images/Amethyst.webp",
+          "bytes": 132364,
+          "sha256": "56b7804792e811198834704c1c5b6ae4d1502f3858648c38e89718bf67bd0076",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "GoldRing",
+          "path": "images/GoldRing.webp",
+          "bytes": 128354,
+          "sha256": "18a859a95df7622580d67f5cb2977089d15e4eff2c2be32fd5477dd5af9d843f",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "GoldNecklace",
+          "path": "images/GoldNecklace.webp",
+          "bytes": 128450,
+          "sha256": "b486c28d8ba1e9aeb47e415ead8fcc674fde0e8c43e7b8ff08b29c9c83b621be",
           "width": 1024,
           "height": 1024
         }

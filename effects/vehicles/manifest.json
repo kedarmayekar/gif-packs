@@ -1,16 +1,48 @@
 {
   "id": "vehicles",
   "category": "VehiclesTransport",
-  "version": 1,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/vehicles-v1.zip",
-  "bytes": 148744,
-  "sha256": "5ffeb6a365c277bbfed84b86c6f77bc3eae01c21edacad65814dd2f6ae806222",
+  "version": 2,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/vehicles-v2.zip",
+  "bytes": 612668,
+  "sha256": "a860e991f8b97ba037d731fae19f104d3fdaad4dd0ac426e07adcabf02231513",
   "assets": [
     {
       "effectId": "Bus",
       "path": "images/Bus.webp",
       "bytes": 148616,
       "sha256": "ae59e4848af590ab78f571bc6dc2af1ab4dc8662046dc010dca64ac6ea633b1b",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Train",
+      "path": "images/Train.webp",
+      "bytes": 147564,
+      "sha256": "a861e2f91b3f0ece1ae7b3abfd6fc6610faf26afff8ba45bad0c42c7964f82d7",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Car",
+      "path": "images/Car.webp",
+      "bytes": 106938,
+      "sha256": "541d74cb0d766a7ff5acfce733aff722d09a11e4e689593e5a900e1239d7aba4",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Metro",
+      "path": "images/Metro.webp",
+      "bytes": 127960,
+      "sha256": "5a4cb5b23dc9fbfe89f01df0c56009754cd8ef0738bb32156e9414b56a2ddec8",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Aeroplane",
+      "path": "images/Aeroplane.webp",
+      "bytes": 81018,
+      "sha256": "43e1204561f4db840d19cddb1db3cd2fe9c91f9c0c1bcf88387dc4fea29003dd",
       "width": 1024,
       "height": 1024
     }

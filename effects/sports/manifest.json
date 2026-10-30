@@ -1,10 +1,10 @@
 {
   "id": "sports",
   "category": "SportsGames",
-  "version": 1,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/sports-v1.zip",
-  "bytes": 520728,
-  "sha256": "03ba71bff95099faecfba53a4178bdd6266cddafc35152a614cc87ffe2531139",
+  "version": 2,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/sports-v2.zip",
+  "bytes": 2207468,
+  "sha256": "788930f32746f5272c10e5238abf0ef286fa328faca80c2de46aef57e17a847b",
   "assets": [
     {
       "effectId": "F1Car",
@@ -27,6 +27,86 @@
       "path": "images/BowlingBall.webp",
       "bytes": 176900,
       "sha256": "5aff1b6f104501657223a7425b84ae2de0342fce08017c2c91b4c38e573901bb",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "CricketBat",
+      "path": "images/CricketBat.webp",
+      "bytes": 52412,
+      "sha256": "059747ab28f9e5f57206d368a1e1e16d6d69ec54e4d28dad02bf08cdf69b88bd",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "TennisBall",
+      "path": "images/TennisBall.webp",
+      "bytes": 340662,
+      "sha256": "608fd21d58dab514eef08f0dd8a9c817f2b6e8e80902292efa39d1e44daab0a3",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "BowlingPins",
+      "path": "images/BowlingPins.webp",
+      "bytes": 115900,
+      "sha256": "a701c6d0fc3fbfc1ced776aa31d7f97410254744903f639f5f7d3828856c033e",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Hockey",
+      "path": "images/Hockey.webp",
+      "bytes": 81426,
+      "sha256": "ef5ebf319ff7e888fa93029797a36f3ccb17fe64d90a76cf1d30530ab5eebb0c",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Basketball",
+      "path": "images/Basketball.webp",
+      "bytes": 344856,
+      "sha256": "3759dd4b6454433a820ba8c275dc3bc16ed0b581447a230b17e80f5e7a70b3ec",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Baseball",
+      "path": "images/Baseball.webp",
+      "bytes": 209974,
+      "sha256": "4fea2f3918302ecda9f4eff7c8b4eb85929ae5ab0739624b48309e17b32210c6",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Badminton",
+      "path": "images/Badminton.webp",
+      "bytes": 169010,
+      "sha256": "3cffb45a1bce1b4edc8d09ab970de00ef96e9bb8703400b50178c8b83b73fc48",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "TableTennis",
+      "path": "images/TableTennis.webp",
+      "bytes": 164788,
+      "sha256": "f56a71de057a5c339c2353f50e90b34e5ab2b587154c04af7f938b51d728fbd3",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Chess",
+      "path": "images/Chess.webp",
+      "bytes": 109386,
+      "sha256": "51441249a08aea48774dbc85b673acb560ec109811b5d5c5881fd5a8be737def",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Dice",
+      "path": "images/Dice.webp",
+      "bytes": 97158,
+      "sha256": "35b209cf430acef6204e23beaec3172a5d707f60ba96cbf7feb4270a6ac562b5",
       "width": 1024,
       "height": 1024
     }
