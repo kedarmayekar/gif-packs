@@ -1,0 +1,18 @@
+{
+  "id": "vehicles",
+  "category": "VehiclesTransport",
+  "version": 1,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/vehicles-v1.zip",
+  "bytes": 148744,
+  "sha256": "5ffeb6a365c277bbfed84b86c6f77bc3eae01c21edacad65814dd2f6ae806222",
+  "assets": [
+    {
+      "effectId": "Bus",
+      "path": "images/Bus.webp",
+      "bytes": 148616,
+      "sha256": "ae59e4848af590ab78f571bc6dc2af1ab4dc8662046dc010dca64ac6ea633b1b",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

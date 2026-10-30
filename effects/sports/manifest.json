@@ -1,0 +1,34 @@
+{
+  "id": "sports",
+  "category": "SportsGames",
+  "version": 1,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-pilot-v1/sports-v1.zip",
+  "bytes": 520728,
+  "sha256": "03ba71bff95099faecfba53a4178bdd6266cddafc35152a614cc87ffe2531139",
+  "assets": [
+    {
+      "effectId": "F1Car",
+      "path": "images/F1Car.webp",
+      "bytes": 137104,
+      "sha256": "485b50582ea76dc5f842657c73590b0cf4696167fcf56272ab12199730b77d74",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "Football",
+      "path": "images/Football.webp",
+      "bytes": 206354,
+      "sha256": "844fc22f73d031d633a3f631b3697e8b93039aee05149039c0394010fd26d802",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "BowlingBall",
+      "path": "images/BowlingBall.webp",
+      "bytes": 176900,
+      "sha256": "5aff1b6f104501657223a7425b84ae2de0342fce08017c2c91b4c38e573901bb",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}
