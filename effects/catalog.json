@@ -4,8 +4,8 @@
     {
       "id": "vehicles",
       "category": "VehiclesTransport",
-      "version": 2,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/vehicles-v2.zip",
+      "version": 4,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/vehicles-v4.zip",
       "bytes": 612668,
       "sha256": "a860e991f8b97ba037d731fae19f104d3fdaad4dd0ac426e07adcabf02231513",
       "assets": [
@@ -54,8 +54,8 @@
     {
       "id": "sports",
       "category": "SportsGames",
-      "version": 2,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/sports-v2.zip",
+      "version": 4,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/sports-v4.zip",
       "bytes": 2207468,
       "sha256": "788930f32746f5272c10e5238abf0ef286fa328faca80c2de46aef57e17a847b",
       "assets": [
@@ -168,8 +168,8 @@
     {
       "id": "jewels",
       "category": "JewelsGems",
-      "version": 2,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v2/jewels-v2.zip",
+      "version": 4,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/jewels-v4.zip",
       "bytes": 1113164,
       "sha256": "94f8cd42cf791947e0703a10f305717849a53cc1e06d868428c764e0331b7f2f",
       "assets": [
@@ -234,6 +234,74 @@
           "path": "images/GoldNecklace.webp",
           "bytes": 128450,
           "sha256": "b486c28d8ba1e9aeb47e415ead8fcc674fde0e8c43e7b8ff08b29c9c83b621be",
+          "width": 1024,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "category": "FlowersGardens",
+      "version": 4,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/flowers-v4.zip",
+      "bytes": 705494,
+      "sha256": "2bc6e0c160d5e75b37003ce56f94e1247f9ba9b31126e5bcf7318789fcf189b7",
+      "assets": [
+        {
+          "effectId": "RoseBloom",
+          "path": "images/RoseBloom.webp",
+          "bytes": 196568,
+          "sha256": "cc48ad93eac77a77b72144abe4a54d5a0d654906a1ad3d02c3892affd94164e7",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "BloomingLotus",
+          "path": "images/BloomingLotus.webp",
+          "bytes": 191434,
+          "sha256": "09768534a3fd7185a794647b071c5e6db05855ce0d7aeac1c65be675d8a10fb3",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "DandelionSeeds",
+          "path": "images/DandelionSeeds.webp",
+          "bytes": 317098,
+          "sha256": "4344c14fca451e784d3a3913ca1dcf6632ebc8b7e0b18c722e4488b9a13f8b46",
+          "width": 1024,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "category": "FoodDesserts",
+      "version": 4,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/food-v4.zip",
+      "bytes": 764928,
+      "sha256": "e0f16544013e3fe3c54a663da0090b582918028a678069cd6e355dc36bf11774",
+      "assets": [
+        {
+          "effectId": "CitrusSlice",
+          "path": "images/CitrusSlice.webp",
+          "bytes": 299312,
+          "sha256": "fe6f01b6caf87d0f1d7f1db4409890010a4d22bfbea28649288180c9bc14b935",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "Strawberry",
+          "path": "images/Strawberry.webp",
+          "bytes": 298238,
+          "sha256": "da7d55c9df2ee28d112f257d31cb3b4483ff8aa763ee60e6400854d3dbda3204",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "effectId": "IceCreamCone",
+          "path": "images/IceCreamCone.webp",
+          "bytes": 166990,
+          "sha256": "9987a9a404fdeb1b1ba1f2ceb72c70a9c4d521ec83dd1d01fead4857862f93bd",
           "width": 1024,
           "height": 1024
         }

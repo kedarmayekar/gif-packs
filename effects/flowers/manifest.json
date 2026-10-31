@@ -1,0 +1,34 @@
+{
+  "id": "flowers",
+  "category": "FlowersGardens",
+  "version": 4,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/flowers-v4.zip",
+  "bytes": 705494,
+  "sha256": "2bc6e0c160d5e75b37003ce56f94e1247f9ba9b31126e5bcf7318789fcf189b7",
+  "assets": [
+    {
+      "effectId": "RoseBloom",
+      "path": "images/RoseBloom.webp",
+      "bytes": 196568,
+      "sha256": "cc48ad93eac77a77b72144abe4a54d5a0d654906a1ad3d02c3892affd94164e7",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "BloomingLotus",
+      "path": "images/BloomingLotus.webp",
+      "bytes": 191434,
+      "sha256": "09768534a3fd7185a794647b071c5e6db05855ce0d7aeac1c65be675d8a10fb3",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "effectId": "DandelionSeeds",
+      "path": "images/DandelionSeeds.webp",
+      "bytes": 317098,
+      "sha256": "4344c14fca451e784d3a3913ca1dcf6632ebc8b7e0b18c722e4488b9a13f8b46",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}
