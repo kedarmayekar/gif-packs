@@ -1,0 +1,4 @@
+__pycache__/
+effect-assets/*/releases/
+effect-assets/*/hosting/
+effect-assets/*/*preview.jpg

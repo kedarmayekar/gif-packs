@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "tag": "effects-v3",
+  "name": "Realistic effects collection v3 - flowers",
+  "sourceRoots": [
+    "source",
+    "../set2/source",
+    "../pilot/source"
+  ],
+  "groups": {
+    "vehicles": {
+      "category": "VehiclesTransport",
+      "effects": [
+        "Bus",
+        "Train",
+        "Car",
+        "Metro",
+        "Aeroplane"
+      ]
+    },
+    "sports": {
+      "category": "SportsGames",
+      "effects": [
+        "F1Car",
+        "Football",
+        "BowlingBall",
+        "CricketBat",
+        "TennisBall",
+        "BowlingPins",
+        "Hockey",
+        "Basketball",
+        "Baseball",
+        "Badminton",
+        "TableTennis",
+        "Chess",
+        "Dice"
+      ]
+    },
+    "jewels": {
+      "category": "JewelsGems",
+      "effects": [
+        "Diamonds",
+        "Ruby",
+        "Pearl",
+        "Emerald",
+        "Sapphire",
+        "Amethyst",
+        "GoldRing",
+        "GoldNecklace"
+      ]
+    },
+    "flowers": {
+      "category": "FlowersGardens",
+      "effects": [
+        "RoseBloom",
+        "BloomingLotus",
+        "DandelionSeeds"
+      ]
+    }
+  }
+}

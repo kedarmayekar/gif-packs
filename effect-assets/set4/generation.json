@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "effectId": "CitrusSlice",
+      "source": "source/CitrusSlice.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Asset type: realistic cutout for Android photo editor effect. Subject: one fresh circular orange citrus slice, slightly tilted three-quarter view showing juicy segmented flesh and natural textured rind. Photorealistic studio product photography, crisp natural details, soft balanced lighting. Entire object centered with generous clear margins, square canvas. Genuine transparent background, clean alpha edges. No surface, cast shadow, props, text, border or watermark. Single isolated slice only.",
+      "generatedPath": "C:\\Users\\kedar\\.codex\\generated_images\\01a18f36-247d-7e92-a16e-84454269f70d\\exec-3ca35023-7d78-4468-9293-765fae4bfab1.png"
+    },
+    {
+      "effectId": "Strawberry",
+      "source": "source/Strawberry.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Asset type: realistic cutout for Android photo editor effect. Subject: one ripe red strawberry with fresh green leafy calyx, natural seeds and realistic glossy skin, three-quarter view. Photorealistic studio macro product photography, crisp natural detail, soft balanced lighting. Entire single fruit centered with generous clear margins, square canvas. Genuine transparent background with clean alpha edges. No surface, cast shadow, props, text, border or watermark.",
+      "generatedPath": "C:\\Users\\kedar\\.codex\\generated_images\\01a18f36-247d-7e92-a16e-84454269f70d\\exec-56c74b36-c015-4eac-b6cc-4930464a51e7.png"
+    },
+    {
+      "effectId": "IceCreamCone",
+      "source": "source/IceCreamCone.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Asset type: realistic cutout for Android photo editor effect. Subject: one upright golden waffle ice cream cone topped with one rounded scoop of strawberry ice cream, detailed waffle texture and softly ridged creamy pink scoop. Photorealistic studio product photography, crisp natural detail, soft balanced lighting. Entire cone and scoop centered with generous clear margins, square canvas. Genuine transparent background, clean alpha edges. No hands, holder, surface, cast shadow, toppings, props, text, border or watermark.",
+      "generatedPath": "C:\\Users\\kedar\\.codex\\generated_images\\01a18f36-247d-7e92-a16e-84454269f70d\\exec-b1cf17a1-be94-4748-8f68-be8f90a739b0.png"
+    }
+  ]
+}

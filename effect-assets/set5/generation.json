@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "effectId": "EspressoCup",
+      "source": "source/EspressoCup.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Create a photorealistic transparent PNG cutout for an Android photo overlay: one elegant ivory ceramic espresso cup with handle and matching saucer, rich dark espresso with golden crema visible. Three-quarter view slightly from above. Entire cup and saucer centered, fills 80% of square frame with clear margin. Soft upper-left studio illumination, realistic ceramic texture and crisp silhouette. Truly transparent background, no floor, no cast shadow outside object, no steam, no extra props, no text or logos. Premium catalog photography, realistic proportions.",
+      "generatedPath": "C:\\Users\\kedar\\.codex\\generated_images\\01a18f4e-30c0-7fc1-a9b4-987ea3d224d1\\exec-41c762ef-900c-4bad-b028-37dfe17cd879.png"
+    },
+    {
+      "effectId": "PouringTeapot",
+      "source": "source/PouringTeapot.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Photorealistic transparent PNG cutout for Android photo overlay. One elegant ivory ceramic teapot, lid secure, tilted with spout pointing down-left, pouring one short continuous amber tea stream into a matching small ivory teacup immediately below. Single compact composition of teapot and cup, no hand. Three-quarter view slightly above, entire objects and stream fully visible with clear margin on square frame. Soft upper-left studio illumination, realistic ceramic and liquid, crisp clean silhouette. Truly transparent background, no floor or cast shadow outside objects, no steam, no extra props, no text, logos, watermark. Static captured moment, physically coherent pour.",
+      "generatedPath": "C:\\Users\\kedar\\.codex\\generated_images\\01a18f4e-30c0-7fc1-a9b4-987ea3d224d1\\exec-632920eb-473a-4acf-9b07-a5cb5df062e6.png"
+    },
+    {
+      "effectId": "MatchaBowl",
+      "source": "source/MatchaBowl.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Photorealistic transparent PNG cutout for Android photo overlay: one traditional Japanese ceramic matcha bowl filled with freshly whisked vivid natural green matcha with fine foam bubbles. Warm ivory ceramic glaze, subtle handmade texture. Three-quarter view slightly from above, entire bowl visible, centered with generous transparent margin on square canvas. Premium studio product photography, soft upper-left lighting, realistic proportions, clean crisp silhouette. Truly transparent background, no floor or cast shadow outside bowl, no steam, no whisk, spoon, saucer, leaves, props, text, logos or watermark.",
+      "generatedPath": "C:\\Users\\kedar\\.codex\\generated_images\\01a18f4e-30c0-7fc1-a9b4-987ea3d224d1\\exec-7d64c948-200f-4ef3-bdde-d7291327189c.png"
+    }
+  ]
+}

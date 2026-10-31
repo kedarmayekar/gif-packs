@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "effectId": "RoseBloom",
+      "source": "source/RoseBloom.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Asset type: realistic Android photo-composition effect, square transparent PNG cutout. Subject: a single fully open crimson red rose bloom, three-quarter front view with a short elegant green stem and two leaves. Photoreal botanical macro studio photography, velvety layered petals, crisp natural detail, soft neutral lighting. Center the complete silhouette with 12 percent clear margins. Actual transparent background, no ground, no cast shadow, no pot, no text or watermark. Readable at small thumbnail sizes."
+    },
+    {
+      "effectId": "BloomingLotus",
+      "source": "source/BloomingLotus.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Asset type: realistic Android photo-composition effect, square transparent PNG cutout. Subject: one fully blooming pink lotus flower seen at a slightly elevated three-quarter angle, golden yellow seed center, elegant layered pink petals fading to pale cream at their bases, one small green lotus leaf below. Photoreal botanical studio macro, crisp natural textures and soft neutral lighting. Complete isolated silhouette centered with 12 percent transparent margins. Actual transparent background. No pond, water, ground, vase, cast shadow, text or watermark. Readable at thumbnail sizes."
+    },
+    {
+      "effectId": "DandelionSeeds",
+      "source": "source/DandelionSeeds.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: product-mockup. Asset type: realistic Android photo-composition effect square transparent PNG cutout. Subject: one delicate white dandelion seed head with a short fine green stem, slightly turned three-quarter view; five detached parachute seeds floating nearby to the upper right, each with clear white filaments and a tiny brown seed. Photoreal botanical macro studio photography, natural detail, soft neutral lighting, clean readable silhouette on both dark and light backgrounds. Keep entire subject and drifting seeds centered within 12 percent transparent margins. Actual transparent background, no ground, no cast shadow, no scenery, no text or watermark."
+    }
+  ]
+}

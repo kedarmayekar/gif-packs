@@ -1,0 +1,32 @@
+{
+  "tool": "built-in image_gen",
+  "transparentBackground": true,
+  "assets": [
+    {
+      "id": "Bus",
+      "path": "C:\\Users\\kedar\\.codex\\generated_images\\01a18eb2-e6c4-72b3-b322-7a171a54a661\\exec-85f14095-4fcf-48fd-8ed5-602f0dcf2b7c.png",
+      "subject": "a full-size modern city bus, three-quarter front view pointing right, metallic blue body, accurate rubber tires, alloy wheel hubs, clear window reflections, headlights, mirrors and door seams. No passengers."
+    },
+    {
+      "id": "F1Car",
+      "path": "C:\\Users\\kedar\\.codex\\generated_images\\01a18eb2-e6c4-72b3-b322-7a171a54a661\\exec-4843f4e2-4244-4755-8246-f13a09cd5dc6.png",
+      "subject": "a modern Formula-style open wheel racing car, three-quarter front view pointing right, red unbranded carbon-fiber body, four accurate exposed slick tires, suspension, front and rear wings, halo and empty cockpit. No driver."
+    },
+    {
+      "id": "Football",
+      "path": "C:\\Users\\kedar\\.codex\\generated_images\\01a18eb2-e6c4-72b3-b322-7a171a54a661\\exec-45c5a7bd-136c-426f-855a-57800318925c.png",
+      "subject": "one regulation association football (soccer ball), classic black pentagons and white hexagons, physically accurate stitched panel topology, fine leather grain, subtle scuffs, three-quarter product view."
+    },
+    {
+      "id": "BowlingBall",
+      "path": "C:\\Users\\kedar\\.codex\\generated_images\\01a18eb2-e6c4-72b3-b322-7a171a54a661\\exec-c44e7122-7eb7-492a-9fdc-38fc9459b215.png",
+      "subject": "one dark violet polished bowling ball, exactly three drilled finger holes visible in a realistic triangular arrangement on its upper front, fine purple marbling and controlled glossy highlights."
+    },
+    {
+      "id": "Diamonds",
+      "path": "C:\\Users\\kedar\\.codex\\generated_images\\01a18eb2-e6c4-72b3-b322-7a171a54a661\\exec-ecf7021b-fe10-4e92-a54d-8974da38992a.png",
+      "subject": "one brilliant-cut clear white diamond, slightly tilted three-quarter view with the crown, table, girdle and pavilion clearly readable, physically convincing crisp facets, realistic dispersion with restrained rainbow fire, no setting or jewelry."
+    }
+  ],
+  "promptTemplate": "Use case: product-mockup. Asset type: production mobile app effect cutout, a single object per image. Subject: {subject} Style: very photorealistic premium studio product photography, physically correct proportions, real material detail, not a cartoon, icon, illustration or toy. Composition: entire object centered in a square canvas with 10 percent clear padding on every side, no cropping. Lighting: soft studio key upper left, subtle clean rim right, object readable on both light and dark UI. Background: actual alpha transparency, no floor, no environment, no cast ground shadow, no painted checkerboard. Constraints: one isolated object only, no text, logos, trademarks, watermarks, borders or other objects. Produce a transparent PNG image."
+}

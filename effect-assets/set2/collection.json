@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "tag": "effects-v2",
+  "name": "Realistic effects collection v2",
+  "sourceRoots": ["source", "../pilot/source"],
+  "groups": {
+    "vehicles": {
+      "category": "VehiclesTransport",
+      "effects": ["Bus", "Train", "Car", "Metro", "Aeroplane"]
+    },
+    "sports": {
+      "category": "SportsGames",
+      "effects": ["F1Car", "Football", "BowlingBall", "CricketBat", "TennisBall", "BowlingPins", "Hockey", "Basketball", "Baseball", "Badminton", "TableTennis", "Chess", "Dice"]
+    },
+    "jewels": {
+      "category": "JewelsGems",
+      "effects": ["Diamonds", "Ruby", "Pearl", "Emerald", "Sapphire", "Amethyst", "GoldRing", "GoldNecklace"]
+    }
+  }
+}

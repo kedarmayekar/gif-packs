@@ -1,0 +1,409 @@
+{
+  "version": 6,
+  "tag": "effects-v6",
+  "name": "Data-driven Real Effects v6",
+  "sourceRoots": [
+    "source",
+    "../set5/source",
+    "../set4/source",
+    "../set3/source",
+    "../set2/source",
+    "../pilot/source"
+  ],
+  "groups": {
+    "vehicles": {
+      "category": "VehiclesTransport",
+      "effects": [
+        "Bus",
+        "Train",
+        "Car",
+        "Metro",
+        "Aeroplane"
+      ],
+      "title": "Vehicles & Transport",
+      "price": 75
+    },
+    "sports": {
+      "category": "SportsGames",
+      "effects": [
+        "F1Car",
+        "Football",
+        "BowlingBall",
+        "CricketBat",
+        "TennisBall",
+        "BowlingPins",
+        "Hockey",
+        "Basketball",
+        "Baseball",
+        "Badminton",
+        "TableTennis",
+        "Chess",
+        "Dice"
+      ],
+      "title": "Sports & Games",
+      "price": 90
+    },
+    "jewels": {
+      "category": "JewelsGems",
+      "effects": [
+        "Diamonds",
+        "Ruby",
+        "Pearl",
+        "Emerald",
+        "Sapphire",
+        "Amethyst",
+        "GoldRing",
+        "GoldNecklace"
+      ],
+      "title": "Jewels & Gems",
+      "price": 80
+    },
+    "flowers": {
+      "category": "FlowersGardens",
+      "effects": [
+        "RoseBloom",
+        "BloomingLotus",
+        "DandelionSeeds"
+      ],
+      "title": "Flowers & Gardens",
+      "price": 50
+    },
+    "food": {
+      "category": "FoodDesserts",
+      "effects": [
+        "CitrusSlice",
+        "Strawberry",
+        "IceCreamCone"
+      ],
+      "title": "Food & Desserts",
+      "price": 50
+    },
+    "drinks": {
+      "category": "CoffeeTea",
+      "effects": [
+        "EspressoCup",
+        "PouringTeapot",
+        "MatchaBowl"
+      ],
+      "title": "Coffee & Tea",
+      "price": 45
+    }
+  },
+  "assets": {
+    "Bus": {
+      "label": "Bus",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "Train": {
+      "label": "Train",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "Car": {
+      "label": "Car",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "Metro": {
+      "label": "Metro",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "Aeroplane": {
+      "label": "Aeroplane",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "F1Car": {
+      "label": "F1 Car",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Football": {
+      "label": "Football",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "BowlingBall": {
+      "label": "Bowling Ball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "CricketBat": {
+      "label": "Cricket Bat",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "TennisBall": {
+      "label": "Tennis Ball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "BowlingPins": {
+      "label": "Bowling Pins",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Hockey": {
+      "label": "Hockey Stick & Puck",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Basketball": {
+      "label": "Basketball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Baseball": {
+      "label": "Baseball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Badminton": {
+      "label": "Badminton",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "TableTennis": {
+      "label": "Table Tennis",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Chess": {
+      "label": "Chess",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Dice": {
+      "label": "Dice",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    "Diamonds": {
+      "label": "Diamonds",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "Ruby": {
+      "label": "Ruby",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "Pearl": {
+      "label": "Pearl",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "Emerald": {
+      "label": "Emerald",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "Sapphire": {
+      "label": "Sapphire",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "Amethyst": {
+      "label": "Amethyst",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "GoldRing": {
+      "label": "Gold Ring",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "GoldNecklace": {
+      "label": "Gold Necklace",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    "RoseBloom": {
+      "label": "Rose Bloom",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "BloomingLotus": {
+      "label": "Blooming Lotus",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "DandelionSeeds": {
+      "label": "Dandelion Seeds",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0.025,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "CitrusSlice": {
+      "label": "Citrus Slice",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 5,
+        "sparkle": false
+      }
+    },
+    "Strawberry": {
+      "label": "Strawberry",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "IceCreamCone": {
+      "label": "Ice Cream Cone",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "EspressoCup": {
+      "label": "Espresso Cup",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "PouringTeapot": {
+      "label": "Pouring Teapot",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    "MatchaBowl": {
+      "label": "Matcha Bowl",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  }
+}
