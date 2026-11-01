@@ -1293,6 +1293,64 @@
       "title": "Adventure & Camping",
       "price": 65,
       "description": "Three realistic adventure & camping cutouts with gentle motion."
+    },
+    {
+      "id": "royal",
+      "category": "RoyalCollection",
+      "version": 19,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v19/royal-v19.zip",
+      "bytes": 749336,
+      "sha256": "4c4365ef44326ce85c4a6fdaf581ba2ba3f7644ac15355db88dd18c9d8984e86",
+      "assets": [
+        {
+          "effectId": "JeweledCrown",
+          "path": "images/JeweledCrown.webp",
+          "bytes": 362684,
+          "sha256": "0dabf38e76c1660776c81c992409b99f40d3c57b5e2a1d8cb9f275524b556f6b",
+          "width": 1024,
+          "height": 936,
+          "label": "Jeweled Crown",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
+        },
+        {
+          "effectId": "RoyalScepter",
+          "path": "images/RoyalScepter.webp",
+          "bytes": 93910,
+          "sha256": "0d4fcc14f135ce5317f6e2c4694ba6bb7733d8392a7c4971dffb4bae6599b575",
+          "width": 683,
+          "height": 1024,
+          "label": "Royal Scepter",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
+        },
+        {
+          "effectId": "OrnateThrone",
+          "path": "images/OrnateThrone.webp",
+          "bytes": 292348,
+          "sha256": "dc3b64ef7102f76ee67ae15484f30be478bcbdf7a23342fbb718cda87c73ed1a",
+          "width": 949,
+          "height": 1024,
+          "label": "Ornate Throne",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
+        }
+      ],
+      "title": "Royal Collection",
+      "price": 65,
+      "description": "Three realistic royal collection cutouts with gentle motion."
     }
   ]
 }
