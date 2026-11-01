@@ -829,6 +829,64 @@
       "title": "Steampunk & Clockwork",
       "price": 60,
       "description": "Detailed brass gears, copper pocket watch and steam airship with gentle motion."
+    },
+    {
+      "id": "fantasy-creatures",
+      "category": "FantasyCreatures",
+      "version": 11,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v11/fantasy-creatures-v11.zip",
+      "bytes": 1289420,
+      "sha256": "39ed15407427f0130f1f34909cfc157517b900f2f405f1872456bd8a6d6adc4b",
+      "assets": [
+        {
+          "effectId": "Phoenix",
+          "path": "images/Phoenix.webp",
+          "bytes": 473098,
+          "sha256": "ea3afaf145ad5920944bb7901bc9eab190a12a97a01f1fc887167dd38f302b9b",
+          "width": 1024,
+          "height": 1024,
+          "label": "Phoenix",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
+        },
+        {
+          "effectId": "Unicorn",
+          "path": "images/Unicorn.webp",
+          "bytes": 371604,
+          "sha256": "a9de29750a7570e02709aa5a388d221fc6d9314457cdb66fd98a9a58f565f75c",
+          "width": 1024,
+          "height": 1024,
+          "label": "Unicorn",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
+        },
+        {
+          "effectId": "Griffin",
+          "path": "images/Griffin.webp",
+          "bytes": 444354,
+          "sha256": "bbd974e07d881a193f02a8d8266766ebf22bd05a8e0bc1ec2f75e636fbe9d32a",
+          "width": 1024,
+          "height": 1024,
+          "label": "Griffin",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
+        }
+      ],
+      "title": "Fantasy Creatures",
+      "price": 60,
+      "description": "Phoenix, unicorn and griffin with rich detail, luminous accents and gentle motion."
     }
   ]
 }
