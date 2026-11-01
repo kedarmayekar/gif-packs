@@ -1,0 +1,58 @@
+{
+  "id": "pirates-treasure",
+  "category": "PiratesTreasure",
+  "version": 9,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v9/pirates-treasure-v9.zip",
+  "bytes": 1033214,
+  "sha256": "069c0842a4471a2d991548480592a08c9f46fc39907a0045517672797eecf29e",
+  "assets": [
+    {
+      "effectId": "TreasureChest",
+      "path": "images/TreasureChest.webp",
+      "bytes": 434820,
+      "sha256": "bc0c3f4c9bb4763c409f874502174a27891d594ab09d533c2224e736d50a06c7",
+      "width": 1024,
+      "height": 1024,
+      "label": "Treasure Chest",
+      "motion": {
+        "bob": 0.012,
+        "drift": 0,
+        "rotation": 2,
+        "sparkle": true
+      }
+    },
+    {
+      "effectId": "PirateMap",
+      "path": "images/PirateMap.webp",
+      "bytes": 457742,
+      "sha256": "d33880c56b916a9a0068f06d85d93831a8eb8676a5ca4f9714cfa579450368ed",
+      "width": 1024,
+      "height": 1024,
+      "label": "Pirate Map",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "PirateSpyglass",
+      "path": "images/PirateSpyglass.webp",
+      "bytes": 140258,
+      "sha256": "ddc95d8881c783c4b17f0b12494c6faee4fc1a4d59d4424e86e03c146a99f745",
+      "width": 1024,
+      "height": 1024,
+      "label": "Pirate Spyglass",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Pirates & Treasure",
+  "price": 60,
+  "description": "Weathered treasure chest, antique pirate map and brass spyglass with gentle motion."
+}
