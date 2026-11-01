@@ -1,0 +1,58 @@
+{
+  "id": "camping",
+  "category": "AdventureCamping",
+  "version": 18,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v18/camping-v18.zip",
+  "bytes": 662334,
+  "sha256": "a9e294e34a78bbab5ec27d41c9bfff664739c63f720a9d27ae088c151b28ddc9",
+  "assets": [
+    {
+      "effectId": "HikingBackpack",
+      "path": "images/HikingBackpack.webp",
+      "bytes": 246860,
+      "sha256": "95d68de955a75e619951102cd4a1fdae37cf1131bd8e1ef5aa2323d9575ac81a",
+      "width": 979,
+      "height": 1024,
+      "label": "Hiking Backpack",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "CampingLantern",
+      "path": "images/CampingLantern.webp",
+      "bytes": 153666,
+      "sha256": "48f9ec2bff7e4d947f5024844dd927f31bb3a23e8f0f9da4605fe81edcf2370b",
+      "width": 853,
+      "height": 1024,
+      "label": "Camping Lantern",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "MountainBoots",
+      "path": "images/MountainBoots.webp",
+      "bytes": 261404,
+      "sha256": "6fe49853caf6c23ff3b5f0031fad230eafede75b581b250bbfea26b26f52341d",
+      "width": 1024,
+      "height": 936,
+      "label": "Mountain Boots",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Adventure & Camping",
+  "price": 65,
+  "description": "Three realistic adventure & camping cutouts with gentle motion."
+}
