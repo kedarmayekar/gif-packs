@@ -1,0 +1,57 @@
+{
+  "id": "drinks",
+  "category": "CoffeeTea",
+  "version": 7,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/drinks-v7.zip",
+  "bytes": 484536,
+  "sha256": "2b68cc218099c7319097319314e97e4e550ead5ec2c386d108594c5494f9e9e9",
+  "assets": [
+    {
+      "effectId": "EspressoCup",
+      "path": "images/EspressoCup.webp",
+      "bytes": 131040,
+      "sha256": "8ad068a9ac139b993021b91ce56b8ea291e45ab74a78b1defdb26276a4fab452",
+      "width": 1024,
+      "height": 1024,
+      "label": "Espresso Cup",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "PouringTeapot",
+      "path": "images/PouringTeapot.webp",
+      "bytes": 127434,
+      "sha256": "8c1ac1eebc3ff05b8c725d646739fc5827fed40b20cdc584d60f356a771e78cd",
+      "width": 1024,
+      "height": 1024,
+      "label": "Pouring Teapot",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "MatchaBowl",
+      "path": "images/MatchaBowl.webp",
+      "bytes": 225672,
+      "sha256": "94f1970ad8bbf4c2795bfbb2f1d2cddc530cabbc264087eb074b7ef4190996df",
+      "width": 1024,
+      "height": 1024,
+      "label": "Matcha Bowl",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Coffee & Tea",
+  "price": 45
+}

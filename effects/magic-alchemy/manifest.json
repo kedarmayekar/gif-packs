@@ -1,0 +1,58 @@
+{
+  "id": "magic-alchemy",
+  "category": "MagicAlchemy",
+  "version": 7,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/magic-alchemy-v7.zip",
+  "bytes": 846176,
+  "sha256": "7bc34ee93b712729c034df0af3c60ea4940bdb61b2fa49ebb478c363be34b909",
+  "assets": [
+    {
+      "effectId": "PotionBottle",
+      "path": "images/PotionBottle.webp",
+      "bytes": 225212,
+      "sha256": "9aaa4416b34fecfaf8d97ddec558f0a5c00dd344d144721459c054d2f7f20d6e",
+      "width": 1024,
+      "height": 1024,
+      "label": "Potion Bottle",
+      "motion": {
+        "rotation": 1.2,
+        "bob": 0.018,
+        "drift": 0,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "EnchantedBook",
+      "path": "images/EnchantedBook.webp",
+      "bytes": 321676,
+      "sha256": "6c64e68162e4817ea2c658db1dc3186489b952184b8545128e5426f488f88728",
+      "width": 1024,
+      "height": 1024,
+      "label": "Enchanted Book",
+      "motion": {
+        "rotation": 1.2,
+        "bob": 0.018,
+        "drift": 0,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "CrystalBall",
+      "path": "images/CrystalBall.webp",
+      "bytes": 298894,
+      "sha256": "5771279ba1578980c20bf0719a475a72e9a05d35c8b82c5a280e076a6b1f7f2e",
+      "width": 1024,
+      "height": 1024,
+      "label": "Crystal Ball",
+      "motion": {
+        "rotation": 1.2,
+        "bob": 0.018,
+        "drift": 0,
+        "sparkle": true
+      }
+    }
+  ],
+  "title": "Magic & Alchemy",
+  "price": 65,
+  "description": "Realistic potion bottle, enchanted book and crystal ball with gentle motion."
+}

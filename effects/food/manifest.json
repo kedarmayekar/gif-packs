@@ -1,8 +1,8 @@
 {
   "id": "food",
   "category": "FoodDesserts",
-  "version": 4,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/food-v4.zip",
+  "version": 7,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/food-v7.zip",
   "bytes": 764928,
   "sha256": "e0f16544013e3fe3c54a663da0090b582918028a678069cd6e355dc36bf11774",
   "assets": [
@@ -12,7 +12,14 @@
       "bytes": 299312,
       "sha256": "fe6f01b6caf87d0f1d7f1db4409890010a4d22bfbea28649288180c9bc14b935",
       "width": 1024,
-      "height": 1024
+      "height": 1024,
+      "label": "Citrus Slice",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 5,
+        "sparkle": false
+      }
     },
     {
       "effectId": "Strawberry",
@@ -20,7 +27,14 @@
       "bytes": 298238,
       "sha256": "da7d55c9df2ee28d112f257d31cb3b4483ff8aa763ee60e6400854d3dbda3204",
       "width": 1024,
-      "height": 1024
+      "height": 1024,
+      "label": "Strawberry",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
     },
     {
       "effectId": "IceCreamCone",
@@ -28,7 +42,16 @@
       "bytes": 166990,
       "sha256": "9987a9a404fdeb1b1ba1f2ceb72c70a9c4d521ec83dd1d01fead4857862f93bd",
       "width": 1024,
-      "height": 1024
+      "height": 1024,
+      "label": "Ice Cream Cone",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
     }
-  ]
+  ],
+  "title": "Food & Desserts",
+  "price": 50
 }

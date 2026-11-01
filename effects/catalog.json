@@ -4,8 +4,8 @@
     {
       "id": "vehicles",
       "category": "VehiclesTransport",
-      "version": 4,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/vehicles-v4.zip",
+      "version": 7,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/vehicles-v7.zip",
       "bytes": 612668,
       "sha256": "a860e991f8b97ba037d731fae19f104d3fdaad4dd0ac426e07adcabf02231513",
       "assets": [
@@ -15,7 +15,14 @@
           "bytes": 148616,
           "sha256": "ae59e4848af590ab78f571bc6dc2af1ab4dc8662046dc010dca64ac6ea633b1b",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Bus",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Train",
@@ -23,7 +30,14 @@
           "bytes": 147564,
           "sha256": "a861e2f91b3f0ece1ae7b3abfd6fc6610faf26afff8ba45bad0c42c7964f82d7",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Train",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Car",
@@ -31,7 +45,14 @@
           "bytes": 106938,
           "sha256": "541d74cb0d766a7ff5acfce733aff722d09a11e4e689593e5a900e1239d7aba4",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Car",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Metro",
@@ -39,7 +60,14 @@
           "bytes": 127960,
           "sha256": "5a4cb5b23dc9fbfe89f01df0c56009754cd8ef0738bb32156e9414b56a2ddec8",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Metro",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Aeroplane",
@@ -47,15 +75,24 @@
           "bytes": 81018,
           "sha256": "43e1204561f4db840d19cddb1db3cd2fe9c91f9c0c1bcf88387dc4fea29003dd",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Aeroplane",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         }
-      ]
+      ],
+      "title": "Vehicles & Transport",
+      "price": 75
     },
     {
       "id": "sports",
       "category": "SportsGames",
-      "version": 4,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/sports-v4.zip",
+      "version": 7,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/sports-v7.zip",
       "bytes": 2207468,
       "sha256": "788930f32746f5272c10e5238abf0ef286fa328faca80c2de46aef57e17a847b",
       "assets": [
@@ -65,7 +102,14 @@
           "bytes": 137104,
           "sha256": "485b50582ea76dc5f842657c73590b0cf4696167fcf56272ab12199730b77d74",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "F1 Car",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Football",
@@ -73,7 +117,14 @@
           "bytes": 206354,
           "sha256": "844fc22f73d031d633a3f631b3697e8b93039aee05149039c0394010fd26d802",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Football",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "BowlingBall",
@@ -81,7 +132,14 @@
           "bytes": 176900,
           "sha256": "5aff1b6f104501657223a7425b84ae2de0342fce08017c2c91b4c38e573901bb",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Bowling Ball",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "CricketBat",
@@ -89,7 +147,14 @@
           "bytes": 52412,
           "sha256": "059747ab28f9e5f57206d368a1e1e16d6d69ec54e4d28dad02bf08cdf69b88bd",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Cricket Bat",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "TennisBall",
@@ -97,7 +162,14 @@
           "bytes": 340662,
           "sha256": "608fd21d58dab514eef08f0dd8a9c817f2b6e8e80902292efa39d1e44daab0a3",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Tennis Ball",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "BowlingPins",
@@ -105,7 +177,14 @@
           "bytes": 115900,
           "sha256": "a701c6d0fc3fbfc1ced776aa31d7f97410254744903f639f5f7d3828856c033e",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Bowling Pins",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Hockey",
@@ -113,7 +192,14 @@
           "bytes": 81426,
           "sha256": "ef5ebf319ff7e888fa93029797a36f3ccb17fe64d90a76cf1d30530ab5eebb0c",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Hockey Stick & Puck",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Basketball",
@@ -121,7 +207,14 @@
           "bytes": 344856,
           "sha256": "3759dd4b6454433a820ba8c275dc3bc16ed0b581447a230b17e80f5e7a70b3ec",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Basketball",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Baseball",
@@ -129,7 +222,14 @@
           "bytes": 209974,
           "sha256": "4fea2f3918302ecda9f4eff7c8b4eb85929ae5ab0739624b48309e17b32210c6",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Baseball",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Badminton",
@@ -137,7 +237,14 @@
           "bytes": 169010,
           "sha256": "3cffb45a1bce1b4edc8d09ab970de00ef96e9bb8703400b50178c8b83b73fc48",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Badminton",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "TableTennis",
@@ -145,7 +252,14 @@
           "bytes": 164788,
           "sha256": "f56a71de057a5c339c2353f50e90b34e5ab2b587154c04af7f938b51d728fbd3",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Table Tennis",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Chess",
@@ -153,7 +267,14 @@
           "bytes": 109386,
           "sha256": "51441249a08aea48774dbc85b673acb560ec109811b5d5c5881fd5a8be737def",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Chess",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Dice",
@@ -161,15 +282,24 @@
           "bytes": 97158,
           "sha256": "35b209cf430acef6204e23beaec3172a5d707f60ba96cbf7feb4270a6ac562b5",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Dice",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 4,
+            "sparkle": false
+          }
         }
-      ]
+      ],
+      "title": "Sports & Games",
+      "price": 90
     },
     {
       "id": "jewels",
       "category": "JewelsGems",
-      "version": 4,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/jewels-v4.zip",
+      "version": 7,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/jewels-v7.zip",
       "bytes": 1113164,
       "sha256": "94f8cd42cf791947e0703a10f305717849a53cc1e06d868428c764e0331b7f2f",
       "assets": [
@@ -179,7 +309,14 @@
           "bytes": 164334,
           "sha256": "ea8c1d37267e03e7c4425a627b7e0867c4d3ba9d69d2679eb28b8d0496c19204",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Diamonds",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         },
         {
           "effectId": "Ruby",
@@ -187,7 +324,14 @@
           "bytes": 127250,
           "sha256": "06e969b3b859a9802ddebff010c3b9b6f95397d9c8caa8d54d0e821ff2c34654",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Ruby",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         },
         {
           "effectId": "Pearl",
@@ -195,7 +339,14 @@
           "bytes": 82216,
           "sha256": "ba46e5f59daa16db0aea94cafebbf10160e26ec7b7d3ba93c32fb0169a638248",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Pearl",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         },
         {
           "effectId": "Emerald",
@@ -203,7 +354,14 @@
           "bytes": 214172,
           "sha256": "369f89ac4485ccacd18c0ec3cb065ed8c7874e5eb6ad136c314d99d1d8c5cbf6",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Emerald",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         },
         {
           "effectId": "Sapphire",
@@ -211,7 +369,14 @@
           "bytes": 135082,
           "sha256": "96e49b0df0c40243dbcdcd093327497e098862103907048250c5212b88ad895b",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Sapphire",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         },
         {
           "effectId": "Amethyst",
@@ -219,7 +384,14 @@
           "bytes": 132364,
           "sha256": "56b7804792e811198834704c1c5b6ae4d1502f3858648c38e89718bf67bd0076",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Amethyst",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         },
         {
           "effectId": "GoldRing",
@@ -227,7 +399,14 @@
           "bytes": 128354,
           "sha256": "18a859a95df7622580d67f5cb2977089d15e4eff2c2be32fd5477dd5af9d843f",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Gold Ring",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         },
         {
           "effectId": "GoldNecklace",
@@ -235,15 +414,24 @@
           "bytes": 128450,
           "sha256": "b486c28d8ba1e9aeb47e415ead8fcc674fde0e8c43e7b8ff08b29c9c83b621be",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Gold Necklace",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": true
+          }
         }
-      ]
+      ],
+      "title": "Jewels & Gems",
+      "price": 80
     },
     {
       "id": "flowers",
       "category": "FlowersGardens",
-      "version": 4,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/flowers-v4.zip",
+      "version": 7,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/flowers-v7.zip",
       "bytes": 705494,
       "sha256": "2bc6e0c160d5e75b37003ce56f94e1247f9ba9b31126e5bcf7318789fcf189b7",
       "assets": [
@@ -253,7 +441,14 @@
           "bytes": 196568,
           "sha256": "cc48ad93eac77a77b72144abe4a54d5a0d654906a1ad3d02c3892affd94164e7",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Rose Bloom",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         },
         {
           "effectId": "BloomingLotus",
@@ -261,7 +456,14 @@
           "bytes": 191434,
           "sha256": "09768534a3fd7185a794647b071c5e6db05855ce0d7aeac1c65be675d8a10fb3",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Blooming Lotus",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         },
         {
           "effectId": "DandelionSeeds",
@@ -269,15 +471,24 @@
           "bytes": 317098,
           "sha256": "4344c14fca451e784d3a3913ca1dcf6632ebc8b7e0b18c722e4488b9a13f8b46",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Dandelion Seeds",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0.025,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         }
-      ]
+      ],
+      "title": "Flowers & Gardens",
+      "price": 50
     },
     {
       "id": "food",
       "category": "FoodDesserts",
-      "version": 4,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v4/food-v4.zip",
+      "version": 7,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/food-v7.zip",
       "bytes": 764928,
       "sha256": "e0f16544013e3fe3c54a663da0090b582918028a678069cd6e355dc36bf11774",
       "assets": [
@@ -287,7 +498,14 @@
           "bytes": 299312,
           "sha256": "fe6f01b6caf87d0f1d7f1db4409890010a4d22bfbea28649288180c9bc14b935",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Citrus Slice",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 5,
+            "sparkle": false
+          }
         },
         {
           "effectId": "Strawberry",
@@ -295,7 +513,14 @@
           "bytes": 298238,
           "sha256": "da7d55c9df2ee28d112f257d31cb3b4483ff8aa763ee60e6400854d3dbda3204",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Strawberry",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         },
         {
           "effectId": "IceCreamCone",
@@ -303,9 +528,133 @@
           "bytes": 166990,
           "sha256": "9987a9a404fdeb1b1ba1f2ceb72c70a9c4d521ec83dd1d01fead4857862f93bd",
           "width": 1024,
-          "height": 1024
+          "height": 1024,
+          "label": "Ice Cream Cone",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         }
-      ]
+      ],
+      "title": "Food & Desserts",
+      "price": 50
+    },
+    {
+      "id": "drinks",
+      "category": "CoffeeTea",
+      "version": 7,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/drinks-v7.zip",
+      "bytes": 484536,
+      "sha256": "2b68cc218099c7319097319314e97e4e550ead5ec2c386d108594c5494f9e9e9",
+      "assets": [
+        {
+          "effectId": "EspressoCup",
+          "path": "images/EspressoCup.webp",
+          "bytes": 131040,
+          "sha256": "8ad068a9ac139b993021b91ce56b8ea291e45ab74a78b1defdb26276a4fab452",
+          "width": 1024,
+          "height": 1024,
+          "label": "Espresso Cup",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "PouringTeapot",
+          "path": "images/PouringTeapot.webp",
+          "bytes": 127434,
+          "sha256": "8c1ac1eebc3ff05b8c725d646739fc5827fed40b20cdc584d60f356a771e78cd",
+          "width": 1024,
+          "height": 1024,
+          "label": "Pouring Teapot",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "MatchaBowl",
+          "path": "images/MatchaBowl.webp",
+          "bytes": 225672,
+          "sha256": "94f1970ad8bbf4c2795bfbb2f1d2cddc530cabbc264087eb074b7ef4190996df",
+          "width": 1024,
+          "height": 1024,
+          "label": "Matcha Bowl",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Coffee & Tea",
+      "price": 45
+    },
+    {
+      "id": "magic-alchemy",
+      "category": "MagicAlchemy",
+      "version": 7,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/magic-alchemy-v7.zip",
+      "bytes": 846176,
+      "sha256": "7bc34ee93b712729c034df0af3c60ea4940bdb61b2fa49ebb478c363be34b909",
+      "assets": [
+        {
+          "effectId": "PotionBottle",
+          "path": "images/PotionBottle.webp",
+          "bytes": 225212,
+          "sha256": "9aaa4416b34fecfaf8d97ddec558f0a5c00dd344d144721459c054d2f7f20d6e",
+          "width": 1024,
+          "height": 1024,
+          "label": "Potion Bottle",
+          "motion": {
+            "rotation": 1.2,
+            "bob": 0.018,
+            "drift": 0,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "EnchantedBook",
+          "path": "images/EnchantedBook.webp",
+          "bytes": 321676,
+          "sha256": "6c64e68162e4817ea2c658db1dc3186489b952184b8545128e5426f488f88728",
+          "width": 1024,
+          "height": 1024,
+          "label": "Enchanted Book",
+          "motion": {
+            "rotation": 1.2,
+            "bob": 0.018,
+            "drift": 0,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "CrystalBall",
+          "path": "images/CrystalBall.webp",
+          "bytes": 298894,
+          "sha256": "5771279ba1578980c20bf0719a475a72e9a05d35c8b82c5a280e076a6b1f7f2e",
+          "width": 1024,
+          "height": 1024,
+          "label": "Crystal Ball",
+          "motion": {
+            "rotation": 1.2,
+            "bob": 0.018,
+            "drift": 0,
+            "sparkle": true
+          }
+        }
+      ],
+      "title": "Magic & Alchemy",
+      "price": 65,
+      "description": "Realistic potion bottle, enchanted book and crystal ball with gentle motion."
     }
   ]
 }
