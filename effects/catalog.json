@@ -1177,6 +1177,64 @@
       "title": "Winter Wonders",
       "price": 65,
       "description": "Three realistic winter wonders cutouts with gentle motion."
+    },
+    {
+      "id": "japanese-garden",
+      "category": "JapaneseGarden",
+      "version": 17,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v17/japanese-garden-v17.zip",
+      "bytes": 893716,
+      "sha256": "7e3dd93a8fb716a9ba9c0f682a042d3a82b6382cf62fbea69286f76e0b880a4f",
+      "assets": [
+        {
+          "effectId": "BonsaiTree",
+          "path": "images/BonsaiTree.webp",
+          "bytes": 388508,
+          "sha256": "54493e096c54b8812a337caecccddd35052d7fa6af5e8eef803ca5fe91f6d73e",
+          "width": 1024,
+          "height": 936,
+          "label": "Bonsai Tree",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "StoneLantern",
+          "path": "images/StoneLantern.webp",
+          "bytes": 257414,
+          "sha256": "53e7657ee98f198517cba4aa41aa4f21c604eb1e5e6d13535412f233df9690da",
+          "width": 936,
+          "height": 1024,
+          "label": "Stone Lantern",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "FoldingFan",
+          "path": "images/FoldingFan.webp",
+          "bytes": 247408,
+          "sha256": "b403e1bbd8bd4e2baa0e23823087f4ae07f038e6a53f0b3874b3ac86ba4ef91c",
+          "width": 1024,
+          "height": 683,
+          "label": "Folding Fan",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Japanese Garden",
+      "price": 65,
+      "description": "Three realistic japanese garden cutouts with gentle motion."
     }
   ]
 }
