@@ -1,0 +1,58 @@
+{
+  "id": "winter",
+  "category": "WinterWonders",
+  "version": 16,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v16/winter-v16.zip",
+  "bytes": 913650,
+  "sha256": "947b859a2afd6cafc4217c758904a6a2982fc7fd9d602edd3d1d15eeefae353d",
+  "assets": [
+    {
+      "effectId": "SnowGlobe",
+      "path": "images/SnowGlobe.webp",
+      "bytes": 358694,
+      "sha256": "89a51cb60e61a502a8f47b85610b31f593fbea91f4a7545503bb76b521aa4f09",
+      "width": 946,
+      "height": 1024,
+      "label": "Snow Globe",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    {
+      "effectId": "IceCrown",
+      "path": "images/IceCrown.webp",
+      "bytes": 347702,
+      "sha256": "7ba8a7ba6d9954396688ba07abbd61e4e3ff1d9a2f78a595b4ec1be4deb6db76",
+      "width": 1024,
+      "height": 683,
+      "label": "Ice Crown",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    },
+    {
+      "effectId": "FrostLantern",
+      "path": "images/FrostLantern.webp",
+      "bytes": 206874,
+      "sha256": "dd2bfa4a4de62241f16d361af94c6eed47c055406dc6b4768f9f6ca954888035",
+      "width": 1024,
+      "height": 1024,
+      "label": "Frost Lantern",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": true
+      }
+    }
+  ],
+  "title": "Winter Wonders",
+  "price": 65,
+  "description": "Three realistic winter wonders cutouts with gentle motion."
+}
