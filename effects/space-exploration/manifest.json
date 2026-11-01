@@ -1,0 +1,58 @@
+{
+  "id": "space-exploration",
+  "category": "SpaceExploration",
+  "version": 8,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v8/space-exploration-v8.zip",
+  "bytes": 430912,
+  "sha256": "db313540dfebf4d83d35229bcb4ab3a7682e38395593c5036e39f35aeea7ed97",
+  "assets": [
+    {
+      "effectId": "Rocket",
+      "path": "images/Rocket.webp",
+      "bytes": 74070,
+      "sha256": "448de3c0b5bac677a6db287bd1494a1281934bab1979fc98bc7268576919c7bd",
+      "width": 1024,
+      "height": 1024,
+      "label": "Rocket",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0.015,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Astronaut",
+      "path": "images/Astronaut.webp",
+      "bytes": 178556,
+      "sha256": "209e3f2eaa3b1d06844f4c7b69bbc93471354225aab406396189eaaa8db55577",
+      "width": 1024,
+      "height": 1024,
+      "label": "Astronaut",
+      "motion": {
+        "bob": 0.025,
+        "drift": 0.02,
+        "rotation": 3,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Satellite",
+      "path": "images/Satellite.webp",
+      "bytes": 177916,
+      "sha256": "1c1d9e21c127e76000695d2bde98fe050ad5940afd81676e5767123c66621eb9",
+      "width": 1024,
+      "height": 1024,
+      "label": "Satellite",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0.02,
+        "rotation": 2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Space Exploration",
+  "price": 65,
+  "description": "Realistic rocket, astronaut and satellite with gentle floating motion."
+}
