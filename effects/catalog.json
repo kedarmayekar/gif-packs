@@ -887,6 +887,64 @@
       "title": "Fantasy Creatures",
       "price": 60,
       "description": "Phoenix, unicorn and griffin with rich detail, luminous accents and gentle motion."
+    },
+    {
+      "id": "cyberpunk",
+      "category": "Cyberpunk",
+      "version": 12,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v12/cyberpunk-v12.zip",
+      "bytes": 457766,
+      "sha256": "61558e588feb8037fdfa4c6ab37848af71dab6a190f641cdc76eba6206299aca",
+      "assets": [
+        {
+          "effectId": "RoboticArm",
+          "path": "images/RoboticArm.webp",
+          "bytes": 166414,
+          "sha256": "f9bc3dc3bb8bd8c73d72ce6a738e616fa789441ed6d52336dce4d554e5155e5c",
+          "width": 1024,
+          "height": 1024,
+          "label": "Robotic Arm",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "NeonSign",
+          "path": "images/NeonSign.webp",
+          "bytes": 155802,
+          "sha256": "3ad65133505425391c9eec412113cae7f17e72eab31a7e46f8d1898155a80bcb",
+          "width": 1024,
+          "height": 1024,
+          "label": "Neon Sign",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "Quadcopter",
+          "path": "images/Quadcopter.webp",
+          "bytes": 135172,
+          "sha256": "273b9be5979fba1f26eb64b9fdea9645fd73d8916ce7f4d18f60df389a5e5d63",
+          "width": 1024,
+          "height": 1024,
+          "label": "Quadcopter",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Cyberpunk",
+      "price": 65,
+      "description": "Three realistic cyberpunk cutouts with gentle motion."
     }
   ]
 }
