@@ -771,6 +771,64 @@
       "title": "Pirates & Treasure",
       "price": 60,
       "description": "Weathered treasure chest, antique pirate map and brass spyglass with gentle motion."
+    },
+    {
+      "id": "steampunk-clockwork",
+      "category": "SteampunkClockwork",
+      "version": 10,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v10/steampunk-clockwork-v10.zip",
+      "bytes": 1226938,
+      "sha256": "7eb5900f89b1bcf57b9b67e4a8cf000b8d119767ff9660f198e7ca8a48e71037",
+      "assets": [
+        {
+          "effectId": "BrassGears",
+          "path": "images/BrassGears.webp",
+          "bytes": 386864,
+          "sha256": "33d416e65403a8601569f2ef6c789585925f1412d1224eb7f389722876cd81c2",
+          "width": 1024,
+          "height": 1024,
+          "label": "Brass Gears",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "PocketWatch",
+          "path": "images/PocketWatch.webp",
+          "bytes": 389650,
+          "sha256": "8dabcf9c448de585eeab7ae4f42e8f3f2e7268cb7d51fe60ccea9f64a4eb225d",
+          "width": 1024,
+          "height": 1024,
+          "label": "Pocket Watch",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "SteamAirship",
+          "path": "images/SteamAirship.webp",
+          "bytes": 450036,
+          "sha256": "a162bb557ce39271113d45e16d7bed9d4ec40b1a916e2aa53840128383b4e1f9",
+          "width": 1024,
+          "height": 1024,
+          "label": "Steam Airship",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Steampunk & Clockwork",
+      "price": 60,
+      "description": "Detailed brass gears, copper pocket watch and steam airship with gentle motion."
     }
   ]
 }
