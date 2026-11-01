@@ -1,0 +1,58 @@
+{
+  "id": "fossils",
+  "category": "DinosaursFossils",
+  "version": 14,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v14/fossils-v14.zip",
+  "bytes": 858440,
+  "sha256": "00d785b695d4d8b407d8836536074d1044ed450a0664ae22b97b3cea19cdd0d2",
+  "assets": [
+    {
+      "effectId": "TRexSkull",
+      "path": "images/TRexSkull.webp",
+      "bytes": 262808,
+      "sha256": "84adf060237dcdfb97b8306359c41c451a3a1daa06bee2db1fcc83047819dc5e",
+      "width": 1024,
+      "height": 683,
+      "label": "T-Rex Skull",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "AmberFossil",
+      "path": "images/AmberFossil.webp",
+      "bytes": 293564,
+      "sha256": "4f93040d1f4a67e4e9c80253adbdd6455667f818470dbe746128f20722cf5511",
+      "width": 1024,
+      "height": 768,
+      "label": "Amber Fossil",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "DinosaurEgg",
+      "path": "images/DinosaurEgg.webp",
+      "bytes": 301684,
+      "sha256": "365d3c1f3813ae7558a993188e2556f5830fa4ab475fe9bf3d7da7ee30e8a14a",
+      "width": 960,
+      "height": 1024,
+      "label": "Dinosaur Egg",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Dinosaurs & Fossils",
+  "price": 65,
+  "description": "Three realistic dinosaurs & fossils cutouts with gentle motion."
+}
