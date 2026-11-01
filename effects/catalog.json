@@ -1061,6 +1061,64 @@
       "title": "Dinosaurs & Fossils",
       "price": 65,
       "description": "Three realistic dinosaurs & fossils cutouts with gentle motion."
+    },
+    {
+      "id": "music",
+      "category": "MusicStudio",
+      "version": 15,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v15/music-v15.zip",
+      "bytes": 435738,
+      "sha256": "c4d3e137c66305e8c2e50d6bd8834a2d0fee947c3ec3422715bedafa0573e2db",
+      "assets": [
+        {
+          "effectId": "ElectricGuitar",
+          "path": "images/ElectricGuitar.webp",
+          "bytes": 80578,
+          "sha256": "61569c0d04a53f1cd8493a877aadbab76637cd819e7b12edb4532ad4a5d18f99",
+          "width": 683,
+          "height": 1024,
+          "label": "Electric Guitar",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "VintageMicrophone",
+          "path": "images/VintageMicrophone.webp",
+          "bytes": 158994,
+          "sha256": "6031ddc7bc2b029572a73d24d1c5f8d896057b47f657246923a04b2781d17770",
+          "width": 853,
+          "height": 1024,
+          "label": "Vintage Microphone",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "StudioHeadphones",
+          "path": "images/StudioHeadphones.webp",
+          "bytes": 195750,
+          "sha256": "c4d0dbb474b73720096220afe81ef1edabfef46048ca942ea7c5c1e2f3df45ed",
+          "width": 1024,
+          "height": 1000,
+          "label": "Headphones",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Music Studio",
+      "price": 65,
+      "description": "Three realistic music studio cutouts with gentle motion."
     }
   ]
 }
