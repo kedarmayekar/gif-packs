@@ -945,6 +945,64 @@
       "title": "Cyberpunk",
       "price": 65,
       "description": "Three realistic cyberpunk cutouts with gentle motion."
+    },
+    {
+      "id": "egypt",
+      "category": "AncientEgypt",
+      "version": 13,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v13/egypt-v13.zip",
+      "bytes": 852504,
+      "sha256": "ff3d10fb9eabcb033c27b0279b5488097677a7c2c540b1ae0bb0281f90c6fa0e",
+      "assets": [
+        {
+          "effectId": "PharaohMask",
+          "path": "images/PharaohMask.webp",
+          "bytes": 347452,
+          "sha256": "868c0281dcddfa7269fd69f2123b4c96296bb507b9519647ebb544079afc6834",
+          "width": 853,
+          "height": 1024,
+          "label": "Pharaoh Mask",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "ScarabAmulet",
+          "path": "images/ScarabAmulet.webp",
+          "bytes": 304996,
+          "sha256": "93327cf03497047d15f2f06ad95df4a8bcfb0244682dffe7e14c473801795fcc",
+          "width": 1024,
+          "height": 853,
+          "label": "Scarab Amulet",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "CanopicJar",
+          "path": "images/CanopicJar.webp",
+          "bytes": 199668,
+          "sha256": "b737070254cbfc333db90502ea51093379127187a55e25bc668154538487092d",
+          "width": 683,
+          "height": 1024,
+          "label": "Canopic Jar",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Ancient Egypt",
+      "price": 65,
+      "description": "Three realistic ancient egypt cutouts with gentle motion."
     }
   ]
 }
