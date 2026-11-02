@@ -1,0 +1,58 @@
+{
+  "id": "sweet-treats",
+  "category": "SweetTreats",
+  "version": 22,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v22/sweet-treats-v22.zip",
+  "bytes": 689566,
+  "sha256": "0255be58a14f8e28b9aefe83db8f723a805ec666ceafd3c6302b48a1b86ff483",
+  "assets": [
+    {
+      "effectId": "FrostedCupcake",
+      "path": "images/FrostedCupcake.webp",
+      "bytes": 210388,
+      "sha256": "a4b2e4aee478e684df33924718392d3f26d7703ba5f330cb0c3876f009236fa1",
+      "width": 1024,
+      "height": 1024,
+      "label": "Cupcake",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "MacaronStack",
+      "path": "images/MacaronStack.webp",
+      "bytes": 276426,
+      "sha256": "5a9cac70e304ca8364258d8ebb34fd2607f1e5c71156f98d95dfe1ae30860dc8",
+      "width": 1024,
+      "height": 1024,
+      "label": "Macaron Stack",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "StrawberryIceCreamCone",
+      "path": "images/StrawberryIceCreamCone.webp",
+      "bytes": 202334,
+      "sha256": "49f80dfe7536559462ab7c832f38125e33d977058de46c764fdbced3f7ebc25a",
+      "width": 1024,
+      "height": 1024,
+      "label": "Strawberry Ice Cream Cone",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Sweet Treats",
+  "price": 65,
+  "description": "Three realistic sweet treats cutouts with gentle motion."
+}
