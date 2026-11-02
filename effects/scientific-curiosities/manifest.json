@@ -1,0 +1,58 @@
+{
+  "id": "scientific-curiosities",
+  "category": "ScientificCuriosities",
+  "version": 23,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v23/scientific-curiosities-v23.zip",
+  "bytes": 365982,
+  "sha256": "b7ab81e66ae13f9b08ba5198ccaf4e37c8932c462f11b00076429fc610db2bf9",
+  "assets": [
+    {
+      "effectId": "LabMicroscope",
+      "path": "images/LabMicroscope.webp",
+      "bytes": 117868,
+      "sha256": "2d51448ba848e8a7d5813f48345a5aa8aa64c9d0d38a4a5710015594d321a16b",
+      "width": 1024,
+      "height": 1024,
+      "label": "Microscope",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "BrassTelescope",
+      "path": "images/BrassTelescope.webp",
+      "bytes": 179742,
+      "sha256": "cd4271505f81ea249da60974450393cc3943c8582a15b27c185aa972bf4c97aa",
+      "width": 1024,
+      "height": 1024,
+      "label": "Brass Telescope",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "MolecularModel",
+      "path": "images/MolecularModel.webp",
+      "bytes": 67968,
+      "sha256": "89e17c7d5d41da0274ecc3c1e3b06b5b6dd1166253d8527a58549d45b12e2aac",
+      "width": 1024,
+      "height": 1024,
+      "label": "Molecular Model",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Scientific Curiosities",
+  "price": 65,
+  "description": "Three realistic scientific curiosities cutouts with gentle motion."
+}
