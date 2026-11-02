@@ -1,0 +1,114 @@
+{
+  "id": "vehicles-transport",
+  "category": "VehiclesTransport",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/vehicles-transport-v26.zip",
+  "bytes": 1284880,
+  "sha256": "885a5c7c2f6f3b548b5b8fd08e1a258e7e3807fa74203f8d22afd021b409e47c",
+  "assets": [
+    {
+      "effectId": "Bus",
+      "path": "images/Bus.webp",
+      "bytes": 148616,
+      "sha256": "ae59e4848af590ab78f571bc6dc2af1ab4dc8662046dc010dca64ac6ea633b1b",
+      "width": 1024,
+      "height": 1024,
+      "label": "Bus",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Train",
+      "path": "images/Train.webp",
+      "bytes": 147564,
+      "sha256": "a861e2f91b3f0ece1ae7b3abfd6fc6610faf26afff8ba45bad0c42c7964f82d7",
+      "width": 1024,
+      "height": 1024,
+      "label": "Train",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Car",
+      "path": "images/Car.webp",
+      "bytes": 106938,
+      "sha256": "541d74cb0d766a7ff5acfce733aff722d09a11e4e689593e5a900e1239d7aba4",
+      "width": 1024,
+      "height": 1024,
+      "label": "Car",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Metro",
+      "path": "images/Metro.webp",
+      "bytes": 127960,
+      "sha256": "5a4cb5b23dc9fbfe89f01df0c56009754cd8ef0738bb32156e9414b56a2ddec8",
+      "width": 1024,
+      "height": 1024,
+      "label": "Metro",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Aeroplane",
+      "path": "images/Aeroplane.webp",
+      "bytes": 81018,
+      "sha256": "43e1204561f4db840d19cddb1db3cd2fe9c91f9c0c1bcf88387dc4fea29003dd",
+      "width": 1024,
+      "height": 1024,
+      "label": "Aeroplane",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Ships",
+      "path": "images/Ships.webp",
+      "bytes": 446636,
+      "sha256": "1539e646fc85e0a14bd86f33e90ecae93be1dc47da2575ae71b1398b235c07d8",
+      "width": 1024,
+      "height": 1024,
+      "label": "Ships",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Boats",
+      "path": "images/Boats.webp",
+      "bytes": 225356,
+      "sha256": "35735b02a2044c1e2042117cd34cffdabe4de14e3393e06bbd98b754a7055b24",
+      "width": 1024,
+      "height": 1024,
+      "label": "Boats",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Vehicles & Transport",
+  "price": 75,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

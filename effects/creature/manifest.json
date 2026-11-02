@@ -1,0 +1,78 @@
+{
+  "id": "creature",
+  "category": "Creature",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/creature-v26.zip",
+  "bytes": 1549852,
+  "sha256": "351c3cd451a47b56d549b50665dff1c4d34a9863ca83f9e6e968be1e9e443bf2",
+  "assets": [
+    {
+      "effectId": "Wolf",
+      "path": "images/Wolf.webp",
+      "bytes": 270170,
+      "sha256": "af8dfd8ac313a82a631bc4d0c29c96eafaa3fe03ed0b991972dee3f8e93d0b86",
+      "width": 1024,
+      "height": 1024,
+      "label": "Wolf",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Spider",
+      "path": "images/Spider.webp",
+      "bytes": 341202,
+      "sha256": "f62058951299327bbc96a4aa4f047230c92ebf96f77907769bdc6537c203925e",
+      "width": 1024,
+      "height": 1024,
+      "label": "Spider",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Tarantula",
+      "path": "images/Tarantula.webp",
+      "bytes": 455646,
+      "sha256": "f2e1409402b230b0f06cf514be31595570a38bd00fba8ccac0c3b54984660ca1",
+      "width": 1024,
+      "height": 1024,
+      "label": "Tarantula",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "DragonSilhouette",
+      "path": "images/DragonSilhouette.webp",
+      "bytes": 319832,
+      "sha256": "93ea204c17ef196621e249d586473baac0bc5fb7ca930dc7a5461d0115b00c73",
+      "width": 1024,
+      "height": 1024,
+      "label": "Dragon Silhouette",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "FlyingBirds",
+      "path": "images/FlyingBirds.webp",
+      "bytes": 162388,
+      "sha256": "3ebc3ad2451013c1519602a19429fc862b47cd30081dc8c95999053b91c7ae0c",
+      "width": 1024,
+      "height": 1024,
+      "label": "Flying Birds",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Creature",
+  "price": 30,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

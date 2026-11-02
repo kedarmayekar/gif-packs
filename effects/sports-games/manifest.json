@@ -1,0 +1,221 @@
+{
+  "id": "sports-games",
+  "category": "SportsGames",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/sports-games-v26.zip",
+  "bytes": 2618506,
+  "sha256": "fdd24218b79f3ec9b97f99182005e8124477d71574404596eb3b560237212d22",
+  "assets": [
+    {
+      "effectId": "F1Car",
+      "path": "images/F1Car.webp",
+      "bytes": 137104,
+      "sha256": "485b50582ea76dc5f842657c73590b0cf4696167fcf56272ab12199730b77d74",
+      "width": 1024,
+      "height": 1024,
+      "label": "F1 Car",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Football",
+      "path": "images/Football.webp",
+      "bytes": 206354,
+      "sha256": "844fc22f73d031d633a3f631b3697e8b93039aee05149039c0394010fd26d802",
+      "width": 1024,
+      "height": 1024,
+      "label": "Football",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "BowlingBall",
+      "path": "images/BowlingBall.webp",
+      "bytes": 176900,
+      "sha256": "5aff1b6f104501657223a7425b84ae2de0342fce08017c2c91b4c38e573901bb",
+      "width": 1024,
+      "height": 1024,
+      "label": "Bowling Ball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "CricketBat",
+      "path": "images/CricketBat.webp",
+      "bytes": 52412,
+      "sha256": "059747ab28f9e5f57206d368a1e1e16d6d69ec54e4d28dad02bf08cdf69b88bd",
+      "width": 1024,
+      "height": 1024,
+      "label": "Cricket Bat",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "TennisBall",
+      "path": "images/TennisBall.webp",
+      "bytes": 340662,
+      "sha256": "608fd21d58dab514eef08f0dd8a9c817f2b6e8e80902292efa39d1e44daab0a3",
+      "width": 1024,
+      "height": 1024,
+      "label": "Tennis Ball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "BowlingPins",
+      "path": "images/BowlingPins.webp",
+      "bytes": 115900,
+      "sha256": "a701c6d0fc3fbfc1ced776aa31d7f97410254744903f639f5f7d3828856c033e",
+      "width": 1024,
+      "height": 1024,
+      "label": "Bowling Pins",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Hockey",
+      "path": "images/Hockey.webp",
+      "bytes": 81426,
+      "sha256": "ef5ebf319ff7e888fa93029797a36f3ccb17fe64d90a76cf1d30530ab5eebb0c",
+      "width": 1024,
+      "height": 1024,
+      "label": "Hockey Stick & Puck",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Basketball",
+      "path": "images/Basketball.webp",
+      "bytes": 344856,
+      "sha256": "3759dd4b6454433a820ba8c275dc3bc16ed0b581447a230b17e80f5e7a70b3ec",
+      "width": 1024,
+      "height": 1024,
+      "label": "Basketball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Baseball",
+      "path": "images/Baseball.webp",
+      "bytes": 209974,
+      "sha256": "4fea2f3918302ecda9f4eff7c8b4eb85929ae5ab0739624b48309e17b32210c6",
+      "width": 1024,
+      "height": 1024,
+      "label": "Baseball",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Badminton",
+      "path": "images/Badminton.webp",
+      "bytes": 169010,
+      "sha256": "3cffb45a1bce1b4edc8d09ab970de00ef96e9bb8703400b50178c8b83b73fc48",
+      "width": 1024,
+      "height": 1024,
+      "label": "Badminton",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "TableTennis",
+      "path": "images/TableTennis.webp",
+      "bytes": 164788,
+      "sha256": "f56a71de057a5c339c2353f50e90b34e5ab2b587154c04af7f938b51d728fbd3",
+      "width": 1024,
+      "height": 1024,
+      "label": "Table Tennis",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Chess",
+      "path": "images/Chess.webp",
+      "bytes": 109386,
+      "sha256": "51441249a08aea48774dbc85b673acb560ec109811b5d5c5881fd5a8be737def",
+      "width": 1024,
+      "height": 1024,
+      "label": "Chess",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Dice",
+      "path": "images/Dice.webp",
+      "bytes": 97158,
+      "sha256": "35b209cf430acef6204e23beaec3172a5d707f60ba96cbf7feb4270a6ac562b5",
+      "width": 1024,
+      "height": 1024,
+      "label": "Dice",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 4,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "SportsAccessories",
+      "path": "images/SportsAccessories.webp",
+      "bytes": 410904,
+      "sha256": "70a32e2f885a76899218a7c6243c03e8ec42c683609dbdeae9dcb4d9ee02247c",
+      "width": 1024,
+      "height": 1024,
+      "label": "Sports Accessories",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Sports & Games",
+  "price": 90,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

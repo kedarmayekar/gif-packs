@@ -1,0 +1,56 @@
+{
+  "id": "jungle-safari",
+  "category": "JungleSafari",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/jungle-safari-v26.zip",
+  "bytes": 706246,
+  "sha256": "9d71ec5413629f34c170fd9435a19049c1b9dd4e306fb038b242dd780f362dda",
+  "assets": [
+    {
+      "effectId": "SafariElephant",
+      "path": "images/SafariElephant.webp",
+      "bytes": 336534,
+      "sha256": "9ff3d21e3c584d8ac4eac7aad50558e8599a5ed2830b6370b61537c1bc3f461c",
+      "width": 1024,
+      "height": 1024,
+      "label": "Safari Elephant",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "TropicalParrot",
+      "path": "images/TropicalParrot.webp",
+      "bytes": 103816,
+      "sha256": "b7107d330e50fed5092323e088c87a66e4aa048f1df3202d68ff8355b7a61562",
+      "width": 1024,
+      "height": 1024,
+      "label": "Tropical Parrot",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "MonsteraLeaf",
+      "path": "images/MonsteraLeaf.webp",
+      "bytes": 265494,
+      "sha256": "436d9ef7d6c2f63cf8e25980653b10e48856ffe8827b2b3c7dba6dd055323fb6",
+      "width": 1024,
+      "height": 1024,
+      "label": "Monstera Leaf",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Jungle & Safari",
+  "price": 60,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

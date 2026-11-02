@@ -1,0 +1,195 @@
+{
+  "id": "marine-life",
+  "category": "MarineLife",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/marine-life-v26.zip",
+  "bytes": 3705884,
+  "sha256": "9949f39ceaaf1b7978dbb73697bc05af0da9fbbb2af4c18a18ccc8a520d75422",
+  "assets": [
+    {
+      "effectId": "Fish",
+      "path": "images/Fish.webp",
+      "bytes": 269010,
+      "sha256": "76dfc8bff823203b41472dc6bb1979f97e3aba19663b5238c33b9d4dd2a0337c",
+      "width": 1024,
+      "height": 683,
+      "label": "Fish",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "FishV2",
+      "path": "images/FishV2.webp",
+      "bytes": 152542,
+      "sha256": "3747d26e91b3218e728293ca707996cf673e2495da91dc0e437cd8ac395cdeef",
+      "width": 1024,
+      "height": 1024,
+      "label": "Fish",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Shark",
+      "path": "images/Shark.webp",
+      "bytes": 139474,
+      "sha256": "24345188d8916db29ec27f4a15d75a5f1c4a5e13176e62962e82c28cc27c021a",
+      "width": 1024,
+      "height": 1024,
+      "label": "Shark",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Octopus",
+      "path": "images/Octopus.webp",
+      "bytes": 355574,
+      "sha256": "c9417f1a4fc5ef6df886fb4c0437f08aab7ec0592f511c6c961665d399a5ec28",
+      "width": 1024,
+      "height": 1024,
+      "label": "Octopus",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Corals",
+      "path": "images/Corals.webp",
+      "bytes": 467100,
+      "sha256": "cd19f3224630cb991839d1fb54f8b7bfc7f380d82b2a33acfd5243614e6d6aa7",
+      "width": 1024,
+      "height": 1024,
+      "label": "Corals",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "SeaShells",
+      "path": "images/SeaShells.webp",
+      "bytes": 298300,
+      "sha256": "d1648dd4ae440479c0ca26e0d73a9b9d9b31c428924cb6d513f9415fd0ffbdbf",
+      "width": 1024,
+      "height": 1024,
+      "label": "Sea Shells",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Jellyfish",
+      "path": "images/Jellyfish.webp",
+      "bytes": 420406,
+      "sha256": "e8d4a78e2c06c9d156c153d9cdda405227a7bfb50ce005ce08737e49e6bb2054",
+      "width": 1024,
+      "height": 1024,
+      "label": "Jellyfish",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Crab",
+      "path": "images/Crab.webp",
+      "bytes": 306894,
+      "sha256": "2d85163845e67538372a081a7f191b7c7d1115a759f23e9669dacfe1de331273",
+      "width": 1024,
+      "height": 1024,
+      "label": "Crab",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Whale",
+      "path": "images/Whale.webp",
+      "bytes": 221680,
+      "sha256": "bbf8ccfac13176b0c4fe7ae57549a6497bc34adcba0270bba36fdff8696997dc",
+      "width": 1024,
+      "height": 1024,
+      "label": "Whale",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Dolphin",
+      "path": "images/Dolphin.webp",
+      "bytes": 97586,
+      "sha256": "2387e5d913ebb74f5b3dd7e31cbc88d2cf18cd7914ef9c5960f193612224a39a",
+      "width": 1024,
+      "height": 1024,
+      "label": "Dolphin",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Turtle",
+      "path": "images/Turtle.webp",
+      "bytes": 255678,
+      "sha256": "1026b27ec1693bf3591669f2bf98662714e6dab90e1d792695d01c0e947c56a9",
+      "width": 1024,
+      "height": 1024,
+      "label": "Turtle",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Starfish",
+      "path": "images/Starfish.webp",
+      "bytes": 253670,
+      "sha256": "53626fba417ab3946ab0b7cf28c984c457aff5e3354867b50303ad9b565af2d0",
+      "width": 1024,
+      "height": 1024,
+      "label": "Starfish",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Seahorse",
+      "path": "images/Seahorse.webp",
+      "bytes": 207426,
+      "sha256": "02797f7e6faace71f316200b7fe0ef67c4c5204c76d0b60273cfd401c183b2cc",
+      "width": 1024,
+      "height": 1024,
+      "label": "Seahorse",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Squid",
+      "path": "images/Squid.webp",
+      "bytes": 258944,
+      "sha256": "3c5e4c15141a79c200b37853a4a76838d451aa0361c3a189275993f163b33c15",
+      "width": 1024,
+      "height": 1024,
+      "label": "Squid",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Marine Life",
+  "price": 25,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

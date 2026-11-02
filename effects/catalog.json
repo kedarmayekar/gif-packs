@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "packs": [
     {
-      "id": "vehicles",
+      "id": "vehicles-transport",
       "category": "VehiclesTransport",
-      "version": 7,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/vehicles-v7.zip",
-      "bytes": 612668,
-      "sha256": "a860e991f8b97ba037d731fae19f104d3fdaad4dd0ac426e07adcabf02231513",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/vehicles-transport-v26.zip",
+      "bytes": 1284880,
+      "sha256": "885a5c7c2f6f3b548b5b8fd08e1a258e7e3807fa74203f8d22afd021b409e47c",
       "assets": [
         {
           "effectId": "Bus",
@@ -83,18 +83,45 @@
             "rotation": 1.2,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "Ships",
+          "path": "images/Ships.webp",
+          "bytes": 446636,
+          "sha256": "1539e646fc85e0a14bd86f33e90ecae93be1dc47da2575ae71b1398b235c07d8",
+          "width": 1024,
+          "height": 1024,
+          "label": "Ships",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Boats",
+          "path": "images/Boats.webp",
+          "bytes": 225356,
+          "sha256": "35735b02a2044c1e2042117cd34cffdabe4de14e3393e06bbd98b754a7055b24",
+          "width": 1024,
+          "height": 1024,
+          "label": "Boats",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
         }
       ],
       "title": "Vehicles & Transport",
-      "price": 75
+      "price": 75,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     },
     {
-      "id": "sports",
+      "id": "sports-games",
       "category": "SportsGames",
-      "version": 7,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v7/sports-v7.zip",
-      "bytes": 2207468,
-      "sha256": "788930f32746f5272c10e5238abf0ef286fa328faca80c2de46aef57e17a847b",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/sports-games-v26.zip",
+      "bytes": 2618506,
+      "sha256": "fdd24218b79f3ec9b97f99182005e8124477d71574404596eb3b560237212d22",
       "assets": [
         {
           "effectId": "F1Car",
@@ -290,10 +317,24 @@
             "rotation": 4,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "SportsAccessories",
+          "path": "images/SportsAccessories.webp",
+          "bytes": 410904,
+          "sha256": "70a32e2f885a76899218a7c6243c03e8ec42c683609dbdeae9dcb4d9ee02247c",
+          "width": 1024,
+          "height": 1024,
+          "label": "Sports Accessories",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
         }
       ],
       "title": "Sports & Games",
-      "price": 90
+      "price": 90,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     },
     {
       "id": "jewels",
@@ -659,10 +700,10 @@
     {
       "id": "space-exploration",
       "category": "SpaceExploration",
-      "version": 8,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v8/space-exploration-v8.zip",
-      "bytes": 430912,
-      "sha256": "db313540dfebf4d83d35229bcb4ab3a7682e38395593c5036e39f35aeea7ed97",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/space-exploration-v26.zip",
+      "bytes": 983808,
+      "sha256": "30c64b6e30f3f71dd2edcc6c9c7683c9c0a3aa3f8b24d01a71ceed279f3b87e8",
       "assets": [
         {
           "effectId": "Rocket",
@@ -708,11 +749,50 @@
             "rotation": 2,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "LunarRover",
+          "path": "images/LunarRover.webp",
+          "bytes": 276214,
+          "sha256": "d469f6afe08aee53d67c132bdfc91f981d38b075e96186fe14a0800ebaed9d62",
+          "width": 1024,
+          "height": 1024,
+          "label": "Lunar Rover",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "OrbitalSatellite",
+          "path": "images/OrbitalSatellite.webp",
+          "bytes": 174294,
+          "sha256": "5ecd9bf743d9e494fb665d4d661923f1eeb8d4a785185275e2903d1f147074fa",
+          "width": 1024,
+          "height": 1024,
+          "label": "Orbital Satellite",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "RocketLaunch",
+          "path": "images/RocketLaunch.webp",
+          "bytes": 102012,
+          "sha256": "c1a8bb64a6ad2abbb3c412740f623400f57c4de95d7b15ba3a2d3fb53abb2b8e",
+          "width": 1024,
+          "height": 1024,
+          "label": "Rocket Launch",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
         }
       ],
       "title": "Space Exploration",
-      "price": 65,
-      "description": "Realistic rocket, astronaut and satellite with gentle floating motion."
+      "price": 70,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     },
     {
       "id": "pirates-treasure",
@@ -1645,10 +1725,10 @@
     {
       "id": "caves-underground",
       "category": "CavesUnderground",
-      "version": 25,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/caves-underground-v25.zip",
-      "bytes": 705900,
-      "sha256": "c5ea583af105523fee2c68febdbf1452f0e983d871f150c93d7be99688c5792b",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/caves-underground-v26.zip",
+      "bytes": 1175518,
+      "sha256": "4e134ea3da3bfa41d9420a37bfbeb664d814e2d70e47f8302ce02ab3c3633fa2",
       "assets": [
         {
           "effectId": "AmmoniteFossil",
@@ -1679,11 +1759,24 @@
             "rotation": 1.2,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "StalactiteCavern",
+          "path": "images/StalactiteCavern.webp",
+          "bytes": 469486,
+          "sha256": "4b2b32d2248a6215503f375a80b47a28c7f504990ae8a1afdd2aa08ff568a3c0",
+          "width": 1024,
+          "height": 1024,
+          "label": "Stalactite Cavern",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
         }
       ],
       "title": "Caves & Underground",
       "price": 55,
-      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     },
     {
       "id": "desert-canyons",
@@ -1746,10 +1839,10 @@
     {
       "id": "enchanted-forest",
       "category": "EnchantedForest",
-      "version": 25,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/enchanted-forest-v25.zip",
-      "bytes": 458966,
-      "sha256": "d872dd35abe602142c5e22d0a448acf0720df0a7983ee750b56e2f7d0e8f1159",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/enchanted-forest-v26.zip",
+      "bytes": 1138394,
+      "sha256": "6129d4d5264ad2bfcfc69ebfee9fb5b771cb71869324093f2584e67f55f1c728",
       "assets": [
         {
           "effectId": "FairyDoor",
@@ -1765,19 +1858,45 @@
             "rotation": 1.2,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "SpiritDeer",
+          "path": "images/SpiritDeer.webp",
+          "bytes": 274440,
+          "sha256": "0c8c280e10cb0b7f10b4cadd87146ff7bde67db2af45c0d03d72ab6910e75bde",
+          "width": 1024,
+          "height": 1024,
+          "label": "Spirit Deer",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "LuminousRoots",
+          "path": "images/LuminousRoots.webp",
+          "bytes": 404742,
+          "sha256": "9b5ba908796bfcf3c4a888a24285d54b6b7dddcdbc07e17a8c000ea45d05ca48",
+          "width": 1024,
+          "height": 1024,
+          "label": "Luminous Roots",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
         }
       ],
       "title": "Enchanted Forest",
       "price": 65,
-      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     },
     {
       "id": "farms-countryside",
       "category": "FarmsCountryside",
-      "version": 25,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/farms-countryside-v25.zip",
-      "bytes": 485432,
-      "sha256": "894b33cb249913c787995a228d9e56ca91e50aab635111c6077ff0277ad905a2",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/farms-countryside-v26.zip",
+      "bytes": 1384432,
+      "sha256": "20f772d6741ec52b90c0e86a75f61b67d44e59a01e729209bcc3b76c1cff518a",
       "assets": [
         {
           "effectId": "HayBales",
@@ -1793,11 +1912,37 @@
             "rotation": 1.2,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "CountrysideWindmill",
+          "path": "images/CountrysideWindmill.webp",
+          "bytes": 318604,
+          "sha256": "69753a9c560534d89dbd45cab4cf82b8c9610c3d5fd433c5e560d3d21e578fe3",
+          "width": 1024,
+          "height": 1024,
+          "label": "Countryside Windmill",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "WheatField",
+          "path": "images/WheatField.webp",
+          "bytes": 580138,
+          "sha256": "a0592e12fda2c4a4a4d002ad2a09a41d3c913001997e669cd78b211acfc436c8",
+          "width": 1024,
+          "height": 1024,
+          "label": "Wheat Field",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
         }
       ],
       "title": "Farms & Countryside",
       "price": 45,
-      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     },
     {
       "id": "art-creativity",
@@ -1888,10 +2033,10 @@
     {
       "id": "objects",
       "category": "Objects",
-      "version": 25,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/objects-v25.zip",
-      "bytes": 320954,
-      "sha256": "73a519de7cd65e76c6cbbf428b9567f8b6db8b8fd73329e9f726d1e353b09262",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/objects-v26.zip",
+      "bytes": 567786,
+      "sha256": "c70dc3ac3788ea99fd53fa1af62e073f823b034f661096e97dac694019df9be8",
       "assets": [
         {
           "effectId": "Sword",
@@ -1937,11 +2082,24 @@
             "rotation": 1.2,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "Bowl",
+          "path": "images/Bowl.webp",
+          "bytes": 246724,
+          "sha256": "2576a19c11c40a8b0275c54c42f79220c3aff3d36208288e5e29a9d6c8019b29",
+          "width": 1024,
+          "height": 1024,
+          "label": "Bowl",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
         }
       ],
       "title": "Objects",
       "price": 10,
-      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     },
     {
       "id": "ambient-cozy",
@@ -1998,6 +2156,937 @@
       "title": "Audio Reactive",
       "price": 40,
       "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "bio",
+      "category": "Bio",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/bio-v26.zip",
+      "bytes": 614812,
+      "sha256": "5b18df5cfde0bbf9e5d20cd97d34886c02de8b798cc2de233ef6ac572c4f517a",
+      "assets": [
+        {
+          "effectId": "CoralReef",
+          "path": "images/CoralReef.webp",
+          "bytes": 614672,
+          "sha256": "2a7c25f2a1eb55c5b2975a2e8f62321745869a256ee0cdf6cb3ef5f71013b05d",
+          "width": 1024,
+          "height": 1024,
+          "label": "Coral Reef",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Bio",
+      "price": 25,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "creature",
+      "category": "Creature",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/creature-v26.zip",
+      "bytes": 1549852,
+      "sha256": "351c3cd451a47b56d549b50665dff1c4d34a9863ca83f9e6e968be1e9e443bf2",
+      "assets": [
+        {
+          "effectId": "Wolf",
+          "path": "images/Wolf.webp",
+          "bytes": 270170,
+          "sha256": "af8dfd8ac313a82a631bc4d0c29c96eafaa3fe03ed0b991972dee3f8e93d0b86",
+          "width": 1024,
+          "height": 1024,
+          "label": "Wolf",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Spider",
+          "path": "images/Spider.webp",
+          "bytes": 341202,
+          "sha256": "f62058951299327bbc96a4aa4f047230c92ebf96f77907769bdc6537c203925e",
+          "width": 1024,
+          "height": 1024,
+          "label": "Spider",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Tarantula",
+          "path": "images/Tarantula.webp",
+          "bytes": 455646,
+          "sha256": "f2e1409402b230b0f06cf514be31595570a38bd00fba8ccac0c3b54984660ca1",
+          "width": 1024,
+          "height": 1024,
+          "label": "Tarantula",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "DragonSilhouette",
+          "path": "images/DragonSilhouette.webp",
+          "bytes": 319832,
+          "sha256": "93ea204c17ef196621e249d586473baac0bc5fb7ca930dc7a5461d0115b00c73",
+          "width": 1024,
+          "height": 1024,
+          "label": "Dragon Silhouette",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "FlyingBirds",
+          "path": "images/FlyingBirds.webp",
+          "bytes": 162388,
+          "sha256": "3ebc3ad2451013c1519602a19429fc862b47cd30081dc8c95999053b91c7ae0c",
+          "width": 1024,
+          "height": 1024,
+          "label": "Flying Birds",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Creature",
+      "price": 30,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "horror-dark",
+      "category": "HorrorDark",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/horror-dark-v26.zip",
+      "bytes": 923418,
+      "sha256": "1b5c2cccf9268093c8d8b2b05f3031796b200cdf8eca03e6d6c07903c260136d",
+      "assets": [
+        {
+          "effectId": "Ravens",
+          "path": "images/Ravens.webp",
+          "bytes": 205684,
+          "sha256": "95c0e4595a9788cf3f0a5c9de2a75a41927d1ef7227df026f4888cea5af820cd",
+          "width": 1024,
+          "height": 1024,
+          "label": "Ravens",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Mummy",
+          "path": "images/Mummy.webp",
+          "bytes": 161742,
+          "sha256": "50a0737a6f42213a5540d332099dd4e955bc2fa5b2c97c96be465127afc70b53",
+          "width": 1024,
+          "height": 1024,
+          "label": "Mummy",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Ghost",
+          "path": "images/Ghost.webp",
+          "bytes": 230742,
+          "sha256": "6d3b9391cf23dcab81023f2698f71dd4d66af789ceb94baf6abe5c434eb7b686",
+          "width": 1024,
+          "height": 1024,
+          "label": "Ghost",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "HalloweenSet",
+          "path": "images/HalloweenSet.webp",
+          "bytes": 324772,
+          "sha256": "2eaff0cdf23cee520c98a37b27a98fab32b48d3074b30a54076ec6d16a0a3e42",
+          "width": 1024,
+          "height": 1024,
+          "label": "Halloween Set",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "HorrorDark",
+      "price": 35,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "ice-arctic",
+      "category": "IceArctic",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/ice-arctic-v26.zip",
+      "bytes": 836598,
+      "sha256": "64b2100a41c4bf6ac69e0cda1a9480dc8ae50c57bea1cc9ae03324ed94de31ea",
+      "assets": [
+        {
+          "effectId": "Glacier",
+          "path": "images/Glacier.webp",
+          "bytes": 342672,
+          "sha256": "21b0784decae44c2554165e26a66c759af35d72c7ce02a08618eed09e3d3b6f0",
+          "width": 1024,
+          "height": 1024,
+          "label": "Glacier",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Iceberg",
+          "path": "images/Iceberg.webp",
+          "bytes": 278458,
+          "sha256": "4add76927ad009418f26632df4f799ebb491fc600849553e3a4eb0f32aa96142",
+          "width": 1024,
+          "height": 1024,
+          "label": "Iceberg",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Snowdrift",
+          "path": "images/Snowdrift.webp",
+          "bytes": 215100,
+          "sha256": "b2b61593ca2579907ecab2e5b9e55269c54a161b8189c142ee2164c1ed73a2d2",
+          "width": 1024,
+          "height": 1024,
+          "label": "Snowdrift",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "IceArctic",
+      "price": 25,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "jungle-safari",
+      "category": "JungleSafari",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/jungle-safari-v26.zip",
+      "bytes": 706246,
+      "sha256": "9d71ec5413629f34c170fd9435a19049c1b9dd4e306fb038b242dd780f362dda",
+      "assets": [
+        {
+          "effectId": "SafariElephant",
+          "path": "images/SafariElephant.webp",
+          "bytes": 336534,
+          "sha256": "9ff3d21e3c584d8ac4eac7aad50558e8599a5ed2830b6370b61537c1bc3f461c",
+          "width": 1024,
+          "height": 1024,
+          "label": "Safari Elephant",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "TropicalParrot",
+          "path": "images/TropicalParrot.webp",
+          "bytes": 103816,
+          "sha256": "b7107d330e50fed5092323e088c87a66e4aa048f1df3202d68ff8355b7a61562",
+          "width": 1024,
+          "height": 1024,
+          "label": "Tropical Parrot",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "MonsteraLeaf",
+          "path": "images/MonsteraLeaf.webp",
+          "bytes": 265494,
+          "sha256": "436d9ef7d6c2f63cf8e25980653b10e48856ffe8827b2b3c7dba6dd055323fb6",
+          "width": 1024,
+          "height": 1024,
+          "label": "Monstera Leaf",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Jungle & Safari",
+      "price": 60,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "marine-life",
+      "category": "MarineLife",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/marine-life-v26.zip",
+      "bytes": 3705884,
+      "sha256": "9949f39ceaaf1b7978dbb73697bc05af0da9fbbb2af4c18a18ccc8a520d75422",
+      "assets": [
+        {
+          "effectId": "Fish",
+          "path": "images/Fish.webp",
+          "bytes": 269010,
+          "sha256": "76dfc8bff823203b41472dc6bb1979f97e3aba19663b5238c33b9d4dd2a0337c",
+          "width": 1024,
+          "height": 683,
+          "label": "Fish",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "FishV2",
+          "path": "images/FishV2.webp",
+          "bytes": 152542,
+          "sha256": "3747d26e91b3218e728293ca707996cf673e2495da91dc0e437cd8ac395cdeef",
+          "width": 1024,
+          "height": 1024,
+          "label": "Fish",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Shark",
+          "path": "images/Shark.webp",
+          "bytes": 139474,
+          "sha256": "24345188d8916db29ec27f4a15d75a5f1c4a5e13176e62962e82c28cc27c021a",
+          "width": 1024,
+          "height": 1024,
+          "label": "Shark",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Octopus",
+          "path": "images/Octopus.webp",
+          "bytes": 355574,
+          "sha256": "c9417f1a4fc5ef6df886fb4c0437f08aab7ec0592f511c6c961665d399a5ec28",
+          "width": 1024,
+          "height": 1024,
+          "label": "Octopus",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Corals",
+          "path": "images/Corals.webp",
+          "bytes": 467100,
+          "sha256": "cd19f3224630cb991839d1fb54f8b7bfc7f380d82b2a33acfd5243614e6d6aa7",
+          "width": 1024,
+          "height": 1024,
+          "label": "Corals",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "SeaShells",
+          "path": "images/SeaShells.webp",
+          "bytes": 298300,
+          "sha256": "d1648dd4ae440479c0ca26e0d73a9b9d9b31c428924cb6d513f9415fd0ffbdbf",
+          "width": 1024,
+          "height": 1024,
+          "label": "Sea Shells",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Jellyfish",
+          "path": "images/Jellyfish.webp",
+          "bytes": 420406,
+          "sha256": "e8d4a78e2c06c9d156c153d9cdda405227a7bfb50ce005ce08737e49e6bb2054",
+          "width": 1024,
+          "height": 1024,
+          "label": "Jellyfish",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Crab",
+          "path": "images/Crab.webp",
+          "bytes": 306894,
+          "sha256": "2d85163845e67538372a081a7f191b7c7d1115a759f23e9669dacfe1de331273",
+          "width": 1024,
+          "height": 1024,
+          "label": "Crab",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Whale",
+          "path": "images/Whale.webp",
+          "bytes": 221680,
+          "sha256": "bbf8ccfac13176b0c4fe7ae57549a6497bc34adcba0270bba36fdff8696997dc",
+          "width": 1024,
+          "height": 1024,
+          "label": "Whale",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Dolphin",
+          "path": "images/Dolphin.webp",
+          "bytes": 97586,
+          "sha256": "2387e5d913ebb74f5b3dd7e31cbc88d2cf18cd7914ef9c5960f193612224a39a",
+          "width": 1024,
+          "height": 1024,
+          "label": "Dolphin",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Turtle",
+          "path": "images/Turtle.webp",
+          "bytes": 255678,
+          "sha256": "1026b27ec1693bf3591669f2bf98662714e6dab90e1d792695d01c0e947c56a9",
+          "width": 1024,
+          "height": 1024,
+          "label": "Turtle",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Starfish",
+          "path": "images/Starfish.webp",
+          "bytes": 253670,
+          "sha256": "53626fba417ab3946ab0b7cf28c984c457aff5e3354867b50303ad9b565af2d0",
+          "width": 1024,
+          "height": 1024,
+          "label": "Starfish",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Seahorse",
+          "path": "images/Seahorse.webp",
+          "bytes": 207426,
+          "sha256": "02797f7e6faace71f316200b7fe0ef67c4c5204c76d0b60273cfd401c183b2cc",
+          "width": 1024,
+          "height": 1024,
+          "label": "Seahorse",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Squid",
+          "path": "images/Squid.webp",
+          "bytes": 258944,
+          "sha256": "3c5e4c15141a79c200b37853a4a76838d451aa0361c3a189275993f163b33c15",
+          "width": 1024,
+          "height": 1024,
+          "label": "Squid",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Marine Life",
+      "price": 25,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "mountains-adventure",
+      "category": "MountainsAdventure",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/mountains-adventure-v26.zip",
+      "bytes": 843772,
+      "sha256": "2dd25e4a75a9b2522add0885be7066e3a5fe91aac9f75532bb4db188efdd9eb4",
+      "assets": [
+        {
+          "effectId": "AlpineSummit",
+          "path": "images/AlpineSummit.webp",
+          "bytes": 330054,
+          "sha256": "aabc52ea1258d09e5c2b017dc45b058cfdd65bfca96eef9c430bcc9121799e52",
+          "width": 1024,
+          "height": 1024,
+          "label": "Alpine Summit",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "AdventureTent",
+          "path": "images/AdventureTent.webp",
+          "bytes": 146732,
+          "sha256": "6028822628dccda14e73023a2998971cace0fd18cda0bdd315ed9f2b0928c9c2",
+          "width": 1024,
+          "height": 1024,
+          "label": "Adventure Tent",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "ClimbingRope",
+          "path": "images/ClimbingRope.webp",
+          "bytes": 366590,
+          "sha256": "e88f15313ff7ad5cd5fded3b7bb78aeaadc5d43b86a06eab3be28666ca374782",
+          "width": 1024,
+          "height": 1024,
+          "label": "Climbing Rope",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Mountains & Adventure",
+      "price": 55,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "planets",
+      "category": "Planets",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/planets-v26.zip",
+      "bytes": 1779434,
+      "sha256": "2cf5e77b020d9a0d41151581c989b61e792c73c5ccbf9fb962054bc3e4dc0b44",
+      "assets": [
+        {
+          "effectId": "Earth",
+          "path": "images/Earth.webp",
+          "bytes": 376102,
+          "sha256": "f8afcb8f9d8ea160e6dc3db2ad5ac2caa7e37fc464b58461575bd98f3b80c0b1",
+          "width": 1024,
+          "height": 1024,
+          "label": "Earth",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Saturn",
+          "path": "images/Saturn.webp",
+          "bytes": 100894,
+          "sha256": "1987f47c0c917777a06f9b5b54bbf078ddc539531341e581f9635eba0c76d680",
+          "width": 1024,
+          "height": 1024,
+          "label": "Saturn",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Jupiter",
+          "path": "images/Jupiter.webp",
+          "bytes": 252002,
+          "sha256": "3019727e6430443bed7e823531fdb173fd32142e6a9430d41f96a39c848a483d",
+          "width": 1024,
+          "height": 1024,
+          "label": "Jupiter",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Mars",
+          "path": "images/Mars.webp",
+          "bytes": 269406,
+          "sha256": "f65a6318c6b37c3b6b0becbda52e765bf33fe8ebb08c648fbcf694a50dc20143",
+          "width": 1024,
+          "height": 1024,
+          "label": "Mars",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Neptune",
+          "path": "images/Neptune.webp",
+          "bytes": 126150,
+          "sha256": "ad42e577d07f590a7b16aa518ceea5033cd6ed795554a99402dc8fdf895a2285",
+          "width": 1024,
+          "height": 1024,
+          "label": "Neptune",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Uranus",
+          "path": "images/Uranus.webp",
+          "bytes": 110970,
+          "sha256": "b15a7c0f9212b6db718249762bfcce84c3cda0dd56d5efe53f9d94af8378293e",
+          "width": 1024,
+          "height": 1024,
+          "label": "Uranus",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Venus",
+          "path": "images/Venus.webp",
+          "bytes": 191546,
+          "sha256": "7bde5253b091717fabffe5d850b70f32968a14d3f9c4faf01eaad09853d4fa41",
+          "width": 1024,
+          "height": 1024,
+          "label": "Venus",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Mercury",
+          "path": "images/Mercury.webp",
+          "bytes": 351448,
+          "sha256": "03e54c37f04b8be90fa8933f9d2187f22d18719e30df6175296445d220f5b382",
+          "width": 1024,
+          "height": 1024,
+          "label": "Mercury",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Planets",
+      "price": 0,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "rivers-waterfalls",
+      "category": "RiversWaterfalls",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/rivers-waterfalls-v26.zip",
+      "bytes": 1277912,
+      "sha256": "46899b87230a4860186287024ddce6a3369afbb0efa53db3a78b7e5cdc572c14",
+      "assets": [
+        {
+          "effectId": "WaterWheel",
+          "path": "images/WaterWheel.webp",
+          "bytes": 391196,
+          "sha256": "bfa3d02ec65a66258df38f0258507340eb80b52c6d453dedbc0a20803cf3caee",
+          "width": 1024,
+          "height": 1024,
+          "label": "Water Wheel",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "SteppingStones",
+          "path": "images/SteppingStones.webp",
+          "bytes": 345454,
+          "sha256": "cc51c811aa3161dc5310d7ee545f7f0e9d17c3615f1ad963cebe64bc51e8bead",
+          "width": 1024,
+          "height": 1024,
+          "label": "Stepping Stones",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "CascadeFalls",
+          "path": "images/CascadeFalls.webp",
+          "bytes": 540868,
+          "sha256": "61bc3270aec080a39f6b08f3a5faee5d1d24ed7a5912ac78a5701ebabc9be197",
+          "width": 1024,
+          "height": 1024,
+          "label": "Cascade Falls",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Rivers & Waterfalls",
+      "price": 55,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "terrain",
+      "category": "Terrain",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/terrain-v26.zip",
+      "bytes": 4101462,
+      "sha256": "bf29390273ba11a5a52b87fa1169667fe1eb1e01a87a8d0426fa52ba7b093dc5",
+      "assets": [
+        {
+          "effectId": "Forest",
+          "path": "images/Forest.webp",
+          "bytes": 513974,
+          "sha256": "541802c588349169e6b85b5a44e939d7a49e02445e743d86503e116e294fa825",
+          "width": 1024,
+          "height": 1024,
+          "label": "Forest",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "MountainPeak",
+          "path": "images/MountainPeak.webp",
+          "bytes": 327780,
+          "sha256": "cf4251236ffed50c5874f4274224af7d3609c718f0d982a1d744ca119a14199f",
+          "width": 1024,
+          "height": 1024,
+          "label": "Mountain Peak",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Grass",
+          "path": "images/Grass.webp",
+          "bytes": 451466,
+          "sha256": "30896118ecbb483f67e0a0262bb6d6b4426d8e2338a06420c48906937f57ce07",
+          "width": 1024,
+          "height": 1024,
+          "label": "Grass",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Volcano",
+          "path": "images/Volcano.webp",
+          "bytes": 393350,
+          "sha256": "78a790ae642760a5897e9afa98a9ab9eb7b714ff9c8317c4c64a6da764d3f768",
+          "width": 1024,
+          "height": 1024,
+          "label": "Volcano",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Canyon",
+          "path": "images/Canyon.webp",
+          "bytes": 503968,
+          "sha256": "f88d267edab9b3301b235677c2a3e92617d89f7fb056e7e2a8bdd528a8a88d24",
+          "width": 1024,
+          "height": 1024,
+          "label": "Canyon",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "River",
+          "path": "images/River.webp",
+          "bytes": 471126,
+          "sha256": "620d14ff5c1d1c2fe3c666e007bbc0157a1b01986db81aaf3d6c88fa970e31bb",
+          "width": 1024,
+          "height": 1024,
+          "label": "River",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "DesertOasis",
+          "path": "images/DesertOasis.webp",
+          "bytes": 530856,
+          "sha256": "7b6f09a284cd534e664871fc53430f267b76d97094c8268dc0d4efa8b7fe9e96",
+          "width": 1024,
+          "height": 1024,
+          "label": "Desert Oasis",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "GlassIce",
+          "path": "images/GlassIce.webp",
+          "bytes": 387156,
+          "sha256": "908e435242af14a61dbf6f7fa35351346d1854595d929d30dde09c0542125fa2",
+          "width": 1024,
+          "height": 1024,
+          "label": "Glass & Ice",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Waterfall",
+          "path": "images/Waterfall.webp",
+          "bytes": 520726,
+          "sha256": "7d2123b1df885219dfa026f219e1736512b8469765331491aa0630a93bab3426",
+          "width": 1024,
+          "height": 1024,
+          "label": "Waterfall",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Terrain",
+      "price": 15,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "underwater-ruins",
+      "category": "UnderwaterRuins",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/underwater-ruins-v26.zip",
+      "bytes": 1354486,
+      "sha256": "a430ecb4924b1faa5ac99952898b58c4c49fa11e6adb23d3d556fe6789dc0f0f",
+      "assets": [
+        {
+          "effectId": "SunkenTemple",
+          "path": "images/SunkenTemple.webp",
+          "bytes": 454492,
+          "sha256": "ab8039c662e45fbc065842530af771949313909c9231fab06d53bd4e3d1807b4",
+          "width": 1024,
+          "height": 1024,
+          "label": "Sunken Temple",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Shipwreck",
+          "path": "images/Shipwreck.webp",
+          "bytes": 443366,
+          "sha256": "0056d922b199635bea1f9401b6d4a0b9636bf75a2cfb0a0324bbe14c2d52d2bd",
+          "width": 1024,
+          "height": 1024,
+          "label": "Shipwreck",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "SubmergedArch",
+          "path": "images/SubmergedArch.webp",
+          "bytes": 456238,
+          "sha256": "e19ce48579a1a820087bd467a6433ff59cd8aacc5367fc5e520c1aa48f9a8c24",
+          "width": 1024,
+          "height": 1024,
+          "label": "Submerged Arch",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Underwater Ruins",
+      "price": 65,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "wildlife-birds",
+      "category": "WildlifeBirds",
+      "version": 26,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/wildlife-birds-v26.zip",
+      "bytes": 1042864,
+      "sha256": "d1615d4142c4e089c039a983030fefa3316744b77cb929e5e08d4fd8c78adada",
+      "assets": [
+        {
+          "effectId": "Peacock",
+          "path": "images/Peacock.webp",
+          "bytes": 594192,
+          "sha256": "a5d99f1b91663b912af32d61ca68634077b60e4e62f199ae46b3504f4b4407b0",
+          "width": 1024,
+          "height": 1024,
+          "label": "Peacock",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "Hummingbird",
+          "path": "images/Hummingbird.webp",
+          "bytes": 208836,
+          "sha256": "7f8aff22f91e6acec68267a1852a92a3fe2ff9c68b29ec22ba69dfa5de13c0a5",
+          "width": 1024,
+          "height": 1024,
+          "label": "Hummingbird",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        },
+        {
+          "effectId": "WoodlandOwl",
+          "path": "images/WoodlandOwl.webp",
+          "bytes": 239456,
+          "sha256": "525ea1440301843ccdfb118ed8f0ae317d76dc5026ce5f4a987ee753df38a35f",
+          "width": 1024,
+          "height": 1024,
+          "label": "Woodland Owl",
+          "motion": {
+            "bob": 0.018,
+            "rotation": 1.2
+          }
+        }
+      ],
+      "title": "Wildlife & Birds",
+      "price": 60,
+      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
     }
   ]
 }

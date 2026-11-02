@@ -1,0 +1,26 @@
+{
+  "id": "bio",
+  "category": "Bio",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/bio-v26.zip",
+  "bytes": 614812,
+  "sha256": "5b18df5cfde0bbf9e5d20cd97d34886c02de8b798cc2de233ef6ac572c4f517a",
+  "assets": [
+    {
+      "effectId": "CoralReef",
+      "path": "images/CoralReef.webp",
+      "bytes": 614672,
+      "sha256": "2a7c25f2a1eb55c5b2975a2e8f62321745869a256ee0cdf6cb3ef5f71013b05d",
+      "width": 1024,
+      "height": 1024,
+      "label": "Coral Reef",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Bio",
+  "price": 25,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

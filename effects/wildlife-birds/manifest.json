@@ -1,0 +1,52 @@
+{
+  "id": "wildlife-birds",
+  "category": "WildlifeBirds",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/wildlife-birds-v26.zip",
+  "bytes": 1042864,
+  "sha256": "d1615d4142c4e089c039a983030fefa3316744b77cb929e5e08d4fd8c78adada",
+  "assets": [
+    {
+      "effectId": "Peacock",
+      "path": "images/Peacock.webp",
+      "bytes": 594192,
+      "sha256": "a5d99f1b91663b912af32d61ca68634077b60e4e62f199ae46b3504f4b4407b0",
+      "width": 1024,
+      "height": 1024,
+      "label": "Peacock",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Hummingbird",
+      "path": "images/Hummingbird.webp",
+      "bytes": 208836,
+      "sha256": "7f8aff22f91e6acec68267a1852a92a3fe2ff9c68b29ec22ba69dfa5de13c0a5",
+      "width": 1024,
+      "height": 1024,
+      "label": "Hummingbird",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "WoodlandOwl",
+      "path": "images/WoodlandOwl.webp",
+      "bytes": 239456,
+      "sha256": "525ea1440301843ccdfb118ed8f0ae317d76dc5026ce5f4a987ee753df38a35f",
+      "width": 1024,
+      "height": 1024,
+      "label": "Woodland Owl",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Wildlife & Birds",
+  "price": 60,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

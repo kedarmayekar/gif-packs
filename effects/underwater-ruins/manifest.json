@@ -1,0 +1,52 @@
+{
+  "id": "underwater-ruins",
+  "category": "UnderwaterRuins",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/underwater-ruins-v26.zip",
+  "bytes": 1354486,
+  "sha256": "a430ecb4924b1faa5ac99952898b58c4c49fa11e6adb23d3d556fe6789dc0f0f",
+  "assets": [
+    {
+      "effectId": "SunkenTemple",
+      "path": "images/SunkenTemple.webp",
+      "bytes": 454492,
+      "sha256": "ab8039c662e45fbc065842530af771949313909c9231fab06d53bd4e3d1807b4",
+      "width": 1024,
+      "height": 1024,
+      "label": "Sunken Temple",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Shipwreck",
+      "path": "images/Shipwreck.webp",
+      "bytes": 443366,
+      "sha256": "0056d922b199635bea1f9401b6d4a0b9636bf75a2cfb0a0324bbe14c2d52d2bd",
+      "width": 1024,
+      "height": 1024,
+      "label": "Shipwreck",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "SubmergedArch",
+      "path": "images/SubmergedArch.webp",
+      "bytes": 456238,
+      "sha256": "e19ce48579a1a820087bd467a6433ff59cd8aacc5367fc5e520c1aa48f9a8c24",
+      "width": 1024,
+      "height": 1024,
+      "label": "Submerged Arch",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Underwater Ruins",
+  "price": 65,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

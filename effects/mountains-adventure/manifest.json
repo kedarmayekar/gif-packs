@@ -1,0 +1,56 @@
+{
+  "id": "mountains-adventure",
+  "category": "MountainsAdventure",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/mountains-adventure-v26.zip",
+  "bytes": 843772,
+  "sha256": "2dd25e4a75a9b2522add0885be7066e3a5fe91aac9f75532bb4db188efdd9eb4",
+  "assets": [
+    {
+      "effectId": "AlpineSummit",
+      "path": "images/AlpineSummit.webp",
+      "bytes": 330054,
+      "sha256": "aabc52ea1258d09e5c2b017dc45b058cfdd65bfca96eef9c430bcc9121799e52",
+      "width": 1024,
+      "height": 1024,
+      "label": "Alpine Summit",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "AdventureTent",
+      "path": "images/AdventureTent.webp",
+      "bytes": 146732,
+      "sha256": "6028822628dccda14e73023a2998971cace0fd18cda0bdd315ed9f2b0928c9c2",
+      "width": 1024,
+      "height": 1024,
+      "label": "Adventure Tent",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "ClimbingRope",
+      "path": "images/ClimbingRope.webp",
+      "bytes": 366590,
+      "sha256": "e88f15313ff7ad5cd5fded3b7bb78aeaadc5d43b86a06eab3be28666ca374782",
+      "width": 1024,
+      "height": 1024,
+      "label": "Climbing Rope",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Mountains & Adventure",
+  "price": 55,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

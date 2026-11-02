@@ -1,10 +1,10 @@
 {
   "id": "objects",
   "category": "Objects",
-  "version": 25,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/objects-v25.zip",
-  "bytes": 320954,
-  "sha256": "73a519de7cd65e76c6cbbf428b9567f8b6db8b8fd73329e9f726d1e353b09262",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/objects-v26.zip",
+  "bytes": 567786,
+  "sha256": "c70dc3ac3788ea99fd53fa1af62e073f823b034f661096e97dac694019df9be8",
   "assets": [
     {
       "effectId": "Sword",
@@ -50,9 +50,22 @@
         "rotation": 1.2,
         "sparkle": false
       }
+    },
+    {
+      "effectId": "Bowl",
+      "path": "images/Bowl.webp",
+      "bytes": 246724,
+      "sha256": "2576a19c11c40a8b0275c54c42f79220c3aff3d36208288e5e29a9d6c8019b29",
+      "width": 1024,
+      "height": 1024,
+      "label": "Bowl",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
     }
   ],
   "title": "Objects",
   "price": 10,
-  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
 }

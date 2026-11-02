@@ -1,0 +1,130 @@
+{
+  "id": "terrain",
+  "category": "Terrain",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/terrain-v26.zip",
+  "bytes": 4101462,
+  "sha256": "bf29390273ba11a5a52b87fa1169667fe1eb1e01a87a8d0426fa52ba7b093dc5",
+  "assets": [
+    {
+      "effectId": "Forest",
+      "path": "images/Forest.webp",
+      "bytes": 513974,
+      "sha256": "541802c588349169e6b85b5a44e939d7a49e02445e743d86503e116e294fa825",
+      "width": 1024,
+      "height": 1024,
+      "label": "Forest",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "MountainPeak",
+      "path": "images/MountainPeak.webp",
+      "bytes": 327780,
+      "sha256": "cf4251236ffed50c5874f4274224af7d3609c718f0d982a1d744ca119a14199f",
+      "width": 1024,
+      "height": 1024,
+      "label": "Mountain Peak",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Grass",
+      "path": "images/Grass.webp",
+      "bytes": 451466,
+      "sha256": "30896118ecbb483f67e0a0262bb6d6b4426d8e2338a06420c48906937f57ce07",
+      "width": 1024,
+      "height": 1024,
+      "label": "Grass",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Volcano",
+      "path": "images/Volcano.webp",
+      "bytes": 393350,
+      "sha256": "78a790ae642760a5897e9afa98a9ab9eb7b714ff9c8317c4c64a6da764d3f768",
+      "width": 1024,
+      "height": 1024,
+      "label": "Volcano",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Canyon",
+      "path": "images/Canyon.webp",
+      "bytes": 503968,
+      "sha256": "f88d267edab9b3301b235677c2a3e92617d89f7fb056e7e2a8bdd528a8a88d24",
+      "width": 1024,
+      "height": 1024,
+      "label": "Canyon",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "River",
+      "path": "images/River.webp",
+      "bytes": 471126,
+      "sha256": "620d14ff5c1d1c2fe3c666e007bbc0157a1b01986db81aaf3d6c88fa970e31bb",
+      "width": 1024,
+      "height": 1024,
+      "label": "River",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "DesertOasis",
+      "path": "images/DesertOasis.webp",
+      "bytes": 530856,
+      "sha256": "7b6f09a284cd534e664871fc53430f267b76d97094c8268dc0d4efa8b7fe9e96",
+      "width": 1024,
+      "height": 1024,
+      "label": "Desert Oasis",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "GlassIce",
+      "path": "images/GlassIce.webp",
+      "bytes": 387156,
+      "sha256": "908e435242af14a61dbf6f7fa35351346d1854595d929d30dde09c0542125fa2",
+      "width": 1024,
+      "height": 1024,
+      "label": "Glass & Ice",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Waterfall",
+      "path": "images/Waterfall.webp",
+      "bytes": 520726,
+      "sha256": "7d2123b1df885219dfa026f219e1736512b8469765331491aa0630a93bab3426",
+      "width": 1024,
+      "height": 1024,
+      "label": "Waterfall",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Terrain",
+  "price": 15,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

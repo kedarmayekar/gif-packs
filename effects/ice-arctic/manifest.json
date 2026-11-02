@@ -1,0 +1,52 @@
+{
+  "id": "ice-arctic",
+  "category": "IceArctic",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/ice-arctic-v26.zip",
+  "bytes": 836598,
+  "sha256": "64b2100a41c4bf6ac69e0cda1a9480dc8ae50c57bea1cc9ae03324ed94de31ea",
+  "assets": [
+    {
+      "effectId": "Glacier",
+      "path": "images/Glacier.webp",
+      "bytes": 342672,
+      "sha256": "21b0784decae44c2554165e26a66c759af35d72c7ce02a08618eed09e3d3b6f0",
+      "width": 1024,
+      "height": 1024,
+      "label": "Glacier",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Iceberg",
+      "path": "images/Iceberg.webp",
+      "bytes": 278458,
+      "sha256": "4add76927ad009418f26632df4f799ebb491fc600849553e3a4eb0f32aa96142",
+      "width": 1024,
+      "height": 1024,
+      "label": "Iceberg",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Snowdrift",
+      "path": "images/Snowdrift.webp",
+      "bytes": 215100,
+      "sha256": "b2b61593ca2579907ecab2e5b9e55269c54a161b8189c142ee2164c1ed73a2d2",
+      "width": 1024,
+      "height": 1024,
+      "label": "Snowdrift",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "IceArctic",
+  "price": 25,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

@@ -1,10 +1,10 @@
 {
   "id": "farms-countryside",
   "category": "FarmsCountryside",
-  "version": 25,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/farms-countryside-v25.zip",
-  "bytes": 485432,
-  "sha256": "894b33cb249913c787995a228d9e56ca91e50aab635111c6077ff0277ad905a2",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/farms-countryside-v26.zip",
+  "bytes": 1384432,
+  "sha256": "20f772d6741ec52b90c0e86a75f61b67d44e59a01e729209bcc3b76c1cff518a",
   "assets": [
     {
       "effectId": "HayBales",
@@ -20,9 +20,35 @@
         "rotation": 1.2,
         "sparkle": false
       }
+    },
+    {
+      "effectId": "CountrysideWindmill",
+      "path": "images/CountrysideWindmill.webp",
+      "bytes": 318604,
+      "sha256": "69753a9c560534d89dbd45cab4cf82b8c9610c3d5fd433c5e560d3d21e578fe3",
+      "width": 1024,
+      "height": 1024,
+      "label": "Countryside Windmill",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "WheatField",
+      "path": "images/WheatField.webp",
+      "bytes": 580138,
+      "sha256": "a0592e12fda2c4a4a4d002ad2a09a41d3c913001997e669cd78b211acfc436c8",
+      "width": 1024,
+      "height": 1024,
+      "label": "Wheat Field",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
     }
   ],
   "title": "Farms & Countryside",
   "price": 45,
-  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
 }

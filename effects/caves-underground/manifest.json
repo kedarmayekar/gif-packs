@@ -1,10 +1,10 @@
 {
   "id": "caves-underground",
   "category": "CavesUnderground",
-  "version": 25,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/caves-underground-v25.zip",
-  "bytes": 705900,
-  "sha256": "c5ea583af105523fee2c68febdbf1452f0e983d871f150c93d7be99688c5792b",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/caves-underground-v26.zip",
+  "bytes": 1175518,
+  "sha256": "4e134ea3da3bfa41d9420a37bfbeb664d814e2d70e47f8302ce02ab3c3633fa2",
   "assets": [
     {
       "effectId": "AmmoniteFossil",
@@ -35,9 +35,22 @@
         "rotation": 1.2,
         "sparkle": false
       }
+    },
+    {
+      "effectId": "StalactiteCavern",
+      "path": "images/StalactiteCavern.webp",
+      "bytes": 469486,
+      "sha256": "4b2b32d2248a6215503f375a80b47a28c7f504990ae8a1afdd2aa08ff568a3c0",
+      "width": 1024,
+      "height": 1024,
+      "label": "Stalactite Cavern",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
     }
   ],
   "title": "Caves & Underground",
   "price": 55,
-  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
 }

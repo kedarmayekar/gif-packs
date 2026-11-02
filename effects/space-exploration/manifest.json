@@ -1,10 +1,10 @@
 {
   "id": "space-exploration",
   "category": "SpaceExploration",
-  "version": 8,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v8/space-exploration-v8.zip",
-  "bytes": 430912,
-  "sha256": "db313540dfebf4d83d35229bcb4ab3a7682e38395593c5036e39f35aeea7ed97",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/space-exploration-v26.zip",
+  "bytes": 983808,
+  "sha256": "30c64b6e30f3f71dd2edcc6c9c7683c9c0a3aa3f8b24d01a71ceed279f3b87e8",
   "assets": [
     {
       "effectId": "Rocket",
@@ -50,9 +50,48 @@
         "rotation": 2,
         "sparkle": false
       }
+    },
+    {
+      "effectId": "LunarRover",
+      "path": "images/LunarRover.webp",
+      "bytes": 276214,
+      "sha256": "d469f6afe08aee53d67c132bdfc91f981d38b075e96186fe14a0800ebaed9d62",
+      "width": 1024,
+      "height": 1024,
+      "label": "Lunar Rover",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "OrbitalSatellite",
+      "path": "images/OrbitalSatellite.webp",
+      "bytes": 174294,
+      "sha256": "5ecd9bf743d9e494fb665d4d661923f1eeb8d4a785185275e2903d1f147074fa",
+      "width": 1024,
+      "height": 1024,
+      "label": "Orbital Satellite",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "RocketLaunch",
+      "path": "images/RocketLaunch.webp",
+      "bytes": 102012,
+      "sha256": "c1a8bb64a6ad2abbb3c412740f623400f57c4de95d7b15ba3a2d3fb53abb2b8e",
+      "width": 1024,
+      "height": 1024,
+      "label": "Rocket Launch",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
     }
   ],
   "title": "Space Exploration",
-  "price": 65,
-  "description": "Realistic rocket, astronaut and satellite with gentle floating motion."
+  "price": 70,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
 }

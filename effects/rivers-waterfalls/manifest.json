@@ -1,0 +1,52 @@
+{
+  "id": "rivers-waterfalls",
+  "category": "RiversWaterfalls",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/rivers-waterfalls-v26.zip",
+  "bytes": 1277912,
+  "sha256": "46899b87230a4860186287024ddce6a3369afbb0efa53db3a78b7e5cdc572c14",
+  "assets": [
+    {
+      "effectId": "WaterWheel",
+      "path": "images/WaterWheel.webp",
+      "bytes": 391196,
+      "sha256": "bfa3d02ec65a66258df38f0258507340eb80b52c6d453dedbc0a20803cf3caee",
+      "width": 1024,
+      "height": 1024,
+      "label": "Water Wheel",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "SteppingStones",
+      "path": "images/SteppingStones.webp",
+      "bytes": 345454,
+      "sha256": "cc51c811aa3161dc5310d7ee545f7f0e9d17c3615f1ad963cebe64bc51e8bead",
+      "width": 1024,
+      "height": 1024,
+      "label": "Stepping Stones",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "CascadeFalls",
+      "path": "images/CascadeFalls.webp",
+      "bytes": 540868,
+      "sha256": "61bc3270aec080a39f6b08f3a5faee5d1d24ed7a5912ac78a5701ebabc9be197",
+      "width": 1024,
+      "height": 1024,
+      "label": "Cascade Falls",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "Rivers & Waterfalls",
+  "price": 55,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}

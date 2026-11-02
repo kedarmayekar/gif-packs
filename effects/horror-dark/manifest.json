@@ -1,0 +1,65 @@
+{
+  "id": "horror-dark",
+  "category": "HorrorDark",
+  "version": 26,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/horror-dark-v26.zip",
+  "bytes": 923418,
+  "sha256": "1b5c2cccf9268093c8d8b2b05f3031796b200cdf8eca03e6d6c07903c260136d",
+  "assets": [
+    {
+      "effectId": "Ravens",
+      "path": "images/Ravens.webp",
+      "bytes": 205684,
+      "sha256": "95c0e4595a9788cf3f0a5c9de2a75a41927d1ef7227df026f4888cea5af820cd",
+      "width": 1024,
+      "height": 1024,
+      "label": "Ravens",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Mummy",
+      "path": "images/Mummy.webp",
+      "bytes": 161742,
+      "sha256": "50a0737a6f42213a5540d332099dd4e955bc2fa5b2c97c96be465127afc70b53",
+      "width": 1024,
+      "height": 1024,
+      "label": "Mummy",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "Ghost",
+      "path": "images/Ghost.webp",
+      "bytes": 230742,
+      "sha256": "6d3b9391cf23dcab81023f2698f71dd4d66af789ceb94baf6abe5c434eb7b686",
+      "width": 1024,
+      "height": 1024,
+      "label": "Ghost",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    },
+    {
+      "effectId": "HalloweenSet",
+      "path": "images/HalloweenSet.webp",
+      "bytes": 324772,
+      "sha256": "2eaff0cdf23cee520c98a37b27a98fab32b48d3074b30a54076ec6d16a0a3e42",
+      "width": 1024,
+      "height": 1024,
+      "label": "Halloween Set",
+      "motion": {
+        "bob": 0.018,
+        "rotation": 1.2
+      }
+    }
+  ],
+  "title": "HorrorDark",
+  "price": 35,
+  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+}
