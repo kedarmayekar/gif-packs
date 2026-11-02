@@ -1641,6 +1641,363 @@
       "title": "Sweet Treats",
       "price": 65,
       "description": "Three realistic sweet treats cutouts with gentle motion."
+    },
+    {
+      "id": "caves-underground",
+      "category": "CavesUnderground",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/caves-underground-v25.zip",
+      "bytes": 705900,
+      "sha256": "c5ea583af105523fee2c68febdbf1452f0e983d871f150c93d7be99688c5792b",
+      "assets": [
+        {
+          "effectId": "AmmoniteFossil",
+          "path": "images/AmmoniteFossil.webp",
+          "bytes": 355260,
+          "sha256": "fe5d8d1e31a6542a83b4c0d8cb1aad5f482da10de1d61b7ceccfd01763b9a290",
+          "width": 1024,
+          "height": 1024,
+          "label": "Ammonite Fossil",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "MineCart",
+          "path": "images/MineCart.webp",
+          "bytes": 350374,
+          "sha256": "e48b40def2a1a63fedeffbb07bc168272331241c2564b29648e0d3edf156cd14",
+          "width": 1024,
+          "height": 1024,
+          "label": "Mine Cart",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Caves & Underground",
+      "price": 55,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "desert-canyons",
+      "category": "DesertCanyons",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/desert-canyons-v25.zip",
+      "bytes": 1133540,
+      "sha256": "f9eeb6dfa27fc8568fb7d77889609666315235c993f0ca06d887ff552aa1b08a",
+      "assets": [
+        {
+          "effectId": "LayeredMesa",
+          "path": "images/LayeredMesa.webp",
+          "bytes": 347722,
+          "sha256": "c2d2a04efa5cec16b5bb73fb82cd6719f7f0146dd76651e3ba0c43d0da7c05bc",
+          "width": 1024,
+          "height": 1024,
+          "label": "Layered Mesa",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "SaguaroCactus",
+          "path": "images/SaguaroCactus.webp",
+          "bytes": 264528,
+          "sha256": "fa94789b21a3b9646fe8cf40943e206c0baa545b13fb733ced37c27c6339197f",
+          "width": 1024,
+          "height": 1024,
+          "label": "Saguaro Cactus",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "Tumbleweed",
+          "path": "images/Tumbleweed.webp",
+          "bytes": 520900,
+          "sha256": "d0757e8259ebbd8bd3ad747ee500fd8b275fad5843e915521009f087cdeebf37",
+          "width": 1024,
+          "height": 1024,
+          "label": "Tumbleweed",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Desert & Canyons",
+      "price": 50,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "enchanted-forest",
+      "category": "EnchantedForest",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/enchanted-forest-v25.zip",
+      "bytes": 458966,
+      "sha256": "d872dd35abe602142c5e22d0a448acf0720df0a7983ee750b56e2f7d0e8f1159",
+      "assets": [
+        {
+          "effectId": "FairyDoor",
+          "path": "images/FairyDoor.webp",
+          "bytes": 458826,
+          "sha256": "3cd81cb448947fed356f7fd0b569d874f778bf55b661d5ef7cdefe30a4302039",
+          "width": 1024,
+          "height": 1024,
+          "label": "Fairy Door",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Enchanted Forest",
+      "price": 65,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "farms-countryside",
+      "category": "FarmsCountryside",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/farms-countryside-v25.zip",
+      "bytes": 485432,
+      "sha256": "894b33cb249913c787995a228d9e56ca91e50aab635111c6077ff0277ad905a2",
+      "assets": [
+        {
+          "effectId": "HayBales",
+          "path": "images/HayBales.webp",
+          "bytes": 485294,
+          "sha256": "b7e6afd3a329ab28f204144910d681e2cdbb9398e8125e86c5b51adea6117270",
+          "width": 1024,
+          "height": 1024,
+          "label": "Hay Bales",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Farms & Countryside",
+      "price": 45,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "art-creativity",
+      "category": "ArtCreativity",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/art-creativity-v25.zip",
+      "bytes": 74322,
+      "sha256": "d549cfcd8f186c056445b11c24da45f03e4f17d1d4ca647fcb3a41a1d9dcc373",
+      "assets": [
+        {
+          "effectId": "OrigamiCrane",
+          "path": "images/OrigamiCrane.webp",
+          "bytes": 74176,
+          "sha256": "1bc059876666d4f73c601d9f2b395a9a3f847f20efce59124ca3ecdf555ae067",
+          "width": 1024,
+          "height": 1024,
+          "label": "Origami Crane",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Art & Creativity",
+      "price": 50,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "music-performance",
+      "category": "MusicPerformance",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/music-performance-v25.zip",
+      "bytes": 557436,
+      "sha256": "b9a3af5eaecb60331bba8233a92fd4e928b5ba9f619eff0f61494192311dad74",
+      "assets": [
+        {
+          "effectId": "GrandPiano",
+          "path": "images/GrandPiano.webp",
+          "bytes": 147770,
+          "sha256": "49b4138abd597c251007be85b0c427236c0f6d5cea0ba365b8cf451e63b03f58",
+          "width": 1024,
+          "height": 1024,
+          "label": "Grand Piano",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "Violin",
+          "path": "images/Violin.webp",
+          "bytes": 146114,
+          "sha256": "5f4a55e7b5825742c7778fcc127e25c61ceeb877ce844fb947471b4741add32d",
+          "width": 1024,
+          "height": 1024,
+          "label": "Violin",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "Tabla",
+          "path": "images/Tabla.webp",
+          "bytes": 263188,
+          "sha256": "ddf2f80b9dc28ff4e52d71b9ba2989a6601bcb8511b75577f5eb2001e459a862",
+          "width": 1024,
+          "height": 1024,
+          "label": "Tabla",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Music & Performance",
+      "price": 55,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "objects",
+      "category": "Objects",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/objects-v25.zip",
+      "bytes": 320954,
+      "sha256": "73a519de7cd65e76c6cbbf428b9567f8b6db8b8fd73329e9f726d1e353b09262",
+      "assets": [
+        {
+          "effectId": "Sword",
+          "path": "images/Sword.webp",
+          "bytes": 33048,
+          "sha256": "f1b516ec106e1a42effe976920fdcd64cae16c44769d534e5063515278099652",
+          "width": 1024,
+          "height": 1024,
+          "label": "Sword",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "Gun",
+          "path": "images/Gun.webp",
+          "bytes": 144040,
+          "sha256": "67d6082fafe12004f954584c919b097f31cb88339d18ea0f719a542a98181a99",
+          "width": 1024,
+          "height": 1024,
+          "label": "Gun",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "Arrows",
+          "path": "images/Arrows.webp",
+          "bytes": 143516,
+          "sha256": "56f521750c4a4c80e3bc33adcac048dde79b7381e6d55659fc96a52036f26e27",
+          "width": 1024,
+          "height": 1024,
+          "label": "Arrows",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Objects",
+      "price": 10,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "ambient-cozy",
+      "category": "AmbientCozy",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/ambient-cozy-v25.zip",
+      "bytes": 205616,
+      "sha256": "c728b0bee0af24bee93468a02568e747baab26431bb8424cc42dd94f3dccc82e",
+      "assets": [
+        {
+          "effectId": "Lantern",
+          "path": "images/Lantern.webp",
+          "bytes": 205480,
+          "sha256": "b97f6afebcf8fbd761520776746764e3b43f392b7c62a2f1086ea3c82a8cf198",
+          "width": 1024,
+          "height": 1024,
+          "label": "Lantern",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Ambient Cozy",
+      "price": 15,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+    },
+    {
+      "id": "audio-reactive",
+      "category": "AudioReactive",
+      "version": 25,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/audio-reactive-v25.zip",
+      "bytes": 133570,
+      "sha256": "e59d84528bf9b3a2d9d87883f78a72c5cbfdc1874d9617feb8897c51dc4214c0",
+      "assets": [
+        {
+          "effectId": "Vinyl",
+          "path": "images/Vinyl.webp",
+          "bytes": 133438,
+          "sha256": "15af47a6f70cb89e4430eb8b4113cfe57cd4a6bd98857c2f2330d4bdba89b507",
+          "width": 1024,
+          "height": 1024,
+          "label": "Vinyl",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Audio Reactive",
+      "price": 40,
+      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
     }
   ]
 }

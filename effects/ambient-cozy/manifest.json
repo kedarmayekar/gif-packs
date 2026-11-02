@@ -1,0 +1,28 @@
+{
+  "id": "ambient-cozy",
+  "category": "AmbientCozy",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/ambient-cozy-v25.zip",
+  "bytes": 205616,
+  "sha256": "c728b0bee0af24bee93468a02568e747baab26431bb8424cc42dd94f3dccc82e",
+  "assets": [
+    {
+      "effectId": "Lantern",
+      "path": "images/Lantern.webp",
+      "bytes": 205480,
+      "sha256": "b97f6afebcf8fbd761520776746764e3b43f392b7c62a2f1086ea3c82a8cf198",
+      "width": 1024,
+      "height": 1024,
+      "label": "Lantern",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Ambient Cozy",
+  "price": 15,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

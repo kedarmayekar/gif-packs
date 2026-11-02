@@ -1,0 +1,58 @@
+{
+  "id": "music-performance",
+  "category": "MusicPerformance",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/music-performance-v25.zip",
+  "bytes": 557436,
+  "sha256": "b9a3af5eaecb60331bba8233a92fd4e928b5ba9f619eff0f61494192311dad74",
+  "assets": [
+    {
+      "effectId": "GrandPiano",
+      "path": "images/GrandPiano.webp",
+      "bytes": 147770,
+      "sha256": "49b4138abd597c251007be85b0c427236c0f6d5cea0ba365b8cf451e63b03f58",
+      "width": 1024,
+      "height": 1024,
+      "label": "Grand Piano",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Violin",
+      "path": "images/Violin.webp",
+      "bytes": 146114,
+      "sha256": "5f4a55e7b5825742c7778fcc127e25c61ceeb877ce844fb947471b4741add32d",
+      "width": 1024,
+      "height": 1024,
+      "label": "Violin",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Tabla",
+      "path": "images/Tabla.webp",
+      "bytes": 263188,
+      "sha256": "ddf2f80b9dc28ff4e52d71b9ba2989a6601bcb8511b75577f5eb2001e459a862",
+      "width": 1024,
+      "height": 1024,
+      "label": "Tabla",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Music & Performance",
+  "price": 55,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

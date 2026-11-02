@@ -1,0 +1,28 @@
+{
+  "id": "farms-countryside",
+  "category": "FarmsCountryside",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/farms-countryside-v25.zip",
+  "bytes": 485432,
+  "sha256": "894b33cb249913c787995a228d9e56ca91e50aab635111c6077ff0277ad905a2",
+  "assets": [
+    {
+      "effectId": "HayBales",
+      "path": "images/HayBales.webp",
+      "bytes": 485294,
+      "sha256": "b7e6afd3a329ab28f204144910d681e2cdbb9398e8125e86c5b51adea6117270",
+      "width": 1024,
+      "height": 1024,
+      "label": "Hay Bales",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Farms & Countryside",
+  "price": 45,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

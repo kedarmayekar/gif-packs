@@ -1,0 +1,43 @@
+{
+  "id": "caves-underground",
+  "category": "CavesUnderground",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/caves-underground-v25.zip",
+  "bytes": 705900,
+  "sha256": "c5ea583af105523fee2c68febdbf1452f0e983d871f150c93d7be99688c5792b",
+  "assets": [
+    {
+      "effectId": "AmmoniteFossil",
+      "path": "images/AmmoniteFossil.webp",
+      "bytes": 355260,
+      "sha256": "fe5d8d1e31a6542a83b4c0d8cb1aad5f482da10de1d61b7ceccfd01763b9a290",
+      "width": 1024,
+      "height": 1024,
+      "label": "Ammonite Fossil",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "MineCart",
+      "path": "images/MineCart.webp",
+      "bytes": 350374,
+      "sha256": "e48b40def2a1a63fedeffbb07bc168272331241c2564b29648e0d3edf156cd14",
+      "width": 1024,
+      "height": 1024,
+      "label": "Mine Cart",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Caves & Underground",
+  "price": 55,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

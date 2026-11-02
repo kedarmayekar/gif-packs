@@ -1,0 +1,28 @@
+{
+  "id": "art-creativity",
+  "category": "ArtCreativity",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/art-creativity-v25.zip",
+  "bytes": 74322,
+  "sha256": "d549cfcd8f186c056445b11c24da45f03e4f17d1d4ca647fcb3a41a1d9dcc373",
+  "assets": [
+    {
+      "effectId": "OrigamiCrane",
+      "path": "images/OrigamiCrane.webp",
+      "bytes": 74176,
+      "sha256": "1bc059876666d4f73c601d9f2b395a9a3f847f20efce59124ca3ecdf555ae067",
+      "width": 1024,
+      "height": 1024,
+      "label": "Origami Crane",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Art & Creativity",
+  "price": 50,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

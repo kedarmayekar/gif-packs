@@ -1,0 +1,58 @@
+{
+  "id": "desert-canyons",
+  "category": "DesertCanyons",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/desert-canyons-v25.zip",
+  "bytes": 1133540,
+  "sha256": "f9eeb6dfa27fc8568fb7d77889609666315235c993f0ca06d887ff552aa1b08a",
+  "assets": [
+    {
+      "effectId": "LayeredMesa",
+      "path": "images/LayeredMesa.webp",
+      "bytes": 347722,
+      "sha256": "c2d2a04efa5cec16b5bb73fb82cd6719f7f0146dd76651e3ba0c43d0da7c05bc",
+      "width": 1024,
+      "height": 1024,
+      "label": "Layered Mesa",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "SaguaroCactus",
+      "path": "images/SaguaroCactus.webp",
+      "bytes": 264528,
+      "sha256": "fa94789b21a3b9646fe8cf40943e206c0baa545b13fb733ced37c27c6339197f",
+      "width": 1024,
+      "height": 1024,
+      "label": "Saguaro Cactus",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Tumbleweed",
+      "path": "images/Tumbleweed.webp",
+      "bytes": 520900,
+      "sha256": "d0757e8259ebbd8bd3ad747ee500fd8b275fad5843e915521009f087cdeebf37",
+      "width": 1024,
+      "height": 1024,
+      "label": "Tumbleweed",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Desert & Canyons",
+  "price": 50,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

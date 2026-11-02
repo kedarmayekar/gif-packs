@@ -1,0 +1,28 @@
+{
+  "id": "enchanted-forest",
+  "category": "EnchantedForest",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/enchanted-forest-v25.zip",
+  "bytes": 458966,
+  "sha256": "d872dd35abe602142c5e22d0a448acf0720df0a7983ee750b56e2f7d0e8f1159",
+  "assets": [
+    {
+      "effectId": "FairyDoor",
+      "path": "images/FairyDoor.webp",
+      "bytes": 458826,
+      "sha256": "3cd81cb448947fed356f7fd0b569d874f778bf55b661d5ef7cdefe30a4302039",
+      "width": 1024,
+      "height": 1024,
+      "label": "Fairy Door",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Enchanted Forest",
+  "price": 65,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "objects",
+  "category": "Objects",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/objects-v25.zip",
+  "bytes": 320954,
+  "sha256": "73a519de7cd65e76c6cbbf428b9567f8b6db8b8fd73329e9f726d1e353b09262",
+  "assets": [
+    {
+      "effectId": "Sword",
+      "path": "images/Sword.webp",
+      "bytes": 33048,
+      "sha256": "f1b516ec106e1a42effe976920fdcd64cae16c44769d534e5063515278099652",
+      "width": 1024,
+      "height": 1024,
+      "label": "Sword",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Gun",
+      "path": "images/Gun.webp",
+      "bytes": 144040,
+      "sha256": "67d6082fafe12004f954584c919b097f31cb88339d18ea0f719a542a98181a99",
+      "width": 1024,
+      "height": 1024,
+      "label": "Gun",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Arrows",
+      "path": "images/Arrows.webp",
+      "bytes": 143516,
+      "sha256": "56f521750c4a4c80e3bc33adcac048dde79b7381e6d55659fc96a52036f26e27",
+      "width": 1024,
+      "height": 1024,
+      "label": "Arrows",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Objects",
+  "price": 10,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}

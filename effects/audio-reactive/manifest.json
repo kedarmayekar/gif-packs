@@ -1,0 +1,28 @@
+{
+  "id": "audio-reactive",
+  "category": "AudioReactive",
+  "version": 25,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/audio-reactive-v25.zip",
+  "bytes": 133570,
+  "sha256": "e59d84528bf9b3a2d9d87883f78a72c5cbfdc1874d9617feb8897c51dc4214c0",
+  "assets": [
+    {
+      "effectId": "Vinyl",
+      "path": "images/Vinyl.webp",
+      "bytes": 133438,
+      "sha256": "15af47a6f70cb89e4430eb8b4113cfe57cd4a6bd98857c2f2330d4bdba89b507",
+      "width": 1024,
+      "height": 1024,
+      "label": "Vinyl",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Audio Reactive",
+  "price": 40,
+  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+}
