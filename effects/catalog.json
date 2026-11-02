@@ -1409,6 +1409,64 @@
       "title": "Art Studio",
       "price": 65,
       "description": "Three realistic art studio cutouts with gentle motion."
+    },
+    {
+      "id": "vintage-travel",
+      "category": "VintageTravel",
+      "version": 21,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v21/vintage-travel-v21.zip",
+      "bytes": 835258,
+      "sha256": "03e0f1e45be6fbb153fcd7fd5a2153fc091efa70d59fc1504f195c2693516b88",
+      "assets": [
+        {
+          "effectId": "VintageSuitcase",
+          "path": "images/VintageSuitcase.webp",
+          "bytes": 302820,
+          "sha256": "02a416daf9499a35ccde306f2fd7efa7968ee7f189f8db0f39ecbb7bf507a172",
+          "width": 1024,
+          "height": 1024,
+          "label": "Vintage Suitcase",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "TravelGlobe",
+          "path": "images/TravelGlobe.webp",
+          "bytes": 276108,
+          "sha256": "afced92131248de10f3bad10b1021e6cbaa5efc80d17d6c814c3d2a0cb88e883",
+          "width": 1024,
+          "height": 1024,
+          "label": "Globe",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "RetroCamera",
+          "path": "images/RetroCamera.webp",
+          "bytes": 255934,
+          "sha256": "481fc4b903af50114c0835f0fa5a29faac84a2767e7d290fe1415ea2cf1fef71",
+          "width": 1024,
+          "height": 1024,
+          "label": "Retro Camera",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Vintage Travel",
+      "price": 65,
+      "description": "Three realistic vintage travel cutouts with gentle motion."
     }
   ]
 }
