@@ -1,0 +1,58 @@
+{
+  "id": "art-studio",
+  "category": "ArtStudio",
+  "version": 20,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v20/art-studio-v20.zip",
+  "bytes": 619798,
+  "sha256": "b763e3aae3607267d880b4a12362a8192f4e3f451384345bedf8a22ff8ba1ca8",
+  "assets": [
+    {
+      "effectId": "PaintPalette",
+      "path": "images/PaintPalette.webp",
+      "bytes": 421160,
+      "sha256": "61945b36b90a625688bd7d62a8d0dfee6cba99e1a327adc76753ccdcb02da260",
+      "width": 1024,
+      "height": 1024,
+      "label": "Paint Palette",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "ArtistPaintbrush",
+      "path": "images/ArtistPaintbrush.webp",
+      "bytes": 77342,
+      "sha256": "989c1089ebea5698d808a936accf8dd532ec87067beec62a379e9bb2328e9c74",
+      "width": 1024,
+      "height": 1024,
+      "label": "Paintbrush",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "ArtistPaintTube",
+      "path": "images/ArtistPaintTube.webp",
+      "bytes": 120888,
+      "sha256": "4c5755ea2c452ac0da6ee1481e23fded90e022d1398ccde5e935797799646e43",
+      "width": 1024,
+      "height": 1024,
+      "label": "Paint Tube",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Art Studio",
+  "price": 65,
+  "description": "Three realistic art studio cutouts with gentle motion."
+}
