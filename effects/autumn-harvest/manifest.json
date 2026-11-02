@@ -1,0 +1,58 @@
+{
+  "id": "autumn-harvest",
+  "category": "AutumnHarvest",
+  "version": 24,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-v24/autumn-harvest-v24.zip",
+  "bytes": 823226,
+  "sha256": "90e18dc6563e3145a7dc5f745a7a6d897a0d19b3c53359be6f972503772fa0eb",
+  "assets": [
+    {
+      "effectId": "HarvestPumpkin",
+      "path": "images/HarvestPumpkin.webp",
+      "bytes": 230596,
+      "sha256": "cc4ae85763976182924a42cab93ab23e9af1bf93a93085194f89513c56ef87c9",
+      "width": 1024,
+      "height": 1024,
+      "label": "Pumpkin",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "AutumnMapleLeaf",
+      "path": "images/AutumnMapleLeaf.webp",
+      "bytes": 293470,
+      "sha256": "f8d1471c5c0d27493298baac4499e2ec0725e4759bc57213271cfe8a170afd74",
+      "width": 1024,
+      "height": 1024,
+      "label": "Maple Leaf",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "WoodlandAcorn",
+      "path": "images/WoodlandAcorn.webp",
+      "bytes": 298754,
+      "sha256": "f352cf6faf13a68eea6498edd6fb23dbba0988db6c71cd9a2da87cc1fb213c8b",
+      "width": 1024,
+      "height": 1024,
+      "label": "Acorn",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Autumn Harvest",
+  "price": 65,
+  "description": "Three realistic autumn harvest cutouts with gentle motion."
+}
