@@ -1,0 +1,88 @@
+{
+  "id": "urban-city",
+  "category": "UrbanCity",
+  "version": 33,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-urban-nights-v33/urban-city-v33.zip",
+  "bytes": 1080826,
+  "sha256": "94fbb8b333e3a5fb400129dda90f12ad625f3cef5e3e89b82336897a1bfe2a3c",
+  "assets": [
+    {
+      "effectId": "CityLights",
+      "path": "images/CityLights.webp",
+      "bytes": 249460,
+      "sha256": "7dfcffbc2bca8b2b0ceec96f8040cda446d89a00f5897342b5e940de8155a6a1",
+      "width": 1024,
+      "height": 1024,
+      "label": "City Lights",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Traffic",
+      "path": "images/Traffic.webp",
+      "bytes": 336732,
+      "sha256": "cca09897ebd282f930c4471dd1a4c0f544e20ccc52ef3c37780736f936993ed9",
+      "width": 1024,
+      "height": 1024,
+      "label": "Traffic",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Skyline",
+      "path": "images/Skyline.webp",
+      "bytes": 201152,
+      "sha256": "b069d84c14ab02cfcd260651af42141c1d491e24d1ef416b7988c05817cffd22",
+      "width": 1024,
+      "height": 1024,
+      "label": "Skyline",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Subway",
+      "path": "images/Subway.webp",
+      "bytes": 236900,
+      "sha256": "466ed4ee6078eb9498acce59f79cdcac4a8d2dce0304313d36346a75b644b39d",
+      "width": 1024,
+      "height": 1024,
+      "label": "Subway",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "StreetLamp",
+      "path": "images/StreetLamp.webp",
+      "bytes": 55980,
+      "sha256": "1f1449b99d854c3907b5670a775e6bf05ab776f4f5d27822f5b7aa2331626be7",
+      "width": 1024,
+      "height": 1024,
+      "label": "Street Lamp",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Urban City",
+  "price": 20,
+  "description": "Realistic transparent cutouts with subtle decorative motion."
+}

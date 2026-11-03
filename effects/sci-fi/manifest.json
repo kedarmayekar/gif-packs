@@ -1,0 +1,28 @@
+{
+  "id": "sci-fi",
+  "category": "SciFi",
+  "version": 33,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-urban-nights-v33/sci-fi-v33.zip",
+  "bytes": 196766,
+  "sha256": "a5368f75715eb31f39e9546e894f766c83551f85828a4bbc12e13a2e6bea5ce0",
+  "assets": [
+    {
+      "effectId": "NeonLights",
+      "path": "images/NeonLights.webp",
+      "bytes": 196624,
+      "sha256": "d5d46787d129dfe18d8ad720e328bc9828352e0936ca96f3833fbeffa117d78a",
+      "width": 1024,
+      "height": 1024,
+      "label": "Neon Lights",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Sci Fi",
+  "price": 0,
+  "description": "Realistic transparent cutouts with subtle decorative motion."
+}
