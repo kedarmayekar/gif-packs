@@ -4091,6 +4091,94 @@
       "title": "Miniature Worlds",
       "price": 65,
       "description": "Realistic transparent cutouts with subtle decorative motion."
+    },
+    {
+      "id": "analog-memories",
+      "category": "AnalogMemories",
+      "version": 39,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-analog-memories-v39/analog-memories-v39.zip",
+      "bytes": 1126180,
+      "sha256": "94b77dfa794734bf54fdb716a035c0cc407f005e5cf259f1ff43e0951d2c13d0",
+      "assets": [
+        {
+          "effectId": "PortableCassettePlayer",
+          "path": "images/PortableCassettePlayer.webp",
+          "bytes": 197778,
+          "sha256": "21e3475e2591cef67410bafa9683de2c40537d9378519debae830252292a7a62",
+          "width": 1024,
+          "height": 1024,
+          "label": "Portable Cassette Player",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "FilmReelPair",
+          "path": "images/FilmReelPair.webp",
+          "bytes": 269718,
+          "sha256": "7ca0fdf5b280dd61a46956cb677c6b7022528f07149070d2c740659e6fd9e003",
+          "width": 1024,
+          "height": 1024,
+          "label": "Film Reel Pair",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "RotaryTelephone",
+          "path": "images/RotaryTelephone.webp",
+          "bytes": 148076,
+          "sha256": "2ae30a7176b29626e694a0ec704c1af8afe2c4297c9a210a3749836db432dcda",
+          "width": 1024,
+          "height": 1024,
+          "label": "Rotary Telephone",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "PocketTransistorRadio",
+          "path": "images/PocketTransistorRadio.webp",
+          "bytes": 265016,
+          "sha256": "3194d6d078764aa16c08462777f003afffe061fc38b8190ba4a448a9a9b1d0be",
+          "width": 1024,
+          "height": 1024,
+          "label": "Pocket Transistor Radio",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "MechanicalTypewriter",
+          "path": "images/MechanicalTypewriter.webp",
+          "bytes": 244890,
+          "sha256": "d5ff2b802481f892ce270216823d9736d7deff134fba388cb797bf6a32ebc0ef",
+          "width": 1024,
+          "height": 1024,
+          "label": "Mechanical Typewriter",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Analog Memories",
+      "price": 65,
+      "description": "Realistic transparent cutouts with subtle decorative motion."
     }
   ]
 }
