@@ -3915,6 +3915,94 @@
       "title": "Botanical Keepsakes",
       "price": 65,
       "description": "Realistic transparent cutouts with subtle decorative motion."
+    },
+    {
+      "id": "celestial-instruments",
+      "category": "CelestialInstruments",
+      "version": 37,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-celestial-instruments-v37/celestial-instruments-v37.zip",
+      "bytes": 1285346,
+      "sha256": "59515f0248d30b58e6cb98707ef747e27c46eafbf8bfeb26c23590eb639ef9ed",
+      "assets": [
+        {
+          "effectId": "BrassAstrolabe",
+          "path": "images/BrassAstrolabe.webp",
+          "bytes": 290298,
+          "sha256": "356d3ef2623f9b7c7577463cb92f51342af310db0c3fdf87f744b3fa6ca2e2c5",
+          "width": 1024,
+          "height": 1024,
+          "label": "Brass Astrolabe",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "ArmillarySphere",
+          "path": "images/ArmillarySphere.webp",
+          "bytes": 250328,
+          "sha256": "11008801393cd569454afedca6a8ee21e78621b257004e0aeeecfb7f66101272",
+          "width": 1024,
+          "height": 1024,
+          "label": "Armillary Sphere",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "MoonPhaseMobile",
+          "path": "images/MoonPhaseMobile.webp",
+          "bytes": 194652,
+          "sha256": "afc21bca0a4ca79313c95b0859209a497eae4f85f9ec7be7c0086c6d4491704d",
+          "width": 1024,
+          "height": 1024,
+          "label": "Moon Phase Mobile",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "CelestialSundial",
+          "path": "images/CelestialSundial.webp",
+          "bytes": 260286,
+          "sha256": "1570a12a7b0df5b8c54a5c72f04b9e444b8a61a02c13b50d0e2c88d94bdae3be",
+          "width": 1024,
+          "height": 1024,
+          "label": "Celestial Sundial",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "OrreryModel",
+          "path": "images/OrreryModel.webp",
+          "bytes": 289118,
+          "sha256": "3f9150a47e8a35b2dcf9f6715f2e668443d49adc33bfae01e38b0c302c3f0ff0",
+          "width": 1024,
+          "height": 1024,
+          "label": "Orrery Model",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Celestial Instruments",
+      "price": 65,
+      "description": "Realistic transparent cutouts with subtle decorative motion."
     }
   ]
 }
