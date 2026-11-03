@@ -1,10 +1,10 @@
 {
   "id": "horror-dark",
   "category": "HorrorDark",
-  "version": 26,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/horror-dark-v26.zip",
-  "bytes": 923418,
-  "sha256": "1b5c2cccf9268093c8d8b2b05f3031796b200cdf8eca03e6d6c07903c260136d",
+  "version": 29,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-dark-details-v29/horror-dark-v29.zip",
+  "bytes": 1561500,
+  "sha256": "611a3d01874c0db35c9a7232d2c6ecf6af8453c6b2428dfdc0f9717dbea73f61",
   "assets": [
     {
       "effectId": "Ravens",
@@ -57,9 +57,84 @@
         "bob": 0.018,
         "rotation": 1.2
       }
+    },
+    {
+      "effectId": "Cobwebs",
+      "path": "images/Cobwebs.webp",
+      "bytes": 191506,
+      "sha256": "5172c18e3e003eb593441062b0d1d99b4150bb467a6bbc3c8e9da769c04652f8",
+      "width": 1024,
+      "height": 683,
+      "label": "Cobwebs",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "BloodDrip",
+      "path": "images/BloodDrip.webp",
+      "bytes": 32258,
+      "sha256": "8ccda5ed13d94de14d9e816b0838eb209a19ed5d3259ba8c15d27112f675397f",
+      "width": 1024,
+      "height": 341,
+      "label": "Blood Drip",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "AgedWaxCandle",
+      "path": "images/AgedWaxCandle.webp",
+      "bytes": 113546,
+      "sha256": "c8ef39c2b095de47662a198c7a14ca780e17ccf999c68dcc383b31c9b72fc41a",
+      "width": 683,
+      "height": 1024,
+      "label": "Aged Wax Candle",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "HauntedLantern",
+      "path": "images/HauntedLantern.webp",
+      "bytes": 132964,
+      "sha256": "d67b7bfd0257fe508caff144cb81328c3fc46f5b4751318edb3cb8b1d54117f0",
+      "width": 683,
+      "height": 1024,
+      "label": "Haunted Lantern",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "WeatheredSkull",
+      "path": "images/WeatheredSkull.webp",
+      "bytes": 167194,
+      "sha256": "4c9715d05f2ef6298a76f9ea2340e19e0c46c13f7f4f77e263a10c40e0ed34f4",
+      "width": 1024,
+      "height": 683,
+      "label": "Weathered Skull",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
     }
   ],
   "title": "HorrorDark",
   "price": 35,
-  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+  "description": "Realistic transparent artwork with bounded decorative motion."
 }
