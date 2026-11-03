@@ -3739,6 +3739,94 @@
       "title": "Textiles Materials",
       "price": 55,
       "description": "Realistic transparent cutouts with subtle decorative motion."
+    },
+    {
+      "id": "ocean-treasures",
+      "category": "OceanTreasures",
+      "version": 35,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-ocean-treasures-v35/ocean-treasures-v35.zip",
+      "bytes": 1394298,
+      "sha256": "e4a6fe2aa9ce7ec3b338dec1f0aeaca7b77046b220ed72107167eea0d02c0080",
+      "assets": [
+        {
+          "effectId": "PearlOyster",
+          "path": "images/PearlOyster.webp",
+          "bytes": 264918,
+          "sha256": "7e154d7a2ed56830cbd05cbacceb54e646aa577f9c48cc023c1402e329ba45c2",
+          "width": 1024,
+          "height": 1024,
+          "label": "Pearl Oyster",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "NautilusShell",
+          "path": "images/NautilusShell.webp",
+          "bytes": 212902,
+          "sha256": "3e9525e8d60d3f44468dc2e1ca2c700af9ddb835bcbe51dacfaacbb65c5da0c4",
+          "width": 1024,
+          "height": 1024,
+          "label": "Nautilus Shell",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "SeaGlassCluster",
+          "path": "images/SeaGlassCluster.webp",
+          "bytes": 221066,
+          "sha256": "67e1ec69e18c68f737df52fcd577c7ebed198fc60cd81ca10d72d6f793408869",
+          "width": 1024,
+          "height": 1024,
+          "label": "Sea Glass Cluster",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "CoralBranchSculpture",
+          "path": "images/CoralBranchSculpture.webp",
+          "bytes": 431344,
+          "sha256": "b450c868c540c9d5f502fb45d3cab1af86757f757e98d38236c0aa2b3e1a032b",
+          "width": 1024,
+          "height": 1024,
+          "label": "Coral Branch Sculpture",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "SandDollarPair",
+          "path": "images/SandDollarPair.webp",
+          "bytes": 263400,
+          "sha256": "8c56380daca6e33717688e4d78f31e30de92d842b39a8dafccbb35b1a33857d9",
+          "width": 1024,
+          "height": 1024,
+          "label": "Sand Dollar Pair",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Ocean Treasures",
+      "price": 65,
+      "description": "Realistic transparent cutouts with subtle decorative motion."
     }
   ]
 }
