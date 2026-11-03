@@ -3087,6 +3087,59 @@
       "title": "Wildlife & Birds",
       "price": 60,
       "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+    },
+    {
+      "id": "festive",
+      "category": "Festive",
+      "version": 27,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-celebration-v27/festive-v27.zip",
+      "bytes": 696516,
+      "sha256": "bc74bf41a18fb641bcdcef2405e0ac9de3bbc782ec7a8b9e5670cc26e3019a34",
+      "assets": [
+        {
+          "effectId": "Balloons",
+          "path": "images/Balloons.webp",
+          "bytes": 119412,
+          "sha256": "5fb99071336d889977b545d43f05590d5acc6f801cacee15a5e1760ca4370a10",
+          "width": 683,
+          "height": 1024
+        },
+        {
+          "effectId": "BalloonsV2",
+          "path": "images/BalloonsV2.webp",
+          "bytes": 183688,
+          "sha256": "7c5177baeff14ecb36f94992db66fc9afa8ddf3d35ed11894008ab17b8211490",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "effectId": "PartyStreamers",
+          "path": "images/PartyStreamers.webp",
+          "bytes": 191208,
+          "sha256": "531551b78ab1444dba22952b4105ea74b59245e71d3470e7ed3d514278708d9d",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "effectId": "StringLights",
+          "path": "images/StringLights.webp",
+          "bytes": 46476,
+          "sha256": "99160babe164c68ee4011976824691e235f99238d692916e235005aaecc65bed",
+          "width": 1024,
+          "height": 341
+        },
+        {
+          "effectId": "Firecrackers",
+          "path": "images/Firecrackers.webp",
+          "bytes": 155098,
+          "sha256": "cbf81ff4c201e35912b9a4fc098beb48f6f52adf59b44d54ee3ce7a23f115f67",
+          "width": 683,
+          "height": 1024
+        }
+      ],
+      "title": "Celebration",
+      "price": 20,
+      "description": "Realistic celebration cutouts with gentle decorative motion."
     }
   ]
 }
