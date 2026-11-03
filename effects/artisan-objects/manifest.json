@@ -1,0 +1,88 @@
+{
+  "id": "artisan-objects",
+  "category": "ArtisanObjects",
+  "version": 40,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-artisan-objects-v40/artisan-objects-v40.zip",
+  "bytes": 1153508,
+  "sha256": "94c5bf2f5266444926f82caa3e7ab8820f7351c475c4d65db7c326e2cf6fcdf9",
+  "assets": [
+    {
+      "effectId": "KintsugiTeaBowl",
+      "path": "images/KintsugiTeaBowl.webp",
+      "bytes": 136450,
+      "sha256": "2bd7fd29367f41e1d33243e023f015a5aff67993f1813d89c2e709e0c059ed59",
+      "width": 1024,
+      "height": 1024,
+      "label": "Kintsugi Tea Bowl",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "BlownGlassVase",
+      "path": "images/BlownGlassVase.webp",
+      "bytes": 209090,
+      "sha256": "bbcab52411159c14fe13fc1ffb3ba74a2bde8a550d0ae965a58bb24493b7925b",
+      "width": 1024,
+      "height": 1024,
+      "label": "Blown Glass Vase",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "MosaicTileMedallion",
+      "path": "images/MosaicTileMedallion.webp",
+      "bytes": 403808,
+      "sha256": "b2edc05ec06e2fc65f1f4231efcdeeaf62cafdeb8cf6a62e7d9155b22ffcb649",
+      "width": 1024,
+      "height": 1024,
+      "label": "Mosaic Tile Medallion",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "CarvedWoodBird",
+      "path": "images/CarvedWoodBird.webp",
+      "bytes": 173976,
+      "sha256": "10c4908aba37663dc1c1f7d24a398b1628c6578f5e4340873fd24f67023c721e",
+      "width": 1024,
+      "height": 1024,
+      "label": "Carved Wood Bird",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "WovenDreamHoop",
+      "path": "images/WovenDreamHoop.webp",
+      "bytes": 229510,
+      "sha256": "d1dd40a83712ba6208de11dd001d6db9a987f0e04b69d414db71b23a212d4d6a",
+      "width": 1024,
+      "height": 1024,
+      "label": "Woven Dream Hoop",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Artisan Objects",
+  "price": 65,
+  "description": "Realistic transparent cutouts with subtle decorative motion."
+}
