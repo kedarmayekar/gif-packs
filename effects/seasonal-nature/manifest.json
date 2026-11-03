@@ -1,0 +1,28 @@
+{
+  "id": "seasonal-nature",
+  "category": "SeasonalNature",
+  "version": 34,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-winter-details-v34/seasonal-nature-v34.zip",
+  "bytes": 197300,
+  "sha256": "2b2e83a1953384fae47e14a2d2da9f9c9200311feb715382e7fdf9df49400208",
+  "assets": [
+    {
+      "effectId": "Snowman",
+      "path": "images/Snowman.webp",
+      "bytes": 197164,
+      "sha256": "c216d1816801887d9f342b2b32e99a7709d6bd4b58ac088490300536b37fc54f",
+      "width": 1024,
+      "height": 1024,
+      "label": "Snowman",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Seasonal Nature",
+  "price": 15,
+  "description": "Realistic transparent cutouts with subtle decorative motion."
+}
