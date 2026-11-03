@@ -1,0 +1,73 @@
+{
+  "id": "cosmic",
+  "category": "Cosmic",
+  "version": 30,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-cosmic-objects-v30/cosmic-v30.zip",
+  "bytes": 740706,
+  "sha256": "edba16ba9232c4a175335e1f88277cf419dbf396df053245a5e97759d1eb47a6",
+  "assets": [
+    {
+      "effectId": "Comet",
+      "path": "images/Comet.webp",
+      "bytes": 131546,
+      "sha256": "a555eaf1e8e0e38e0a681e1d06d27810e7262b7d26fccae0266a926e826ca71b",
+      "width": 1024,
+      "height": 512,
+      "label": "Comet",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Nebula",
+      "path": "images/Nebula.webp",
+      "bytes": 194124,
+      "sha256": "13ba22e246a7ff10bfcc7820f5fdf95e2d34a2d85df84c1745c2d4357289af54",
+      "width": 1024,
+      "height": 683,
+      "label": "Nebula",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "CelestialTears",
+      "path": "images/CelestialTears.webp",
+      "bytes": 296410,
+      "sha256": "040744c8b422a34c0456da8af013510f0dade401f7e7a72c6f453c64084d3149",
+      "width": 936,
+      "height": 1024,
+      "label": "Celestial Tears",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "Pulsar",
+      "path": "images/Pulsar.webp",
+      "bytes": 118142,
+      "sha256": "ee3ac646ba77ec48cb0bdce62219a19ed81eeb23e5fa9378fa54f35bcbc85a6b",
+      "width": 1024,
+      "height": 683,
+      "label": "Pulsar",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Cosmic",
+  "price": 0,
+  "description": "Realistic transparent artwork with bounded decorative motion."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "elements",
+  "category": "Elements",
+  "version": 30,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-cosmic-objects-v30/elements-v30.zip",
+  "bytes": 242404,
+  "sha256": "56c1bbaa6ebdfb090aa04237e67e91f3ff5b8c79fdd02be7917a97eb603d1970",
+  "assets": [
+    {
+      "effectId": "GalaxySpiral",
+      "path": "images/GalaxySpiral.webp",
+      "bytes": 242258,
+      "sha256": "2830fc589bee3312e4a7c70651a5b880caccd1f33cf1e6ca7bd2ed573329ae5f",
+      "width": 1024,
+      "height": 683,
+      "label": "Galaxy Spiral",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Elements",
+  "price": 0,
+  "description": "Realistic transparent artwork with bounded decorative motion."
+}
