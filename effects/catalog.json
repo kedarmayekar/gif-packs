@@ -1947,10 +1947,10 @@
     {
       "id": "art-creativity",
       "category": "ArtCreativity",
-      "version": 25,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/art-creativity-v25.zip",
-      "bytes": 74322,
-      "sha256": "d549cfcd8f186c056445b11c24da45f03e4f17d1d4ca647fcb3a41a1d9dcc373",
+      "version": 28,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/art-creativity-v28.zip",
+      "bytes": 431862,
+      "sha256": "2c69aec818317abce74c58e4bcf0c651fc3cd56e2134885e040dbf0b56d192c2",
       "assets": [
         {
           "effectId": "OrigamiCrane",
@@ -1966,11 +1966,26 @@
             "rotation": 1.2,
             "sparkle": false
           }
+        },
+        {
+          "effectId": "StainedGlass",
+          "path": "images/StainedGlass.webp",
+          "bytes": 357416,
+          "sha256": "10ee641203e4b5ed1ecb0a65dd636969fb0aa846b7b3667760f06e25d4b6800d",
+          "width": 1024,
+          "height": 936,
+          "label": "Stained Glass",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         }
       ],
       "title": "Art & Creativity",
       "price": 50,
-      "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+      "description": "Realistic transparent artwork with bounded decorative motion."
     },
     {
       "id": "music-performance",
@@ -2329,10 +2344,10 @@
     {
       "id": "ice-arctic",
       "category": "IceArctic",
-      "version": 26,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/ice-arctic-v26.zip",
-      "bytes": 836598,
-      "sha256": "64b2100a41c4bf6ac69e0cda1a9480dc8ae50c57bea1cc9ae03324ed94de31ea",
+      "version": 28,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/ice-arctic-v28.zip",
+      "bytes": 1283826,
+      "sha256": "4575c4f6656002c7c1a2cb83572dac3b8eea49bba59ac328dea369cc71a20888",
       "assets": [
         {
           "effectId": "Glacier",
@@ -2372,11 +2387,41 @@
             "bob": 0.018,
             "rotation": 1.2
           }
+        },
+        {
+          "effectId": "Ice",
+          "path": "images/Ice.webp",
+          "bytes": 236682,
+          "sha256": "e5692e70ce24cf9514c3ca29fd7ea1a450e3febbf9e194c6260be70d11ab2c26",
+          "width": 1024,
+          "height": 683,
+          "label": "Ice",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "IceShards",
+          "path": "images/IceShards.webp",
+          "bytes": 210322,
+          "sha256": "aa4a4573828a5b83a7590386a81af24b403727a7a2f5eb69925224ba8be0c2d3",
+          "width": 1024,
+          "height": 683,
+          "label": "Ice Shards",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         }
       ],
       "title": "IceArctic",
       "price": 25,
-      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+      "description": "Realistic transparent artwork with bounded decorative motion."
     },
     {
       "id": "jungle-safari",
@@ -3140,6 +3185,62 @@
       "title": "Celebration",
       "price": 20,
       "description": "Realistic celebration cutouts with gentle decorative motion."
+    },
+    {
+      "id": "abstract-geometric",
+      "category": "AbstractGeometric",
+      "version": 28,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/abstract-geometric-v28.zip",
+      "bytes": 143144,
+      "sha256": "0adcbb713fb756edbe6ff6a83e5fce1d285f4a89d3525bc1c67b44872b052823",
+      "assets": [
+        {
+          "effectId": "CrystalShards",
+          "path": "images/CrystalShards.webp",
+          "bytes": 142996,
+          "sha256": "8a1ae15e45182243deb63485c9f972f754bc224b65f9f90d12d2327de151b9e8",
+          "width": 1024,
+          "height": 683,
+          "label": "Crystal Shards",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "AbstractGeometric",
+      "price": 30,
+      "description": "Realistic transparent artwork with bounded decorative motion."
+    },
+    {
+      "id": "magic",
+      "category": "Magic",
+      "version": 28,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/magic-v28.zip",
+      "bytes": 200654,
+      "sha256": "7e4add9e1d418f5a4423684f3b7bf88b3a40fcfa4290850520cb7c401431e560",
+      "assets": [
+        {
+          "effectId": "LiquidGlass",
+          "path": "images/LiquidGlass.webp",
+          "bytes": 200510,
+          "sha256": "133c70f794aea56fe1f7a38a2c78c3d099b10636450aa6d69d949bfdf91d09f6",
+          "width": 1024,
+          "height": 683,
+          "label": "Liquid Glass",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Magic",
+      "price": 0,
+      "description": "Realistic transparent artwork with bounded decorative motion."
     }
   ]
 }

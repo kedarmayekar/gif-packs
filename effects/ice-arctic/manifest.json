@@ -1,10 +1,10 @@
 {
   "id": "ice-arctic",
   "category": "IceArctic",
-  "version": 26,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/ice-arctic-v26.zip",
-  "bytes": 836598,
-  "sha256": "64b2100a41c4bf6ac69e0cda1a9480dc8ae50c57bea1cc9ae03324ed94de31ea",
+  "version": 28,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/ice-arctic-v28.zip",
+  "bytes": 1283826,
+  "sha256": "4575c4f6656002c7c1a2cb83572dac3b8eea49bba59ac328dea369cc71a20888",
   "assets": [
     {
       "effectId": "Glacier",
@@ -44,9 +44,39 @@
         "bob": 0.018,
         "rotation": 1.2
       }
+    },
+    {
+      "effectId": "Ice",
+      "path": "images/Ice.webp",
+      "bytes": 236682,
+      "sha256": "e5692e70ce24cf9514c3ca29fd7ea1a450e3febbf9e194c6260be70d11ab2c26",
+      "width": 1024,
+      "height": 683,
+      "label": "Ice",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "IceShards",
+      "path": "images/IceShards.webp",
+      "bytes": 210322,
+      "sha256": "aa4a4573828a5b83a7590386a81af24b403727a7a2f5eb69925224ba8be0c2d3",
+      "width": 1024,
+      "height": 683,
+      "label": "Ice Shards",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
     }
   ],
   "title": "IceArctic",
   "price": 25,
-  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+  "description": "Realistic transparent artwork with bounded decorative motion."
 }

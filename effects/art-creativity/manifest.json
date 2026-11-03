@@ -1,10 +1,10 @@
 {
   "id": "art-creativity",
   "category": "ArtCreativity",
-  "version": 25,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-objects-v25/art-creativity-v25.zip",
-  "bytes": 74322,
-  "sha256": "d549cfcd8f186c056445b11c24da45f03e4f17d1d4ca647fcb3a41a1d9dcc373",
+  "version": 28,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/art-creativity-v28.zip",
+  "bytes": 431862,
+  "sha256": "2c69aec818317abce74c58e4bcf0c651fc3cd56e2134885e040dbf0b56d192c2",
   "assets": [
     {
       "effectId": "OrigamiCrane",
@@ -20,9 +20,24 @@
         "rotation": 1.2,
         "sparkle": false
       }
+    },
+    {
+      "effectId": "StainedGlass",
+      "path": "images/StainedGlass.webp",
+      "bytes": 357416,
+      "sha256": "10ee641203e4b5ed1ecb0a65dd636969fb0aa846b7b3667760f06e25d4b6800d",
+      "width": 1024,
+      "height": 936,
+      "label": "Stained Glass",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
     }
   ],
   "title": "Art & Creativity",
   "price": 50,
-  "description": "Realistic transparent counterparts of existing effects with gentle app-driven motion."
+  "description": "Realistic transparent artwork with bounded decorative motion."
 }

@@ -1,0 +1,28 @@
+{
+  "id": "magic",
+  "category": "Magic",
+  "version": 28,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/magic-v28.zip",
+  "bytes": 200654,
+  "sha256": "7e4add9e1d418f5a4423684f3b7bf88b3a40fcfa4290850520cb7c401431e560",
+  "assets": [
+    {
+      "effectId": "LiquidGlass",
+      "path": "images/LiquidGlass.webp",
+      "bytes": 200510,
+      "sha256": "133c70f794aea56fe1f7a38a2c78c3d099b10636450aa6d69d949bfdf91d09f6",
+      "width": 1024,
+      "height": 683,
+      "label": "Liquid Glass",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Magic",
+  "price": 0,
+  "description": "Realistic transparent artwork with bounded decorative motion."
+}

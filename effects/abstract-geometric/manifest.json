@@ -1,0 +1,28 @@
+{
+  "id": "abstract-geometric",
+  "category": "AbstractGeometric",
+  "version": 28,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/abstract-geometric-v28.zip",
+  "bytes": 143144,
+  "sha256": "0adcbb713fb756edbe6ff6a83e5fce1d285f4a89d3525bc1c67b44872b052823",
+  "assets": [
+    {
+      "effectId": "CrystalShards",
+      "path": "images/CrystalShards.webp",
+      "bytes": 142996,
+      "sha256": "8a1ae15e45182243deb63485c9f972f754bc224b65f9f90d12d2327de151b9e8",
+      "width": 1024,
+      "height": 683,
+      "label": "Crystal Shards",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "AbstractGeometric",
+  "price": 30,
+  "description": "Realistic transparent artwork with bounded decorative motion."
+}
