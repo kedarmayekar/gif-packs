@@ -1,0 +1,88 @@
+{
+  "id": "botanical-keepsakes",
+  "category": "BotanicalKeepsakes",
+  "version": 36,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-botanical-keepsakes-v36/botanical-keepsakes-v36.zip",
+  "bytes": 1359026,
+  "sha256": "a66ae4fbbe790c054de049c66c6fe2f9b79a9df2b5fedc036f6b10d287043e3c",
+  "assets": [
+    {
+      "effectId": "PressedFernFrame",
+      "path": "images/PressedFernFrame.webp",
+      "bytes": 353794,
+      "sha256": "6c0d0533f0a87674bbae6e09519c6f90db15e8f54fa4ec2ce685e6f6dae6b61a",
+      "width": 1024,
+      "height": 1024,
+      "label": "Pressed Fern Frame",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "GlassTerrarium",
+      "path": "images/GlassTerrarium.webp",
+      "bytes": 295718,
+      "sha256": "433fb92470b6e3c1976b9f96d552ee98279aed7089434d704d6f70e3d13dc015",
+      "width": 1024,
+      "height": 1024,
+      "label": "Glass Terrarium",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "DriedFlowerBundle",
+      "path": "images/DriedFlowerBundle.webp",
+      "bytes": 276304,
+      "sha256": "6fbda1735e7f0efff844d4bfc14602011acd6e2cef644a0a57abd7989b72a65b",
+      "width": 1024,
+      "height": 1024,
+      "label": "Dried Flower Bundle",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "SeedPodArrangement",
+      "path": "images/SeedPodArrangement.webp",
+      "bytes": 248338,
+      "sha256": "051da2ede9f455eb3db3efd54675ff019de5ba6b69973147e19331165b70533f",
+      "width": 1024,
+      "height": 1024,
+      "label": "Seed Pod Arrangement",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    },
+    {
+      "effectId": "MonsteraLeafCutting",
+      "path": "images/MonsteraLeafCutting.webp",
+      "bytes": 184182,
+      "sha256": "8b3cd5f2bceb5e5b0d09b877b827b2984af8a06d9b99765bc0dfea5d544b353a",
+      "width": 1024,
+      "height": 1024,
+      "label": "Monstera Leaf Cutting",
+      "motion": {
+        "bob": 0.008,
+        "drift": 0,
+        "rotation": 0.5,
+        "sparkle": false
+      }
+    }
+  ],
+  "title": "Botanical Keepsakes",
+  "price": 65,
+  "description": "Realistic transparent cutouts with subtle decorative motion."
+}
