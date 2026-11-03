@@ -1,10 +1,10 @@
 {
   "id": "objects",
   "category": "Objects",
-  "version": 26,
-  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/objects-v26.zip",
-  "bytes": 567786,
-  "sha256": "c70dc3ac3788ea99fd53fa1af62e073f823b034f661096e97dac694019df9be8",
+  "version": 31,
+  "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-magical-artifacts-v31/objects-v31.zip",
+  "bytes": 701616,
+  "sha256": "2add67b67688e8d9ae0b480dfccb55afaf154e0fb6cb1e276be02ebd943f960b",
   "assets": [
     {
       "effectId": "Sword",
@@ -63,9 +63,24 @@
         "bob": 0.018,
         "rotation": 1.2
       }
+    },
+    {
+      "effectId": "EnergyOrb",
+      "path": "images/EnergyOrb.webp",
+      "bytes": 133712,
+      "sha256": "e4cba511073b3cc849786b16c1593cf894e91d35907a5cb9ea63c454da60927f",
+      "width": 1024,
+      "height": 683,
+      "label": "Energy Orb",
+      "motion": {
+        "bob": 0.018,
+        "drift": 0,
+        "rotation": 1.2,
+        "sparkle": false
+      }
     }
   ],
   "title": "Objects",
   "price": 10,
-  "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+  "description": "Realistic transparent artwork with bounded decorative motion."
 }

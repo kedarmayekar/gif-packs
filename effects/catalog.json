@@ -2048,10 +2048,10 @@
     {
       "id": "objects",
       "category": "Objects",
-      "version": 26,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-remaining-v26/objects-v26.zip",
-      "bytes": 567786,
-      "sha256": "c70dc3ac3788ea99fd53fa1af62e073f823b034f661096e97dac694019df9be8",
+      "version": 31,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-magical-artifacts-v31/objects-v31.zip",
+      "bytes": 701616,
+      "sha256": "2add67b67688e8d9ae0b480dfccb55afaf154e0fb6cb1e276be02ebd943f960b",
       "assets": [
         {
           "effectId": "Sword",
@@ -2110,11 +2110,26 @@
             "bob": 0.018,
             "rotation": 1.2
           }
+        },
+        {
+          "effectId": "EnergyOrb",
+          "path": "images/EnergyOrb.webp",
+          "bytes": 133712,
+          "sha256": "e4cba511073b3cc849786b16c1593cf894e91d35907a5cb9ea63c454da60927f",
+          "width": 1024,
+          "height": 683,
+          "label": "Energy Orb",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
         }
       ],
       "title": "Objects",
       "price": 10,
-      "description": "Realistic transparent assets with bounded app-driven motion. Terrain assets are isolated dioramas."
+      "description": "Realistic transparent artwork with bounded decorative motion."
     },
     {
       "id": "ambient-cozy",
@@ -3292,10 +3307,10 @@
     {
       "id": "magic",
       "category": "Magic",
-      "version": 28,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/magic-v28.zip",
-      "bytes": 200654,
-      "sha256": "7e4add9e1d418f5a4423684f3b7bf88b3a40fcfa4290850520cb7c401431e560",
+      "version": 31,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-magical-artifacts-v31/magic-v31.zip",
+      "bytes": 763824,
+      "sha256": "e80a9452236949dc917048854ec91a499e7456a9289b57f0dafac7a498b6fc3e",
       "assets": [
         {
           "effectId": "LiquidGlass",
@@ -3305,6 +3320,66 @@
           "width": 1024,
           "height": 683,
           "label": "Liquid Glass",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "RuneCircle",
+          "path": "images/RuneCircle.webp",
+          "bytes": 180020,
+          "sha256": "8b19cb6eb7703739188b850b401268ed71b943a8a5523532b8616d2588543f2d",
+          "width": 1024,
+          "height": 683,
+          "label": "Rune Circle",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "EnchantedSpellScroll",
+          "path": "images/EnchantedSpellScroll.webp",
+          "bytes": 242368,
+          "sha256": "58c9ec50ea7555bdd4941193ec357b7f68d0b438db29ab68cf7dc6378fbcc492",
+          "width": 1024,
+          "height": 683,
+          "label": "Enchanted Spell Scroll",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "EnchantedAmulet",
+          "path": "images/EnchantedAmulet.webp",
+          "bytes": 98108,
+          "sha256": "cd5aed746cbe702bad3438c895282fbd8cbbef903b46b139a71eeb14a9ab12cb",
+          "width": 1024,
+          "height": 683,
+          "label": "Enchanted Amulet",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "CrystalWand",
+          "path": "images/CrystalWand.webp",
+          "bytes": 42162,
+          "sha256": "8fd4e0d5702ec86e3f9aae7cab63f3079fc6caa30e3d96b23fbcbbc47e24c9fd",
+          "width": 1024,
+          "height": 341,
+          "label": "Crystal Wand",
           "motion": {
             "bob": 0.018,
             "drift": 0,
