@@ -4003,6 +4003,94 @@
       "title": "Celestial Instruments",
       "price": 65,
       "description": "Realistic transparent cutouts with subtle decorative motion."
+    },
+    {
+      "id": "miniature-worlds",
+      "category": "MiniatureWorlds",
+      "version": 38,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-miniature-worlds-v38/miniature-worlds-v38.zip",
+      "bytes": 1820114,
+      "sha256": "3a947621549a1f3d56122779802747bb740eeca1d80b14f7e817c44408270356",
+      "assets": [
+        {
+          "effectId": "FloatingGardenIsland",
+          "path": "images/FloatingGardenIsland.webp",
+          "bytes": 380298,
+          "sha256": "eb5da411f16dc3c8c41fb3b1833073bb683a935a19869df10e9ada527506fe5f",
+          "width": 1024,
+          "height": 1024,
+          "label": "Floating Garden Island",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "LighthouseRockDiorama",
+          "path": "images/LighthouseRockDiorama.webp",
+          "bytes": 239432,
+          "sha256": "a23437c15c3921c09a8ffc7be98c0bcbf6e8885ce1353991341f9468de6f7f42",
+          "width": 1024,
+          "height": 1024,
+          "label": "Lighthouse Rock Diorama",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "DesertOasisDiorama",
+          "path": "images/DesertOasisDiorama.webp",
+          "bytes": 411188,
+          "sha256": "f74105d083f5177284c7a34fc47a198269232a9902ee59c22c803450e5da217d",
+          "width": 1024,
+          "height": 1024,
+          "label": "Desert Oasis Diorama",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "WatermillCottageDiorama",
+          "path": "images/WatermillCottageDiorama.webp",
+          "bytes": 411786,
+          "sha256": "d0809794c7a5d1edf56151044d8dd361a8c8a1719021300492bef9deb2b3b8c2",
+          "width": 1024,
+          "height": 1024,
+          "label": "Watermill Cottage Diorama",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "MountainShrineDiorama",
+          "path": "images/MountainShrineDiorama.webp",
+          "bytes": 376682,
+          "sha256": "b2b315c29697374c314bb3ab465ee0deffc749d324c004dc4adcfee40b1607f6",
+          "width": 1024,
+          "height": 1024,
+          "label": "Mountain Shrine Diorama",
+          "motion": {
+            "bob": 0.008,
+            "drift": 0,
+            "rotation": 0.5,
+            "sparkle": false
+          }
+        }
+      ],
+      "title": "Miniature Worlds",
+      "price": 65,
+      "description": "Realistic transparent cutouts with subtle decorative motion."
     }
   ]
 }
