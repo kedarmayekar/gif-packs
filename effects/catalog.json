@@ -1947,10 +1947,10 @@
     {
       "id": "art-creativity",
       "category": "ArtCreativity",
-      "version": 28,
-      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-glass-ice-v28/art-creativity-v28.zip",
-      "bytes": 431862,
-      "sha256": "2c69aec818317abce74c58e4bcf0c651fc3cd56e2134885e040dbf0b56d192c2",
+      "version": 32,
+      "archiveUrl": "https://github.com/kedarmayekar/gif-packs/releases/download/effects-creative-textures-v32/art-creativity-v32.zip",
+      "bytes": 1679686,
+      "sha256": "e0ef112be24fb42a657b2de83a18fabd7be2f2cd906d289b9e46182dc21cc7ea",
       "assets": [
         {
           "effectId": "OrigamiCrane",
@@ -1975,6 +1975,81 @@
           "width": 1024,
           "height": 936,
           "label": "Stained Glass",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "PaintSplash",
+          "path": "images/PaintSplash.webp",
+          "bytes": 192416,
+          "sha256": "0e38801e912713496dfe0be58ab70a68ffe58319172a2bd79b52579526d9faa5",
+          "width": 1024,
+          "height": 683,
+          "label": "Paint Splash",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "ArtistInkCloud",
+          "path": "images/ArtistInkCloud.webp",
+          "bytes": 227518,
+          "sha256": "340a69233eb7c8f8545414672aa4574a24dcaf7d82c48c5bab5396e62ca4cd58",
+          "width": 1024,
+          "height": 683,
+          "label": "Artist Ink Cloud",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "PigmentDust",
+          "path": "images/PigmentDust.webp",
+          "bytes": 319052,
+          "sha256": "12e8faed64d48c86d9721cf9b91888759f92551c2368d5fd195bf04cf2d32d97",
+          "width": 1024,
+          "height": 683,
+          "label": "Pigment Dust",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "GoldLeafFragments",
+          "path": "images/GoldLeafFragments.webp",
+          "bytes": 236326,
+          "sha256": "bb996b1df102aad1b47e3911fbf86287277c0976fccc944666c45a8ebe8c439d",
+          "width": 1024,
+          "height": 683,
+          "label": "Gold Leaf Fragments",
+          "motion": {
+            "bob": 0.018,
+            "drift": 0,
+            "rotation": 1.2,
+            "sparkle": false
+          }
+        },
+        {
+          "effectId": "TornPaperShapes",
+          "path": "images/TornPaperShapes.webp",
+          "bytes": 271876,
+          "sha256": "e398e5514a67933bcd4d61bfefe39ee984231dda15e14efb90c48b59308f4451",
+          "width": 1024,
+          "height": 683,
+          "label": "Torn Paper Shapes",
           "motion": {
             "bob": 0.018,
             "drift": 0,
